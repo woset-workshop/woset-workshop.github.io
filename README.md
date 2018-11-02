@@ -7,7 +7,7 @@ For inquires, please contact Sherief Reda
 [Article 1: LGraph: A multilanguage open-source database](PDFs/a1.pdf).  
 Rafael Trapani Possignolo, Sheng Hong Wang, Haven Skinner and Jose Renau
 
-[Article 2: OpenPiton: An Emerging Standard for Open-Source EDA Tool Development](PDFs/a2.pdf). 
+[Article 2: OpenPiton: An Emerging Standard for Open-Source EDA Tool Development](PDFs/a2.pdf).     
 Jonathan Balkind, Alexey Lavrov, Michael McKeown, Yaosheng Fu, Tri Nguyen, Mohammad Shahrad, Ang Li, Katie Lim, Yanqi Zhou, Ting-Jung Chang, Paul Jackson, Adi Fuchs, Samuel Payne, Xiaohua Liang, Matthew Matl and David Wentzlaff
 
 
@@ -23,71 +23,70 @@ Jinwook Jung, Iris Hui-Ru Jiang, Jianli Chen, Shih-Ting Lin, Yih-Lang Li, Victor
 Mateus Fogaça, Jucemar Monteiro, Marcelo Johann and Ricardo Reis
 
 
-Article 6: An Almost-There, Open-Source Netlist Through Detailed Routing Tool Chain for FinFET Nodes.  
+[Article 6: An Almost-There, Open-Source Netlist Through Detailed Routing Tool Chain for FinFET Nodes](PDFs/a6.pdf).  
 Bangqi Xu, Andrew B. Kahng, Mingyu Woo, Uday Mallappa, Minsoo Kim, Mateus Fogaça and Ricardo Reis
 
-Article 7: Parallel Tools for Asynchronous VLSI Systems.  
+[Article 7: Parallel Tools for Asynchronous VLSI Systems](PDFs/a7.pdf).  
 Yi-Shan Lu, Samira Ataei, Jiayuan He, Wenmian Hua, Sepideh Maleki, Yihang Yang, Martin Burtscher, Keshav Pingali and Rajit Manohar
 
-Article 8: ARL:UT’s Experiences in the Free Open-Source VLSI EDA Landscape.  
+[Article 8: ARL:UT’s Experiences in the Free Open-Source VLSI EDA Landscape](PDFs/a8.pdf). 
 Russell Friesenhahn and Johnathan York
 
-Article 9: How to Make Open-Source EDA Project Sustainable: a Perspective from Industry
+[Article 9: How to Make Open-Source EDA Project Sustainable: a Perspective from Industry](PDFs/a9.pdf).  
 Frank Liu
 
-Article 10: SystemVerilog Productivity Tools
+[Article 10: SystemVerilog Productivity Tools](PDFs/a10.pdf).  
 David Fang
 
-Article 11: Invoking and Linking Generators from Multiple Hardware Languages using CoreIR
+[Article 11: Invoking and Linking Generators from Multiple Hardware Languages using CoreIR](PDFs/a11.pdf).  
 Ross Daly, Leonard Truong and Pat Hanrahan
 
-Article 12: Open-source SoC Workflow in Cloud V	
+[Article 12: Open-source SoC Workflow in Cloud V](PDFs/a12.pdf).  
 Sherief Reda and Mohamed Shalan
 
-Article 13: An Open-Source Python-based Hardware Generation, Simulation, and Verification Framework
+[Article 13: An Open-Source Python-based Hardware Generation, Simulation, and Verification Framework](PDFs/a13.pdf).  
 Shunning Jiang, Christopher Torng and Christopher Batten
 
-Article 14: An Open Source Code Base for Digital Circuit Analysis, Simulation, and Modification
+[Article 14: An Open Source Code Base for Digital Circuit Analysis, Simulation, and Modification](PDFs/a14.pdf).  
 Spencer Millican
 
-Article 15: Xyce: Open Source Simulation for Large-Scale Circuits
+[Article 15: Xyce: Open Source Simulation for Large-Scale Circuits](PDFs/a15.pdf).  
 Jason Verley, Eric Keiter and Heidi Thornquist
 
-Article 16: System-on-chip Scheduling Benchmarks for New Technologies
+[Article 16: System-on-chip Scheduling Benchmarks for New Technologies](PDFs/a16.pdf).  
 Spencer Millican and Kewal Saluja
 
-Article 17: The EPFL Logic Synthesis Libraries
+[Article 17: The EPFL Logic Synthesis Libraries](PDFs/a17.pdf).  
 Mathias Soeken, Heinz Riener, Winston Haaswijk, Eleonora Testa and Giovanni De Micheli
 
-Article 18: Hierarchical Asynchronous Circuit Kompiler Toolkit
+[Article 18: Hierarchical Asynchronous Circuit Kompiler Toolkit](PDFs/a18.pdf).  
 David Fang
 
-Article 19: RISC: Recoding Infrastructure for SystemC, Open Source Framework for Parallel Simulation
+[Article 19: RISC: Recoding Infrastructure for SystemC, Open Source Framework for Parallel Simulation](PDFs/a19.pdf).  
 Rainer Doemer, Zhongqi Cheng, Daniel Mendoza and Ajit Dingankar
 
-Article 20: An EDA Tool for Co-designing High-Performance Processors and Emerging Cooling Technologies
+[Article 20: An EDA Tool for Co-designing High-Performance Processors and Emerging Cooling Technologies](PDFs/a20.pdf).  
 Zihao Yuan, Geoffrey Vaartstra, Prachi Shukla, Mostafa Said, Sherief Reda, Evelyn Wang and Ayse Kivilcim Coskun
 
-Article 21: METRICS 2.0: A Machine-Learning Based Optimization System for IC Design
+[Article 21: METRICS 2.0: A Machine-Learning Based Optimization System for IC Design](PDFs/a21.pdf).  
 Soheil Hashemi, Andrew Kahng, Sherief Reda and Mingyu Woo
 
-Article 22: TESTCAD: A Verified Education Toolset for a Course in Digital Testing
+[Article 22: TESTCAD: A Verified Education Toolset for a Course in Digital Testing](PDFs/a22.pdf).  
 Spencer Millican and Kewal Saluja
 
-
-Article 23: OpenTimer 2.0: A High-performance Timing Analysis Tool for VLSI Systems
+[Article 23: OpenTimer 2.0: A High-performance Timing Analysis Tool for VLSI Systems](PDFs/a23.pdf).  
 Tsung-Wei Huang, Chun-Xun Lin and Martin Wong
 
-Article 24: Low-Power Design with Open-Source Hardware: Opportunities and Challenges
+[Article 24: Low-Power Design with Open-Source Hardware: Opportunities and Challenges](PDFs/a24.pdf).  
 Vaibhav Verma, Xinfei Guo and Mircea Stan
 
-Article 25: Ophidian: an Open-Source Library for Physical Design Research and Teaching
+[Article 25: Ophidian: an Open-Source Library for Physical Design Research and Teaching](PDFs/a25.pdf).  
 Renan Netto, Tiago Augusto Fontana, Sheiny Fabre, Bernardo Ferrari, Vinicius Livramento, Thiago Barbato, João Souto, Chrystian Guth, Laércio Pilla and José Luís Güntzel
 
-Article 26: OpenMPL: An Open Source Layout Decomposer
+[Article 26: OpenMPL: An Open Source Layout Decomposer](PDFs/a26.pdf).    
 Qi Sun, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu and David Z. Pan
 
-Article 27: Hammer: Enabling Reusable Physical Design
+[Article 27: Hammer: Enabling Reusable Physical Design](PDFs/a27.pdf).  
 Edward Wang, Adam Izraelevitz, Colin Schmidt, Borivoje Nikolić, Elad Alon and Jonathan Bachrach
 
 
