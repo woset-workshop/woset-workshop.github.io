@@ -4,8 +4,8 @@ For inquires, please contact Sherief Reda
 (sherief_reda&lt;AT&gt;brown.edu)
 
 
+[Article 1: LGraph: A multilanguage open-source database](PDFs/a1.pdf)
 
-Article 1: LGraph: A multilanguage open-source database
 Rafael Trapani Possignolo, Sheng Hong Wang, Haven Skinner and Jose Renau
 
 Article 2: OpenPiton: An Emerging Standard for Open-Source EDA Tool Development
