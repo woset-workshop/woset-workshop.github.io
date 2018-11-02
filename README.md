@@ -11,25 +11,25 @@ Rafael Trapani Possignolo, Sheng Hong Wang, Haven Skinner and Jose Renau
 Jonathan Balkind, Alexey Lavrov, Michael McKeown, Yaosheng Fu, Tri Nguyen, Mohammad Shahrad, Ang Li, Katie Lim, Yanqi Zhou, Ting-Jung Chang, Paul Jackson, Adi Fuchs, Samuel Payne, Xiaohua Liang, Matthew Matl and David Wentzlaff
 
 
-[Article 3: Cpp-Taskflow: Fast Parallel Programming with Task Dependency Graphs](PDFs/a3.pdf). 
+[Article 3: Cpp-Taskflow: Fast Parallel Programming with Task Dependency Graphs](PDFs/a3.pdf).  
 Chun-Xun Lin, Tsung-Wei Huang, Guannan Guo and Martin Wong
 
 
-[Article 4: DATC RDF: An Open Design Flow from Logic Synthesis to Detailed Routing](PDFs/a4.pdf). 
+[Article 4: DATC RDF: An Open Design Flow from Logic Synthesis to Detailed Routing](PDFs/a4.pdf).  
 Jinwook Jung, Iris Hui-Ru Jiang, Jianli Chen, Shih-Ting Lin, Yih-Lang Li, Victor N. Kravets and Gi-Joon Nam
 
 
-[Article 5: Rsyn - A Physical Synthesis Framework for Research and Education](PDFs/a5.pdf)
+[Article 5: Rsyn - A Physical Synthesis Framework for Research and Education](PDFs/a5.pdf).  
 Mateus Fogaça, Jucemar Monteiro, Marcelo Johann and Ricardo Reis
 
 
-Article 6: An Almost-There, Open-Source Netlist Through Detailed Routing Tool Chain for FinFET Nodes
+Article 6: An Almost-There, Open-Source Netlist Through Detailed Routing Tool Chain for FinFET Nodes.  
 Bangqi Xu, Andrew B. Kahng, Mingyu Woo, Uday Mallappa, Minsoo Kim, Mateus Fogaça and Ricardo Reis
 
-Article 7: Parallel Tools for Asynchronous VLSI Systems
+Article 7: Parallel Tools for Asynchronous VLSI Systems.  
 Yi-Shan Lu, Samira Ataei, Jiayuan He, Wenmian Hua, Sepideh Maleki, Yihang Yang, Martin Burtscher, Keshav Pingali and Rajit Manohar
 
-Article 8: ARL:UT’s Experiences in the Free Open-Source VLSI EDA Landscape
+Article 8: ARL:UT’s Experiences in the Free Open-Source VLSI EDA Landscape.  
 Russell Friesenhahn and Johnathan York
 
 Article 9: How to Make Open-Source EDA Project Sustainable: a Perspective from Industry
