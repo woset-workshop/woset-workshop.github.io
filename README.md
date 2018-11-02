@@ -1,7 +1,4 @@
-# woset-workshop.github.io
-<p class=MsoNormalCxSpFirst><b style='mso-bidi-font-weight:normal'><u><span
-lang=EN style='font-size:12.0pt;line-height:115%'>Proceedings of Workshop on
-Open-Source EDA Technology (WOSET) 2018<o:p></o:p></span></u></b></p>
+# Proceedings of WOSET 2018 Workshop
 
 <p class=MsoNormalCxSpMiddle><span lang=EN style='font-size:10.0pt;line-height:
 115%;mso-bidi-font-weight:bold'>For inquires, please contact Sherief Reda
