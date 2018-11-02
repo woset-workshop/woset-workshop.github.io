@@ -29,7 +29,7 @@ Bangqi Xu, Andrew B. Kahng, Mingyu Woo, Uday Mallappa, Minsoo Kim, Mateus Fogaç
 [Article 7: Parallel Tools for Asynchronous VLSI Systems](PDFs/a7.pdf).  
 Yi-Shan Lu, Samira Ataei, Jiayuan He, Wenmian Hua, Sepideh Maleki, Yihang Yang, Martin Burtscher, Keshav Pingali and Rajit Manohar
 
-[Article 8: ARL:UT’s Experiences in the Free Open-Source VLSI EDA Landscape](PDFs/a8.pdf). 
+[Article 8: ARL:UT’s Experiences in the Free Open-Source VLSI EDA Landscape](PDFs/a8.pdf).   
 Russell Friesenhahn and Johnathan York
 
 [Article 9: How to Make Open-Source EDA Project Sustainable: a Perspective from Industry](PDFs/a9.pdf).  
