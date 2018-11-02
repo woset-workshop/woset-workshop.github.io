@@ -1,7 +1,7 @@
 # Proceedings of WOSET 2018 
 
 For inquires, please contact Sherief Reda
-(sherief_reda&lt;AT&gt;brown.edu)
+(sherief_reda@brown.edu)
 
 
 [Article 1: LGraph: A multilanguage open-source database](PDFs/a1.pdf).  
