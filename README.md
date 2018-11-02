@@ -5,13 +5,12 @@ For inquires, please contact Sherief Reda
 
 
 [Article 1: LGraph: A multilanguage open-source database](PDFs/a1.pdf)
-
 Rafael Trapani Possignolo, Sheng Hong Wang, Haven Skinner and Jose Renau
 
-Article 2: OpenPiton: An Emerging Standard for Open-Source EDA Tool Development
+[Article 2: OpenPiton: An Emerging Standard for Open-Source EDA Tool Development](PDFs/a2.pdf)
 Jonathan Balkind, Alexey Lavrov, Michael McKeown, Yaosheng Fu, Tri Nguyen, Mohammad Shahrad, Ang Li, Katie Lim, Yanqi Zhou, Ting-Jung Chang, Paul Jackson, Adi Fuchs, Samuel Payne, Xiaohua Liang, Matthew Matl and David Wentzlaff
 
-Article 3: Cpp-Taskflow: Fast Parallel Programming with Task Dependency Graphs
+[Article 3: Cpp-Taskflow: Fast Parallel Programming with Task Dependency Graphs](PDFs/a3.pdf)
 Chun-Xun Lin, Tsung-Wei Huang, Guannan Guo and Martin Wong
 
 Article 4: DATC RDF: An Open Design Flow from Logic Synthesis to Detailed Routing
