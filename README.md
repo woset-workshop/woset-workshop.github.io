@@ -1,2 +1,2 @@
 # woset-workshop.github.io
-Hello
+Proceedings of 2018 WOSET workshop
