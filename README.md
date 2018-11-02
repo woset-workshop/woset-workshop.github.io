@@ -5,18 +5,22 @@ For inquires, please contact Sherief Reda
 
 
 [Article 1: LGraph: A multilanguage open-source database](PDFs/a1.pdf)
+
 Rafael Trapani Possignolo, Sheng Hong Wang, Haven Skinner and Jose Renau
 
 [Article 2: OpenPiton: An Emerging Standard for Open-Source EDA Tool Development](PDFs/a2.pdf)
+
 Jonathan Balkind, Alexey Lavrov, Michael McKeown, Yaosheng Fu, Tri Nguyen, Mohammad Shahrad, Ang Li, Katie Lim, Yanqi Zhou, Ting-Jung Chang, Paul Jackson, Adi Fuchs, Samuel Payne, Xiaohua Liang, Matthew Matl and David Wentzlaff
 
 [Article 3: Cpp-Taskflow: Fast Parallel Programming with Task Dependency Graphs](PDFs/a3.pdf)
+
 Chun-Xun Lin, Tsung-Wei Huang, Guannan Guo and Martin Wong
 
-Article 4: DATC RDF: An Open Design Flow from Logic Synthesis to Detailed Routing
+[Article 4: DATC RDF: An Open Design Flow from Logic Synthesis to Detailed Routing](PDFs/a4.pdf)
+
 Jinwook Jung, Iris Hui-Ru Jiang, Jianli Chen, Shih-Ting Lin, Yih-Lang Li, Victor N. Kravets and Gi-Joon Nam
 
-Article 5: Rsyn - A Physical Synthesis Framework for Research and Education
+[Article 5: Rsyn - A Physical Synthesis Framework for Research and Education](PDFs/a5.pdf)
 Mateus Fogaça, Jucemar Monteiro, Marcelo Johann and Ricardo Reis
 
 Article 6: An Almost-There, Open-Source Netlist Through Detailed Routing Tool Chain for FinFET Nodes
