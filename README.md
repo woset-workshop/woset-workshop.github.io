@@ -1,4 +1,4 @@
-# Proceedings of WOSET 2018 Workshop
+# Proceedings of WOSET 2018 
 
 For inquires, please contact Sherief Reda
 (sherief_reda&lt;AT&gt;brown.edu)
