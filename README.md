@@ -3,6 +3,7 @@
 For inquires, please contact Sherief Reda
 (sherief_reda@brown.edu)
 
+[Agenda for the day](agenda.pdf)
 
 [Article 1: LGraph: A multilanguage open-source database](PDFs/a1.pdf).  
 Rafael Trapani Possignolo, Sheng Hong Wang, Haven Skinner and Jose Renau
@@ -23,8 +24,7 @@ Jinwook Jung, Iris Hui-Ru Jiang, Jianli Chen, Shih-Ting Lin, Yih-Lang Li, Victor
 Mateus Fogaça, Jucemar Monteiro, Marcelo Johann and Ricardo Reis
 
 
-[Article 6: An Almost-There, Open-Source Netlist Through Detailed Routing Tool Chain for FinFET Nodes](PDFs/a6.pdf).  
-Bangqi Xu, Andrew B. Kahng, Mingyu Woo, Uday Mallappa, Minsoo Kim, Mateus Fogaça and Ricardo Reis
+Article 6: N/A.  
 
 [Article 7: Parallel Tools for Asynchronous VLSI Systems](PDFs/a7.pdf).  
 Yi-Shan Lu, Samira Ataei, Jiayuan He, Wenmian Hua, Sepideh Maleki, Yihang Yang, Martin Burtscher, Keshav Pingali and Rajit Manohar
