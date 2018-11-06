@@ -69,7 +69,7 @@ Rainer Doemer, Zhongqi Cheng, Daniel Mendoza and Ajit Dingankar
 Zihao Yuan, Geoffrey Vaartstra, Prachi Shukla, Mostafa Said, Sherief Reda, Evelyn Wang and Ayse Kivilcim Coskun
 
 [Article 21: METRICS 2.0: A Machine-Learning Based Optimization System for IC Design](PDFs/a21.pdf).  
-Soheil Hashemi, Andrew Kahng, Sherief Reda and Mingyu Woo
+Soheil Hashemi, Andrew B. Kahng, Sherief Reda and Mingyu Woo
 
 [Article 22: TESTCAD: A Verified Education Toolset for a Course in Digital Testing](PDFs/a22.pdf).  
 Spencer Millican and Kewal Saluja
