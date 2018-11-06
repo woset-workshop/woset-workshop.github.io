@@ -62,7 +62,7 @@ Mathias Soeken, Heinz Riener, Winston Haaswijk, Eleonora Testa and Giovanni De M
 [Article 18: Hierarchical Asynchronous Circuit Kompiler Toolkit](PDFs/a18.pdf).  
 David Fang
 
-[Article 19: RISC: Recoding Infrastructure for SystemC, Open Source Framework for Parallel Simulation](PDFs/a19.pdf).  
+Article 19: RISC: Recoding Infrastructure for SystemC, Open Source Framework for Parallel Simulation (N/A for download).  
 Rainer Doemer, Zhongqi Cheng, Daniel Mendoza and Ajit Dingankar
 
 [Article 20: An EDA Tool for Co-designing High-Performance Processors and Emerging Cooling Technologies](PDFs/a20.pdf).  
