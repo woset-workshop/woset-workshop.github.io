@@ -6,7 +6,7 @@ For inquires, please contact Sherief Reda
 [Agenda for the day](agenda.pdf)
 
 To cite an article, please use this format:   
-Author names, "Article title", Article Number, Workshop on Open-Source EDA Technology (WOSET), 2018.
+<author names here>, "<article title here>", Article No. <article number here>, Workshop on Open-Source EDA Technology (WOSET), 2018.
 
 
 [Article 1: LGraph: A multilanguage open-source database](PDFs/a1.pdf).  
