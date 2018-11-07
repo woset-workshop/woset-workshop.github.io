@@ -1,9 +1,13 @@
-# Proceedings of WOSET 2018 
+# Articles presented in WOSET 2018 
 
 For inquires, please contact Sherief Reda
 (sherief_reda@brown.edu)
 
 [Agenda for the day](agenda.pdf)
+
+To cite an article, please use this format:   
+Author names, "Article title", Article Number, Workshop on Open-Source EDA Technology (WOSET), 2018.
+
 
 [Article 1: LGraph: A multilanguage open-source database](PDFs/a1.pdf).  
 Rafael Trapani Possignolo, Sheng Hong Wang, Haven Skinner and Jose Renau
