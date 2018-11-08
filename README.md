@@ -1,6 +1,6 @@
 # Articles presented in WOSET 2018 
 
-For inquires, please contact Sherief Reda
+For inquiries, please contact Sherief Reda
 (sherief_reda@brown.edu)
 
 [Agenda for the day](agenda.pdf)
