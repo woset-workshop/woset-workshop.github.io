@@ -1,4 +1,4 @@
-# Articles presented in WOSET 2019
+#  WOSET 2019
 
 For inquiries, please contact Sherief Reda
 (sherief_reda@brown.edu)
@@ -64,7 +64,7 @@ Habiba Gamal, Ali El-Said, Fady Mohamed and Mohamed Shalan
 Samira Ataei, Yi-Shan Lu, Jiayuan He, Wenmian Hua, Sepideh Maleki, Yihang Yang, Rajit Manohar and Keshav Pingali
 
 
-# Articles presented in WOSET 2018 
+#  WOSET 2018 
 
 For inquiries, please contact Sherief Reda
 (sherief_reda@brown.edu)
