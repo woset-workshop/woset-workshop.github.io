@@ -6,9 +6,9 @@ For inquiries, please contact Sherief Reda
 To cite an article, please use this format:   
 (author names here), "(article title here)", Article No. (article number here), Workshop on Open-Source EDA Technology (WOSET), 2019.
 
+
 [Key Note Presentation: The New Golden Age of Open Silicon](PDFs/2019/keynote.pdf). 
 Tim Edwards
-
 
 [Article 1: Generic Logic Synthesis meets RTL Synthesis](PDFs/2019/a1.pdf).  
 Heinz Riener, Mathias Soeken, Eleonora Testa and Giovanni De Micheli
