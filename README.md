@@ -1,4 +1,4 @@
-WOSET 2018 articles are listed below (#L73).
+WOSET 2018 articles are listed below.
 
 #  WOSET 2019
 
