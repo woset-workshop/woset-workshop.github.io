@@ -1,4 +1,4 @@
-WOSET 2018 articles are listed below.
+WOSET 2018 and 2019 articles are listed below.
 
 #  WOSET 2019
 
