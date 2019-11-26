@@ -13,7 +13,7 @@ To cite an article, please use this format:
 Tim Edwards
 
 [Article 1: Generic Logic Synthesis meets RTL Synthesis](PDFs/2019/a1.pdf).  
-https://github.com/lsils/lstools-showcase.
+https://github.com/lsils/lstools-showcase\
 Heinz Riener, Mathias Soeken, Eleonora Testa and Giovanni De Micheli
 
 [Article 2: Skeletor Connector Language: Hierarchy Specification to HDL development made easy](PDFs/2019/a2.pdf).  
