@@ -14,7 +14,8 @@ Tim Edwards
 
 [Article 1: Generic Logic Synthesis meets RTL Synthesis](PDFs/2019/a1.pdf).  
 Heinz Riener, Mathias Soeken, Eleonora Testa and Giovanni De Micheli
-(https://github.com/lsils/lstools-showcase)
+
+https://github.com/lsils/lstools-showcase
 
 [Article 2: Skeletor Connector Language: Hierarchy Specification to HDL development made easy](PDFs/2019/a2.pdf).  
 Ivan Rodriguez-Ferrandez, Guillem Cabo, Javier Barrera, Jeremy Giesen, Alvaro Jover-Alvarez and Leonidas Kosmidis
