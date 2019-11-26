@@ -72,6 +72,7 @@ Vidya A. Chhabria, Arvind K. Sharma, Meghna G. Mankalale, and Sachin S. Sapatnek
 Vitor Bandeira, Mateus Fogaça, Jiajia Li, Eder Matheus Monteiro, Isadora Oliveira, Ricardo Reis and Mingyu Woo
 
 [Article 17: OpeNPDN: Neural Networks for Automated Power Delivery Network Synthesis](PDFs/2019/a17.pdf).  
+https://github.com/The-OpenROAD-Project/OpeNPDN <br />
 Vidya Chhabria, Andrew Kahng, Minsoo Kim, Uday Mallappa, Sachin Sapatnekar and Bangqi Xu
 
 [Article 18: OGRE: Open-Source Global Router](PDFs/2019/a18.pdf).  
