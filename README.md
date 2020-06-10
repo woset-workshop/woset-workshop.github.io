@@ -2,7 +2,7 @@
 # WOSET 2020
 
 
-Third Workshop on Open-Source EDA Technology (http://woset.org).
+Third Workshop on Open-Source EDA Technology
 
 Co-located with ICCAD 2020, November 5, San Diego Mission Bay Resort
 
