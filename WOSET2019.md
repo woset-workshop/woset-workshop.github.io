@@ -3,6 +3,8 @@
 For inquiries, please contact Sherief Reda
 (sherief_reda@brown.edu)
 
+[Agenda for the day](PDFs/2019/agenda.pdf)
+
 To cite an article, please use this format:   
 (author names here), "(article title here)", Article No. (article number here), Workshop on Open-Source EDA Technology (WOSET), 2019.
 
