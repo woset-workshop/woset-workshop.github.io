@@ -15,6 +15,9 @@ Submissions (2-4 pages):
 * Open-source cloud-based EDA tools
 * Position statements (e.g. critical gaps, blockers/obstacles)
 
+Prizes:
+* WOSET will award $850 in prizes to the top open-source contributions.
+
 Important dates:
 * Sept 6th 2020: submission due date.
 * Sept 15th 2020: notification due date.
