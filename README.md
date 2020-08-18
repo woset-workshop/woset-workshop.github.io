@@ -23,7 +23,7 @@ Important dates:
 * Sept 15th 2020: notification due date.
 
 Submission Information:
-* https://woset2020.hotcrp.com/
+* [https://woset2020.hotcrp.com/](https://woset2020.hotcrp.com/)
 * Please submit 2-4 page (US Letter) papers using the [IEEE Conference Template](https://www.ieee.org/conferences/publishing/templates.html)
 
 For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
