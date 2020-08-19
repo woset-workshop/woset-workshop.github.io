@@ -15,6 +15,7 @@ Submissions (2-4 pages):
 * Overview of support infrastructure (e.g. EDA databases and design benchmarks).
 * Open-source cloud-based EDA tools
 * Position statements (e.g. critical gaps, blockers/obstacles)
+* **Please reference your open-source repository!** (because of this, review is NOT blind)
 
 Prizes:
 * WOSET will award $850 in prizes to the top open-source contributions.
