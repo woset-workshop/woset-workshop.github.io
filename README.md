@@ -10,7 +10,7 @@ There will be no registration cost to attend!
 
 The WOSET workshop aims to galvanize the open-source EDA movement. The workshop will bring together EDA researchers who are committed to open-source principles to share their experiences and coordinate efforts towards developing a reliable, fully open-source EDA flow. The workshop will feature presentations and posters that overview existing or under-development open-source tools, designs and technology libraries. A live demo session for tools in advanced state will be planned. The workshop will feature a panel on the present status and future challenges in open-source EDA, and how to coordinate efforts and ensure quality and interoperability across open-source tools. A cash award will be given for a Best Tool Award.
 
-Regular Paper Submissions (2-4 pages:
+Regular Paper Submissions (2-4 pages):
 * Overview of an existing or under-development open-source EDA tool.
 * Overview of support infrastructure (e.g. EDA databases and design benchmarks).
 * Open-source cloud-based EDA tools
@@ -21,6 +21,7 @@ Work in Progress Submissions (<5 min video):
 * Work in progress video in lieu of a traditional poster session
 * No paper submission required, video only!
 * Video will be put on WOSET site if accepted.
+* **Please reference your open-source repository!** (because of this, review is NOT blind)
 
 Prizes:
 * WOSET will award $850 in prizes to the top open-source contributions.
