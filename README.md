@@ -18,7 +18,7 @@ Regular Paper Submissions (2-4 pages:
 * **Please reference your open-source repository!** (because of this, review is NOT blind)
 
 Work in Progress Submissions (<5 min video):
-* Work in progress video in liu of a traditional poster session
+* Work in progress video in lieu of a traditional poster session
 * No paper submission required, video only!
 * Video will be put on WOSET site if accepted.
 
