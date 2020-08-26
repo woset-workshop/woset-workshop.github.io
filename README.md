@@ -32,7 +32,7 @@ Important dates:
 
 Submission Information:
 * For regular papers, please submit 2-4 page (US Letter) papers using the [IEEE Conference Template](https://www.ieee.org/conferences/publishing/templates.html)
-* For work in progress videos, please submit a 1 page PDF with the title, <300 word abstract (optional), and a link to your <5 minute video.
+* For work in progress videos, please submit a 1 page PDF with the title, <300 word abstract (optional), and a link to your <5 minute **YouTube** video.
 * All submissions are at [https://woset2020.hotcrp.com/](https://woset2020.hotcrp.com/)
 
 
