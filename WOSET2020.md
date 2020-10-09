@@ -33,7 +33,7 @@ Authors
 2. Udit Agarwal <udit@utexas.edu> (UT Austin)
 3. Keshav Pingali <pingali@cs.utexas.edu> (The University of Texas at Austin)
 
-Project Page
+Source Code
 -------
 https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding
 
@@ -62,7 +62,7 @@ Authors
 3. Kasper Juul Hesse Rasmussen <s183735@student.dtu.dk> (Technical University of Denmark)
 4. Richard Lin <richard.lin@berkeley.edu> (University of California, Berkeley)
 
-Project Page
+Source Code
 -------
 https://github.com/chisel-uvm
 
@@ -77,7 +77,7 @@ Author
 ------
 Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 
-Project Page
+Source Code
 -------
 http://github.com/google/skywater-pdk
 
@@ -101,7 +101,7 @@ Authors
 2. Amr Gouhar <amrgouhar@aucegypt.edu> (eFabless)
 3. Mohamed Shalan <mshalan@aucegypt.edu> (The American University in Cairo)
 
-Project Page
+Source Code
 -------
 https://github.com/habibagamal/SoC_Automation
 
@@ -117,7 +117,7 @@ Author
 ------
 Mitch Bailey <d.bailey@shuharisystem.com> (Shuhari System)
 
-Project Page
+Source Code
 -------
 https://github.com/d-m-bailey/cvc
 
@@ -133,7 +133,7 @@ Authors
 1. Pascal J Sossou <pascalsossou1@gmail.com> (Poolesville High School)
 2. Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 
-Project Page
+Source Code
 -------
 https://github.com/letter108/Wirebonding
 
@@ -150,7 +150,7 @@ Authors
 2. Yihang Yang <yihang.yang@yale.edu> (Yale University)
 3. Rajit Manohar <rajit.manohar@yale.edu> (Yale University)
 
-Project Page
+Source Code
 -------
 https://github.com/asyncvlsi/PWRoute
 
@@ -168,7 +168,7 @@ Authors
 3. Mohammad A. Khasawneh <mkhasaw1@binghamton.edu> (SUNY Binghamton/MathWorks)
 4. Patrick H. Madden <pmadden@binghamton.edu> (SUNY Binghamton)
 
-Project Page
+Source Code
 -------
 https://github.com/profmadden/pstools
 
@@ -184,7 +184,7 @@ Authors
 1. Ahmed Agiza <ahmed_agiza@brown.edu> (Brown University)
 2. Sherief Reda <sherief_reda@brown.edu> (Brown University)
 
-Project Page
+Source Code
 -------
 https://github.com/scale-lab/OpenPhySyn
 
@@ -201,7 +201,7 @@ Authors
 1. Alain Dargelas <alain.dargelas@gmail.com> (Data Model Solutions, LLC)
 2. Henner Zeller <hzeller@google.com> (Google)
 
-Project Page
+Source Code
 -------
 https://github.com/alainmarcel/UHDM
 
@@ -217,7 +217,7 @@ Author
 ------
 tsung-wei.huang@utah.edu
 
-Project Page
+Source Code
 -------
 http://taskflow.github.io
 
@@ -240,7 +240,7 @@ Authors
 8. Keshav Pingali <pingali@cs.utexas.edu> (University of Texas at Austin)
 9. Rajit Manohar <rajit.manohar@yale.edu> (Yale University)
 
-Project Page
+Source Code
 -------
 https://github.com/asyncvlsi/
 
@@ -256,7 +256,7 @@ Author
 ------
 Aidan Goettsch <aidangoettsch@gmail.com> (Poolesville High School)
 
-Project Page
+Source Code
 -------
 https://github.com/aidangoettsch/asg
 
@@ -282,7 +282,7 @@ Authors
 4. Yibo Lin <yibolin@pku.edu.cn> (Peking University)
 5. Guojie Luo <gluo@pku.edu.cn> (Peking University)
 
-Project Page
+Source Code
 -------
 https://github.com/pku-dasys/cocoon
 
@@ -297,7 +297,7 @@ Author
 ------
 Matthew Ballance <matt.ballance@gmail.com> (None)
 
-Project Page
+Source Code
 -------
 https://github.com/fvutils/pyvsc
 
@@ -322,7 +322,7 @@ Authors
 5. Leonidas Kosmidis <leonidas.kosmidis@bsc.es> (Barcelona Supercomputing Center (BSC) and
    Universitat Politècnica de Catalunya (UPC))
 
-Project Page
+Source Code
 -------
 https://github.com/jaquerinte/Skeletor
 
@@ -356,7 +356,7 @@ Authors
 4. Xifan Tang <xifan.tang@utah.edu> (University of Utah)
 5. Pierre-Emmanuel Gaillardon <pierre-emmanuel.gaillardon@utah.edu> (University of Utah)
 
-Project Page
+Source Code
 -------
 https://github.com/LNISProjects/LSOracle
 
@@ -372,7 +372,7 @@ Authors
 1. Jennifer Hasler <jennifer.hasler@ece.gatech.edu> (Georgia Institute of Technology)
 2. Aishwarya <anatarajan35@gatech.edu> (Natarajan)
 
-Project Page
+Source Code
 -------
 http://hasler.ece.gatech.edu/FPAAtool/index.html
 
@@ -406,7 +406,7 @@ Authors
 5. Baudouin Chauviere <baudouin.chauviere@utah.edu> (University of Utah)
 6. Pierre-Emmanuel Gaillardon <pierre-emmanuel.gaillardon@utah.edu> (University of Utah)
 
-Project Page
+Source Code
 -------
 https://github.com/LNIS-Projects/OpenFPGA
 
@@ -421,7 +421,7 @@ Author
 ------
 Olof Kindgren <olof.kindgren@gmail.com> (FOSSi Foundation, Qamcom)
 
-Project Page
+Source Code
 -------
 https://github.com/olofk/edalize
 
@@ -444,7 +444,7 @@ Authors
 1. Ahmed Ghazy <ax3ghazy@aucegypt.edu> (eFabless)
 2. Mohamed Shalan <mshalan@aucegypt.edu> (The American University in Cairo)
 
-Project Page
+Source Code
 -------
 https://github.com/efabless/openlane
 
@@ -466,7 +466,7 @@ Authors
 1. Yijiang Guo <yijiang@pku.edu.cn> (Peking University)
 2. Guojie Luo <gluo@pku.edu.cn> (Peking University)
 
-Project Page
+Source Code
 -------
 https://github.com/pku-dasys/pillars
 
@@ -482,7 +482,7 @@ Author
 ------
 Arjun Rakheja <arjun.rakheja@gmail.com> (Poolesville High School in Montgomery County, MD.)
 
-Project Page
+Source Code
 -------
 https://github.com/arjunr10/eda-symbol_libraries
 
@@ -501,7 +501,7 @@ Authors
 3. Muhammad Shafique <muhammad.shafique@nyu.edu> (New York University Abu Dhabi)
 4. Jörg Henkel <henkel@kit.edu> (Karlsruhe Institute of Technology)
 
-Project Page
+Source Code
 -------
 https://github.com/ECASLab/AxLS
 
@@ -519,7 +519,7 @@ Authors
 3. Anjana S. Kumar <anjanas3@illinois.edu> (University of Illinois at Urbana-Champaign)
 4. Shobha Vasudevan <shobhav@illinois.edu> (University of Illinois at Urbana-Champaign)
 
-Project Page
+Source Code
 -------
 https://goldmine.csl.illinois.edu
 
