@@ -37,7 +37,7 @@ Authors
 
 Source Code
 -------
-https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding
+(https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding)
 
 [Article #2: Towards an Open-Source Verification Method with Chisel and Scala](PDFs/2020/a02.pdf).
 ================================================================================
