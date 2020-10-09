@@ -10,6 +10,8 @@ To cite an article, please use this format:
 [Article #1: Hypergraph Partitioning via Geometric Embeddings](PDFs/2020/a01.pdf).
 ===============================================================
 
+[paper](PDFs/2020/a01.pdf)
+
 Abstract
 --------
 Hypergraph partitioning has been used in many
@@ -40,6 +42,8 @@ https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embeddi
 [Article #2: Towards an Open-Source Verification Method with Chisel and Scala](PDFs/2020/a02.pdf).
 ================================================================================
 
+[paper](PDFs/2020/a02.pdf)
+
 Abstract
 --------
 Performance increase with general-purpose processors has come to a halt.
@@ -69,6 +73,8 @@ https://github.com/chisel-uvm
 [Article #3: Google/SkyWater and the Promise of the Open PDK](PDFs/2020/a03.pdf).
 ===============================================================
 
+[paper](PDFs/2020/a03.pdf)
+
 Abstract
 --------
 For over twenty years, silicon foundry Process Design Kits (PDKs) have been a domain of secret knowledge, non-disclosure agreements (NDAs), license servers, and password-protected download sites.  The lack of transparency is at odds with today's ever-expanding universe of open source software, leading to an unusual niche for licensed commercial tools, and a very difficult space in which to explore, grow, and diversify.  To overcome the problems inherent in this arrangement, the SkyWater foundry has opened up its process description to the public, a process driven and underwritten by Google and supported by efabless and a consortium of small companies and university groups.  This talk highlights the implications of having a free and publicly-accessible foundry process description on the small world of open source electronic design automation (EDA) tools for custom silicon design, how the open source PDK repository is beneficial to the worldwide chip design community, how developers of open-source EDA tools can take advantage of it, and where to move forward in a future of open-source tools and hardware.
@@ -83,6 +89,8 @@ http://github.com/google/skywater-pdk
 
 [Article #4: A Push-button Idea to GDS-II SoC Design Flow](PDFs/2020/a04.pdf).
 ============================================================
+
+[paper](PDFs/2020/a04.pdf)
 
 Abstract
 --------
@@ -109,6 +117,8 @@ https://github.com/habibagamal/SoC_Automation
 system](PDFs/2020/a05.pdf).
 ================================================================================================
 
+[paper](PDFs/2020/a05.pdf)
+
 Abstract
 --------
 This paper presents a device level static verification system for quickly and easily detecting common circuit errors in CDL (Circuit Definition Language) netlists. The system includes the capability to define device parameters and voltages for multiple modes in Microsoft Excel, an interactive option for examining intermediate values, and a GUI for analyzing the results. Errors detected are similar to those found using Mentor’s Calibre-PERC [1] or Synopsys’ CCK [2]. CVC has been used on dozens of DRAM and SOC designs of up to 3B devices.
@@ -123,6 +133,8 @@ https://github.com/d-m-bailey/cvc
 
 [Article #6: An Open Source Alternative to Wire Bonding](PDFs/2020/a06.pdf).
 ==========================================================
+
+[paper](PDFs/2020/a06.pdf)
 
 Abstract
 --------
@@ -140,6 +152,8 @@ https://github.com/letter108/Wirebonding
 [Article #7: A power router for gridded cell placement](PDFs/2020/a07.pdf).
 =========================================================
 
+[paper](PDFs/2020/a07.pdf)
+
 Abstract
 --------
 Electronic design automation (EDA) tools for asynchronous circuits, especially physical layout tools are limited. To improve  the  adoption  of  asynchronous  circuits,  Dali,  a  griddedcell placement flow was proposed. In the flow, the cell height and  width  can  be  any  integer  multiple  of  two  grid  values,  thus traditional  power  grid  generation  for  standard  cells  does  not apply and a dedicated power router is needed. In this work, we developed an open-source DRC-clean power router that supports the  gridded  placement  approach.  The  power  router  consists  of two  steps:  power  mesh  generation  and  detailed  power  routing. The  power  router  is  verified  by  commercial  tools  and  a  chiptape-out,  and  is  open-source  on  Github  [2]
@@ -156,6 +170,8 @@ https://github.com/asyncvlsi/PWRoute
 
 [Article #8: A PostScript Toolkit for Electronic Design](PDFs/2020/a08.pdf).
 ==========================================================
+
+[paper](PDFs/2020/a08.pdf)
 
 Abstract
 --------
@@ -175,6 +191,8 @@ https://github.com/profmadden/pstools
 [Article #9: OpenPhySyn: An Open-Source Physical Synthesis Optimization Toolkit](PDFs/2020/a09.pdf).
 ==================================================================================
 
+[paper](PDFs/2020/a09.pdf)
+
 Abstract
 --------
 Physical synthesis is a crucial phase in modern EDA design due to the challenges in achieving timing closure. Many approaches have been presented to solve different design problems and violations, such as buffer-insertion, gate-sizing, pin-swapping, gate-cloning, and logic transformations; each approach has different overhead costs in terms of area, power, and run-time. This paper describes OpenPhySyn, a new open-source EDA kit that implements and enhances different physical and logical design algorithms to resolve design violations and perform timing closure. The tool integrates seamlessly with standard EDA flows and tackles different types of violations with minimal human interference and reduced area overhead. Testing OpenPhySyn against different benchmarks with different characteristics from 46 violations up to 1200 violations showed that the tool solved most of the presented violations with only a 4\% average increase in the design area.
@@ -190,6 +208,8 @@ https://github.com/scale-lab/OpenPhySyn
 
 [Article #10: Universal Hardware Data Model](PDFs/2020/a10.pdf).
 =============================================
+
+[paper](PDFs/2020/a10.pdf)
 
 Abstract
 --------
@@ -209,6 +229,8 @@ https://github.com/alainmarcel/UHDM
 for VLSI CAD](PDFs/2020/a11.pdf).
 ================================================================================================
 
+[paper](PDFs/2020/a11.pdf)
+
 Abstract
 --------
 This paper introduces Taskflow to address the critical question of “How can we make it easier to implement and deploy parallel computer-aided design (CAD) algorithms on large heterogeneous nodes with high performance and simultaneous high productivity?” Parallelizing CAD is an extremely challenging job. Modern CAD applications exhibit unique computational patterns and user requirements that need very strategic decomposition to benefit from parallelism. Taskflow assists researchers and developers in the implementation complexity of parallel algorithms by introducing a new high-level programming model supported by an efficient run- time. By capitalizing on emerging parallelism comprising many- core central processing units (CPUs), graphics processing units (GPUs), and custom accelerators, Taskflow enables CAD to achieve new performance and productivity milestones that were previously out of reach.
@@ -223,6 +245,8 @@ http://taskflow.github.io
 
 [Article #12: A Digital Flow for Asynchronous VLSI Systems: Status Update](PDFs/2020/a12.pdf).
 ===========================================================================
+
+[paper](PDFs/2020/a12.pdf)
 
 Abstract
 --------
@@ -247,6 +271,8 @@ https://github.com/asyncvlsi/
 [Article #13: An Automatic Schematic Generation Tool for SPICE Netlists](PDFs/2020/a13.pdf).
 =========================================================================
 
+[paper](PDFs/2020/a13.pdf)
+
 Abstract
 --------
 This tool was designed and developed over this past summer to automatically create a schematic of a circuit given a SPICE representation. The algorithm implemented uses a series
@@ -263,6 +289,8 @@ https://github.com/aidangoettsch/asg
 [Article #14: Cocoon: An Open Source Infrastructure for Integrated EDA with Interoperability
 and Interactivity](PDFs/2020/a14.pdf).
 ================================================================================================
+
+[paper](PDFs/2020/a14.pdf)
 
 Abstract
 --------
@@ -289,6 +317,8 @@ https://github.com/pku-dasys/cocoon
 [Article #15: PyVSC: SystemVerilog-Style Constraints, and Coverage in Python](PDFs/2020/a15.pdf).
 ==============================================================================
 
+[paper](PDFs/2020/a15.pdf)
+
 Abstract
 --------
 Constrained-randomization and functional coverage are key elements in the widely-used SystemVerilog-based verification flow. The use of Python in functional verification is growing in popularity, but Python has historically lacked support for the constraint and coverage features provided by SystemVerilog. This paper describes PyVSC, a library that provides these features.
@@ -304,6 +334,8 @@ https://github.com/fvutils/pyvsc
 [Article #16: Facilitating the Specification and Implementation of Pipelined Designs with
 Skeletor](PDFs/2020/a16.pdf).
 ================================================================================================
+
+[paper](PDFs/2020/a16.pdf)
 
 Abstract
 --------
@@ -328,6 +360,8 @@ https://github.com/jaquerinte/Skeletor
 
 [Article #17: LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow](PDFs/2020/a17.pdf).
 ========================================================================================
+
+[paper](PDFs/2020/a17.pdf)
 
 Abstract
 --------
@@ -363,6 +397,8 @@ https://github.com/LNISProjects/LSOracle
 [Article #18: An Open-source ToolSet for FPAA Design](PDFs/2020/a18.pdf).
 ======================================================
 
+[paper](PDFs/2020/a18.pdf)
+
 Abstract
 --------
 This open-source toolset enables targeting and design of the fine-grain SoC Large-scale Field Programmable Analog Array (FPAA)  family of devices, similar to tools enabling FPGA devices. The SoC  FPAA tool framework is presented, following a discussion of the resulting analog abstraction, FPAA infrastructure, and resulting educational and research  impact.
@@ -378,6 +414,8 @@ http://hasler.ece.gatech.edu/FPAAtool/index.html
 
 [Article #19: OpenFPGA: Towards Automated Prototyping for Versatile FPGAs](PDFs/2020/a19.pdf).
 ===========================================================================
+
+[paper](PDFs/2020/a19.pdf)
 
 Abstract
 --------
@@ -413,6 +451,8 @@ https://github.com/LNIS-Projects/OpenFPGA
 [Article #20: Edalize it. Don’t critizise it](PDFs/2020/a20.pdf).
 ================================================
 
+[paper](PDFs/2020/a20.pdf)
+
 Abstract
 --------
 Edalize (https://github.com/olofk/edalize) is an abstraction library for interfacing different EDA tools with a single description of the input files and tool configuration.
@@ -427,6 +467,8 @@ https://github.com/olofk/edalize
 
 [Article #21: OpenLANE: The Open-Source Digital ASIC Implementation Flow](PDFs/2020/a21.pdf).
 ==========================================================================
+
+[paper](PDFs/2020/a21.pdf)
 
 Abstract
 --------
@@ -451,6 +493,8 @@ https://github.com/efabless/openlane
 [Article #22: Pillars: An Integrated CGRA Design Framework](PDFs/2020/a22.pdf).
 ============================================================
 
+[paper](PDFs/2020/a22.pdf)
+
 Abstract
 --------
 In this paper, we propose Pillars, an integrated CGRA design framework, to assist in design space exploration and hardware optimization of CGRA.
@@ -473,6 +517,8 @@ https://github.com/pku-dasys/pillars
 [Article #23: Automatically Building Digital Symbol Libraries](PDFs/2020/a23.pdf).
 ================================================================
 
+[paper](PDFs/2020/a23.pdf)
+
 Abstract
 --------
 Digital circuit symbols do not currently have commonly accepted open standards for the formats of such symbols. Consequently, digital cell libraries often come in proprietary formats. The purpose of this project is to automatically create a digital symbol library from a liberty file in the SkyWater pdk. An algorithm was developed in Python and a standard digital cell library was created in KiCad and XSCHEM. The algorithm is able to parse through the liberty file, store information on the cells, and successfully output a digital symbol library. In future work, steps will be taken to automatically create a spice netlist from the liberty file.
@@ -489,6 +535,8 @@ https://github.com/arjunr10/eda-symbol_libraries
 [Article #24: AxLS: An Open-Source Framework for Netlist Transformation Approximate Logic
 Synthesis](PDFs/2020/a24.pdf).
 ================================================================================================
+
+[paper](PDFs/2020/a24.pdf)
 
 Abstract
 --------
@@ -507,6 +555,8 @@ https://github.com/ECASLab/AxLS
 
 [Article #25: GOLDMINE: A tool for enhancing verification productivity](PDFs/2020/a25.pdf).
 =========================================================================
+
+[paper](PDFs/2020/a25.pdf)
 
 Abstract
 --------
