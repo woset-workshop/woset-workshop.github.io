@@ -11,6 +11,7 @@ To cite an article, please use this format:
 ===============================================================
 
 [paper](PDFs/2020/a01.pdf)
+[repo](https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding)
 
 Abstract
 --------
@@ -35,14 +36,11 @@ Authors
 2. Udit Agarwal <udit@utexas.edu> (UT Austin)
 3. Keshav Pingali <pingali@cs.utexas.edu> (The University of Texas at Austin)
 
-Source Code
--------
-[https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding](https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding)
-
 [Article #2: Towards an Open-Source Verification Method with Chisel and Scala](PDFs/2020/a02.pdf).
 ================================================================================
 
 [paper](PDFs/2020/a02.pdf)
+[repo](https://github.com/chisel-uvm)
 
 Abstract
 --------
@@ -66,14 +64,11 @@ Authors
 3. Kasper Juul Hesse Rasmussen <s183735@student.dtu.dk> (Technical University of Denmark)
 4. Richard Lin <richard.lin@berkeley.edu> (University of California, Berkeley)
 
-Source Code
--------
-[https://github.com/chisel-uvm](https://github.com/chisel-uvm)
-
 [Article #3: Google/SkyWater and the Promise of the Open PDK](PDFs/2020/a03.pdf).
 ===============================================================
 
 [paper](PDFs/2020/a03.pdf)
+[repo](http://github.com/google/skywater-pdk)
 
 Abstract
 --------
@@ -83,14 +78,12 @@ Author
 ------
 Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 
-Source Code
--------
-[http://github.com/google/skywater-pdk](http://github.com/google/skywater-pdk)
 
 [Article #4: A Push-button Idea to GDS-II SoC Design Flow](PDFs/2020/a04.pdf).
 ============================================================
 
 [paper](PDFs/2020/a04.pdf)
+[repo](https://github.com/habibagamal/SoC_Automation)
 
 Abstract
 --------
@@ -109,15 +102,13 @@ Authors
 2. Amr Gouhar <amrgouhar@aucegypt.edu> (eFabless)
 3. Mohamed Shalan <mshalan@aucegypt.edu> (The American University in Cairo)
 
-Source Code
--------
-[https://github.com/habibagamal/SoC_Automation](https://github.com/habibagamal/SoC_Automation)
 
 [Article #5: CVC: Circuit Validity Checker An open source netlist reliabilty verification
 system](PDFs/2020/a05.pdf).
 ================================================================================================
 
 [paper](PDFs/2020/a05.pdf)
+[repo](https://github.com/d-m-bailey/cvc)
 
 Abstract
 --------
@@ -127,14 +118,12 @@ Author
 ------
 Mitch Bailey <d.bailey@shuharisystem.com> (Shuhari System)
 
-Source Code
--------
-[https://github.com/d-m-bailey/cvc](https://github.com/d-m-bailey/cvc)
 
 [Article #6: An Open Source Alternative to Wire Bonding](PDFs/2020/a06.pdf).
 ==========================================================
 
 [paper](PDFs/2020/a06.pdf)
+[repo](https://github.com/letter108/Wirebonding)
 
 Abstract
 --------
@@ -145,14 +134,12 @@ Authors
 1. Pascal J Sossou <pascalsossou1@gmail.com> (Poolesville High School)
 2. Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 
-Source Code
--------
-[https://github.com/letter108/Wirebonding](https://github.com/letter108/Wirebonding)
 
 [Article #7: A power router for gridded cell placement](PDFs/2020/a07.pdf).
 =========================================================
 
 [paper](PDFs/2020/a07.pdf)
+[repo](https://github.com/asyncvlsi/PWRoute)
 
 Abstract
 --------
@@ -164,14 +151,12 @@ Authors
 2. Yihang Yang <yihang.yang@yale.edu> (Yale University)
 3. Rajit Manohar <rajit.manohar@yale.edu> (Yale University)
 
-Source Code
--------
-[https://github.com/asyncvlsi/PWRoute](https://github.com/asyncvlsi/PWRoute)
 
 [Article #8: A PostScript Toolkit for Electronic Design](PDFs/2020/a08.pdf).
 ==========================================================
 
 [paper](PDFs/2020/a08.pdf)
+[repo](https://github.com/profmadden/pstools)
 
 Abstract
 --------
@@ -184,14 +169,12 @@ Authors
 3. Mohammad A. Khasawneh <mkhasaw1@binghamton.edu> (SUNY Binghamton/MathWorks)
 4. Patrick H. Madden <pmadden@binghamton.edu> (SUNY Binghamton)
 
-Source Code
--------
-[https://github.com/profmadden/pstools](https://github.com/profmadden/pstools)
 
 [Article #9: OpenPhySyn: An Open-Source Physical Synthesis Optimization Toolkit](PDFs/2020/a09.pdf).
 ==================================================================================
 
 [paper](PDFs/2020/a09.pdf)
+[repo](https://github.com/scale-lab/OpenPhySyn)
 
 Abstract
 --------
@@ -202,14 +185,12 @@ Authors
 1. Ahmed Agiza <ahmed_agiza@brown.edu> (Brown University)
 2. Sherief Reda <sherief_reda@brown.edu> (Brown University)
 
-Source Code
--------
-[https://github.com/scale-lab/OpenPhySyn](https://github.com/scale-lab/OpenPhySyn)
 
 [Article #10: Universal Hardware Data Model](PDFs/2020/a10.pdf).
 =============================================
 
 [paper](PDFs/2020/a10.pdf)
+[repo](https://github.com/alainmarcel/UHDM)
 
 Abstract
 --------
@@ -221,15 +202,13 @@ Authors
 1. Alain Dargelas <alain.dargelas@gmail.com> (Data Model Solutions, LLC)
 2. Henner Zeller <hzeller@google.com> (Google)
 
-Source Code
--------
-[https://github.com/alainmarcel/UHDM](https://github.com/alainmarcel/UHDM)
 
 [Article #11: Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System
 for VLSI CAD](PDFs/2020/a11.pdf).
 ================================================================================================
 
 [paper](PDFs/2020/a11.pdf)
+[repo](http://taskflow.github.io)
 
 Abstract
 --------
@@ -239,14 +218,12 @@ Author
 ------
 tsung-wei.huang@utah.edu
 
-Source Code
--------
-[http://taskflow.github.io](http://taskflow.github.io)
 
 [Article #12: A Digital Flow for Asynchronous VLSI Systems: Status Update](PDFs/2020/a12.pdf).
 ===========================================================================
 
 [paper](PDFs/2020/a12.pdf)
+[repo](https://github.com/asyncvlsi/)
 
 Abstract
 --------
@@ -264,14 +241,12 @@ Authors
 8. Keshav Pingali <pingali@cs.utexas.edu> (University of Texas at Austin)
 9. Rajit Manohar <rajit.manohar@yale.edu> (Yale University)
 
-Source Code
--------
-[https://github.com/asyncvlsi/](https://github.com/asyncvlsi/)
 
 [Article #13: An Automatic Schematic Generation Tool for SPICE Netlists](PDFs/2020/a13.pdf).
 =========================================================================
 
 [paper](PDFs/2020/a13.pdf)
+[repo](https://github.com/aidangoettsch/asg)
 
 Abstract
 --------
@@ -282,15 +257,13 @@ Author
 ------
 Aidan Goettsch <aidangoettsch@gmail.com> (Poolesville High School)
 
-Source Code
--------
-[https://github.com/aidangoettsch/asg](https://github.com/aidangoettsch/asg)
 
 [Article #14: Cocoon: An Open Source Infrastructure for Integrated EDA with Interoperability
 and Interactivity](PDFs/2020/a14.pdf).
 ================================================================================================
 
 [paper](PDFs/2020/a14.pdf)
+[repo](https://github.com/pku-dasys/cocoon)
 
 Abstract
 --------
@@ -310,14 +283,12 @@ Authors
 4. Yibo Lin <yibolin@pku.edu.cn> (Peking University)
 5. Guojie Luo <gluo@pku.edu.cn> (Peking University)
 
-Source Code
--------
-[https://github.com/pku-dasys/cocoon](https://github.com/pku-dasys/cocoon)
 
 [Article #15: PyVSC: SystemVerilog-Style Constraints, and Coverage in Python](PDFs/2020/a15.pdf).
 ==============================================================================
 
 [paper](PDFs/2020/a15.pdf)
+[repo](https://github.com/fvutils/pyvsc)
 
 Abstract
 --------
@@ -327,15 +298,13 @@ Author
 ------
 Matthew Ballance <matt.ballance@gmail.com> (None)
 
-Source Code
--------
-[https://github.com/fvutils/pyvsc](https://github.com/fvutils/pyvsc)
 
 [Article #16: Facilitating the Specification and Implementation of Pipelined Designs with
 Skeletor](PDFs/2020/a16.pdf).
 ================================================================================================
 
 [paper](PDFs/2020/a16.pdf)
+[repo](https://github.com/jaquerinte/Skeletor)
 
 Abstract
 --------
@@ -354,14 +323,12 @@ Authors
 5. Leonidas Kosmidis <leonidas.kosmidis@bsc.es> (Barcelona Supercomputing Center (BSC) and
    Universitat Politècnica de Catalunya (UPC))
 
-Source Code
--------
-[https://github.com/jaquerinte/Skeletor](https://github.com/jaquerinte/Skeletor)
 
 [Article #17: LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow](PDFs/2020/a17.pdf).
 ========================================================================================
 
 [paper](PDFs/2020/a17.pdf)
+[repo](https://github.com/LNISProjects/LSOracle)
 
 Abstract
 --------
@@ -390,14 +357,12 @@ Authors
 4. Xifan Tang <xifan.tang@utah.edu> (University of Utah)
 5. Pierre-Emmanuel Gaillardon <pierre-emmanuel.gaillardon@utah.edu> (University of Utah)
 
-Source Code
--------
-[https://github.com/LNISProjects/LSOracle](https://github.com/LNISProjects/LSOracle)
 
 [Article #18: An Open-source ToolSet for FPAA Design](PDFs/2020/a18.pdf).
 ======================================================
 
 [paper](PDFs/2020/a18.pdf)
+[repo](http://hasler.ece.gatech.edu/FPAAtool/index.html)
 
 Abstract
 --------
@@ -408,14 +373,12 @@ Authors
 1. Jennifer Hasler <jennifer.hasler@ece.gatech.edu> (Georgia Institute of Technology)
 2. Aishwarya <anatarajan35@gatech.edu> (Natarajan)
 
-Source Code
--------
-[http://hasler.ece.gatech.edu/FPAAtool/index.html](http://hasler.ece.gatech.edu/FPAAtool/index.html)
 
 [Article #19: OpenFPGA: Towards Automated Prototyping for Versatile FPGAs](PDFs/2020/a19.pdf).
 ===========================================================================
 
 [paper](PDFs/2020/a19.pdf)
+[repo](https://github.com/LNIS-Projects/OpenFPGA)
 
 Abstract
 --------
@@ -444,14 +407,12 @@ Authors
 5. Baudouin Chauviere <baudouin.chauviere@utah.edu> (University of Utah)
 6. Pierre-Emmanuel Gaillardon <pierre-emmanuel.gaillardon@utah.edu> (University of Utah)
 
-Source Code
--------
-[https://github.com/LNIS-Projects/OpenFPGA](https://github.com/LNIS-Projects/OpenFPGA)
 
 [Article #20: Edalize it. Don’t critizise it](PDFs/2020/a20.pdf).
 ================================================
 
 [paper](PDFs/2020/a20.pdf)
+[repo](https://github.com/olofk/edalize)
 
 Abstract
 --------
@@ -461,14 +422,12 @@ Author
 ------
 Olof Kindgren <olof.kindgren@gmail.com> (FOSSi Foundation, Qamcom)
 
-Source Code
--------
-[https://github.com/olofk/edalize](https://github.com/olofk/edalize)
 
 [Article #21: OpenLANE: The Open-Source Digital ASIC Implementation Flow](PDFs/2020/a21.pdf).
 ==========================================================================
 
 [paper](PDFs/2020/a21.pdf)
+[repo](https://github.com/efabless/openlane)
 
 Abstract
 --------
@@ -486,14 +445,12 @@ Authors
 1. Ahmed Ghazy <ax3ghazy@aucegypt.edu> (eFabless)
 2. Mohamed Shalan <mshalan@aucegypt.edu> (The American University in Cairo)
 
-Source Code
--------
-[https://github.com/efabless/openlane](https://github.com/efabless/openlane)
 
 [Article #22: Pillars: An Integrated CGRA Design Framework](PDFs/2020/a22.pdf).
 ============================================================
 
 [paper](PDFs/2020/a22.pdf)
+[repo](https://github.com/pku-dasys/pillars)
 
 Abstract
 --------
@@ -510,14 +467,12 @@ Authors
 1. Yijiang Guo <yijiang@pku.edu.cn> (Peking University)
 2. Guojie Luo <gluo@pku.edu.cn> (Peking University)
 
-Source Code
--------
-[https://github.com/pku-dasys/pillars](https://github.com/pku-dasys/pillars)
 
 [Article #23: Automatically Building Digital Symbol Libraries](PDFs/2020/a23.pdf).
 ================================================================
 
 [paper](PDFs/2020/a23.pdf)
+[repo](https://github.com/arjunr10/eda-symbol_libraries)
 
 Abstract
 --------
@@ -528,15 +483,13 @@ Author
 ------
 Arjun Rakheja <arjun.rakheja@gmail.com> (Poolesville High School in Montgomery County, MD.)
 
-Source Code
--------
-[https://github.com/arjunr10/eda-symbol_libraries](https://github.com/arjunr10/eda-symbol_libraries)
 
 [Article #24: AxLS: An Open-Source Framework for Netlist Transformation Approximate Logic
 Synthesis](PDFs/2020/a24.pdf).
 ================================================================================================
 
 [paper](PDFs/2020/a24.pdf)
+[repo](https://github.com/ECASLab/AxLS)
 
 Abstract
 --------
@@ -549,14 +502,12 @@ Authors
 3. Muhammad Shafique <muhammad.shafique@nyu.edu> (New York University Abu Dhabi)
 4. Jörg Henkel <henkel@kit.edu> (Karlsruhe Institute of Technology)
 
-Source Code
--------
-[https://github.com/ECASLab/AxLS](https://github.com/ECASLab/AxLS)
 
 [Article #25: GOLDMINE: A tool for enhancing verification productivity](PDFs/2020/a25.pdf).
 =========================================================================
 
 [paper](PDFs/2020/a25.pdf)
+[repo](https://goldmine.csl.illinois.edu)
 
 Abstract
 --------
@@ -569,7 +520,4 @@ Authors
 3. Anjana S. Kumar <anjanas3@illinois.edu> (University of Illinois at Urbana-Champaign)
 4. Shobha Vasudevan <shobhav@illinois.edu> (University of Illinois at Urbana-Champaign)
 
-Source Code
--------
-[https://goldmine.csl.illinois.edu](https://goldmine.csl.illinois.edu)
 
