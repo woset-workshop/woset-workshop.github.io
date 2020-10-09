@@ -10,7 +10,7 @@ WOSET will now be a virtual workshop and may expand to more than a single day to
 There will be no registration cost to attend!
 
 The 2020 WOSET program is available at
-[WOSET 2020](https://woset2020.hotcrp.com/)
+[WOSET 2020](WOSET2020.md)
 
 The schedule will be posted soon.
 
