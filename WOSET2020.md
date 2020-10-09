@@ -37,7 +37,7 @@ Authors
 
 Source Code
 -------
-(https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding)
+[https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding](https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding)
 
 [Article #2: Towards an Open-Source Verification Method with Chisel and Scala](PDFs/2020/a02.pdf).
 ================================================================================
@@ -68,7 +68,7 @@ Authors
 
 Source Code
 -------
-https://github.com/chisel-uvm
+[https://github.com/chisel-uvm](https://github.com/chisel-uvm)
 
 [Article #3: Google/SkyWater and the Promise of the Open PDK](PDFs/2020/a03.pdf).
 ===============================================================
@@ -85,7 +85,7 @@ Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 
 Source Code
 -------
-http://github.com/google/skywater-pdk
+[http://github.com/google/skywater-pdk](http://github.com/google/skywater-pdk)
 
 [Article #4: A Push-button Idea to GDS-II SoC Design Flow](PDFs/2020/a04.pdf).
 ============================================================
@@ -111,7 +111,7 @@ Authors
 
 Source Code
 -------
-https://github.com/habibagamal/SoC_Automation
+[https://github.com/habibagamal/SoC_Automation](https://github.com/habibagamal/SoC_Automation)
 
 [Article #5: CVC: Circuit Validity Checker An open source netlist reliabilty verification
 system](PDFs/2020/a05.pdf).
@@ -129,7 +129,7 @@ Mitch Bailey <d.bailey@shuharisystem.com> (Shuhari System)
 
 Source Code
 -------
-https://github.com/d-m-bailey/cvc
+[https://github.com/d-m-bailey/cvc](https://github.com/d-m-bailey/cvc)
 
 [Article #6: An Open Source Alternative to Wire Bonding](PDFs/2020/a06.pdf).
 ==========================================================
@@ -147,7 +147,7 @@ Authors
 
 Source Code
 -------
-https://github.com/letter108/Wirebonding
+[https://github.com/letter108/Wirebonding](https://github.com/letter108/Wirebonding)
 
 [Article #7: A power router for gridded cell placement](PDFs/2020/a07.pdf).
 =========================================================
@@ -166,7 +166,7 @@ Authors
 
 Source Code
 -------
-https://github.com/asyncvlsi/PWRoute
+[https://github.com/asyncvlsi/PWRoute](https://github.com/asyncvlsi/PWRoute)
 
 [Article #8: A PostScript Toolkit for Electronic Design](PDFs/2020/a08.pdf).
 ==========================================================
@@ -186,7 +186,7 @@ Authors
 
 Source Code
 -------
-https://github.com/profmadden/pstools
+[https://github.com/profmadden/pstools](https://github.com/profmadden/pstools)
 
 [Article #9: OpenPhySyn: An Open-Source Physical Synthesis Optimization Toolkit](PDFs/2020/a09.pdf).
 ==================================================================================
@@ -204,7 +204,7 @@ Authors
 
 Source Code
 -------
-https://github.com/scale-lab/OpenPhySyn
+[https://github.com/scale-lab/OpenPhySyn](https://github.com/scale-lab/OpenPhySyn)
 
 [Article #10: Universal Hardware Data Model](PDFs/2020/a10.pdf).
 =============================================
@@ -223,7 +223,7 @@ Authors
 
 Source Code
 -------
-https://github.com/alainmarcel/UHDM
+[https://github.com/alainmarcel/UHDM](https://github.com/alainmarcel/UHDM)
 
 [Article #11: Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System
 for VLSI CAD](PDFs/2020/a11.pdf).
@@ -241,7 +241,7 @@ tsung-wei.huang@utah.edu
 
 Source Code
 -------
-http://taskflow.github.io
+[http://taskflow.github.io](http://taskflow.github.io)
 
 [Article #12: A Digital Flow for Asynchronous VLSI Systems: Status Update](PDFs/2020/a12.pdf).
 ===========================================================================
@@ -266,7 +266,7 @@ Authors
 
 Source Code
 -------
-https://github.com/asyncvlsi/
+[https://github.com/asyncvlsi/](https://github.com/asyncvlsi/)
 
 [Article #13: An Automatic Schematic Generation Tool for SPICE Netlists](PDFs/2020/a13.pdf).
 =========================================================================
@@ -284,7 +284,7 @@ Aidan Goettsch <aidangoettsch@gmail.com> (Poolesville High School)
 
 Source Code
 -------
-https://github.com/aidangoettsch/asg
+[https://github.com/aidangoettsch/asg](https://github.com/aidangoettsch/asg)
 
 [Article #14: Cocoon: An Open Source Infrastructure for Integrated EDA with Interoperability
 and Interactivity](PDFs/2020/a14.pdf).
@@ -312,7 +312,7 @@ Authors
 
 Source Code
 -------
-https://github.com/pku-dasys/cocoon
+[https://github.com/pku-dasys/cocoon](https://github.com/pku-dasys/cocoon)
 
 [Article #15: PyVSC: SystemVerilog-Style Constraints, and Coverage in Python](PDFs/2020/a15.pdf).
 ==============================================================================
@@ -329,7 +329,7 @@ Matthew Ballance <matt.ballance@gmail.com> (None)
 
 Source Code
 -------
-https://github.com/fvutils/pyvsc
+[https://github.com/fvutils/pyvsc](https://github.com/fvutils/pyvsc)
 
 [Article #16: Facilitating the Specification and Implementation of Pipelined Designs with
 Skeletor](PDFs/2020/a16.pdf).
@@ -356,7 +356,7 @@ Authors
 
 Source Code
 -------
-https://github.com/jaquerinte/Skeletor
+[https://github.com/jaquerinte/Skeletor](https://github.com/jaquerinte/Skeletor)
 
 [Article #17: LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow](PDFs/2020/a17.pdf).
 ========================================================================================
@@ -392,7 +392,7 @@ Authors
 
 Source Code
 -------
-https://github.com/LNISProjects/LSOracle
+[https://github.com/LNISProjects/LSOracle](https://github.com/LNISProjects/LSOracle)
 
 [Article #18: An Open-source ToolSet for FPAA Design](PDFs/2020/a18.pdf).
 ======================================================
@@ -410,7 +410,7 @@ Authors
 
 Source Code
 -------
-http://hasler.ece.gatech.edu/FPAAtool/index.html
+[http://hasler.ece.gatech.edu/FPAAtool/index.html](http://hasler.ece.gatech.edu/FPAAtool/index.html)
 
 [Article #19: OpenFPGA: Towards Automated Prototyping for Versatile FPGAs](PDFs/2020/a19.pdf).
 ===========================================================================
@@ -446,7 +446,7 @@ Authors
 
 Source Code
 -------
-https://github.com/LNIS-Projects/OpenFPGA
+[https://github.com/LNIS-Projects/OpenFPGA](https://github.com/LNIS-Projects/OpenFPGA)
 
 [Article #20: Edalize it. Don’t critizise it](PDFs/2020/a20.pdf).
 ================================================
@@ -463,7 +463,7 @@ Olof Kindgren <olof.kindgren@gmail.com> (FOSSi Foundation, Qamcom)
 
 Source Code
 -------
-https://github.com/olofk/edalize
+[https://github.com/olofk/edalize](https://github.com/olofk/edalize)
 
 [Article #21: OpenLANE: The Open-Source Digital ASIC Implementation Flow](PDFs/2020/a21.pdf).
 ==========================================================================
@@ -488,7 +488,7 @@ Authors
 
 Source Code
 -------
-https://github.com/efabless/openlane
+[https://github.com/efabless/openlane](https://github.com/efabless/openlane)
 
 [Article #22: Pillars: An Integrated CGRA Design Framework](PDFs/2020/a22.pdf).
 ============================================================
@@ -512,7 +512,7 @@ Authors
 
 Source Code
 -------
-https://github.com/pku-dasys/pillars
+[https://github.com/pku-dasys/pillars](https://github.com/pku-dasys/pillars)
 
 [Article #23: Automatically Building Digital Symbol Libraries](PDFs/2020/a23.pdf).
 ================================================================
@@ -530,7 +530,7 @@ Arjun Rakheja <arjun.rakheja@gmail.com> (Poolesville High School in Montgomery C
 
 Source Code
 -------
-https://github.com/arjunr10/eda-symbol_libraries
+[https://github.com/arjunr10/eda-symbol_libraries](https://github.com/arjunr10/eda-symbol_libraries)
 
 [Article #24: AxLS: An Open-Source Framework for Netlist Transformation Approximate Logic
 Synthesis](PDFs/2020/a24.pdf).
@@ -551,7 +551,7 @@ Authors
 
 Source Code
 -------
-https://github.com/ECASLab/AxLS
+[https://github.com/ECASLab/AxLS](https://github.com/ECASLab/AxLS)
 
 [Article #25: GOLDMINE: A tool for enhancing verification productivity](PDFs/2020/a25.pdf).
 =========================================================================
@@ -571,5 +571,5 @@ Authors
 
 Source Code
 -------
-https://goldmine.csl.illinois.edu
+[https://goldmine.csl.illinois.edu](https://goldmine.csl.illinois.edu)
 
