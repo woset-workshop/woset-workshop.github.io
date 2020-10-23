@@ -8,9 +8,8 @@ To cite an article, please use this format:
 
 [Article 1](#Article-1)
 
-# Article-1
-
-## [Hypergraph Partitioning via Geometric Embeddings](PDFs/2020/a01.pdf).
+# Article 1
+## Hypergraph Partitioning via Geometric Embeddings
 
 [paper](PDFs/2020/a01.pdf)
 [repo](https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding)
@@ -36,7 +35,8 @@ partitions, while ensuring strong determinism.
 2. Udit Agarwal <udit@utexas.edu> (UT Austin)
 3. Keshav Pingali <pingali@cs.utexas.edu> (The University of Texas at Austin)
 
-#[Article #2: Towards an Open-Source Verification Method with Chisel and Scala](PDFs/2020/a02.pdf).
+# Article 2
+## Towards an Open-Source Verification Method with Chisel and Scala
 
 [paper](PDFs/2020/a02.pdf)
 [repo](https://github.com/chisel-uvm)
@@ -61,7 +61,8 @@ We also explore the testing strategy used in the Universal Verification Methodol
 3. Kasper Juul Hesse Rasmussen <s183735@student.dtu.dk> (Technical University of Denmark)
 4. Richard Lin <richard.lin@berkeley.edu> (University of California, Berkeley)
 
-#[Article #3: Google/SkyWater and the Promise of the Open PDK](PDFs/2020/a03.pdf).
+# Article 3
+## Google/SkyWater and the Promise of the Open PDK
 
 [paper](PDFs/2020/a03.pdf)
 [repo](http://github.com/google/skywater-pdk)
@@ -73,7 +74,8 @@ Author
 Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 
 
-#[Article #4: A Push-button Idea to GDS-II SoC Design Flow](PDFs/2020/a04.pdf).
+# Article 4
+## A Push-button Idea to GDS-II SoC Design Flow
 
 [paper](PDFs/2020/a04.pdf)
 [repo](https://github.com/habibagamal/SoC_Automation)
@@ -94,7 +96,8 @@ flow. SoCGen is tailored for SoCs intended for internet of things
 3. Mohamed Shalan <mshalan@aucegypt.edu> (The American University in Cairo)
 
 
-#[Article #5: CVC: Circuit Validity Checker An open source netlist reliabilty verification system](PDFs/2020/a05.pdf).
+# Article 5
+## CVC: Circuit Validity Checker An open source netlist reliabilty verification system
 
 [paper](PDFs/2020/a05.pdf)
 [repo](https://github.com/d-m-bailey/cvc)
@@ -106,7 +109,8 @@ Author
 Mitch Bailey <d.bailey@shuharisystem.com> (Shuhari System)
 
 
-#[Article #6: An Open Source Alternative to Wire Bonding](PDFs/2020/a06.pdf).
+# Article 6
+## An Open Source Alternative to Wire Bonding
 
 [paper](PDFs/2020/a06.pdf)
 [repo](https://github.com/letter108/Wirebonding)
@@ -119,7 +123,8 @@ Before the end of the millennium, the infrastructure concerned with circuit chip
 2. Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 
 
-#[Article #7: A power router for gridded cell placement](PDFs/2020/a07.pdf).
+# Article 7
+## A power router for gridded cell placement
 
 [paper](PDFs/2020/a07.pdf)
 [repo](https://github.com/asyncvlsi/PWRoute)
@@ -133,7 +138,8 @@ Electronic design automation (EDA) tools for asynchronous circuits, especially p
 3. Rajit Manohar <rajit.manohar@yale.edu> (Yale University)
 
 
-#[Article #8: A PostScript Toolkit for Electronic Design](PDFs/2020/a08.pdf).
+# Article 8
+## A PostScript Toolkit for Electronic Design
 
 [paper](PDFs/2020/a08.pdf)
 [repo](https://github.com/profmadden/pstools)
@@ -148,7 +154,8 @@ Design automation tools operate on large problems, and often take hours or days 
 4. Patrick H. Madden <pmadden@binghamton.edu> (SUNY Binghamton)
 
 
-#[Article #9: OpenPhySyn: An Open-Source Physical Synthesis Optimization Toolkit](PDFs/2020/a09.pdf).
+# Article 9
+## OpenPhySyn: An Open-Source Physical Synthesis Optimization Toolkit
 
 [paper](PDFs/2020/a09.pdf)
 [repo](https://github.com/scale-lab/OpenPhySyn)
@@ -161,7 +168,8 @@ Physical synthesis is a crucial phase in modern EDA design due to the challenges
 2. Sherief Reda <sherief_reda@brown.edu> (Brown University)
 
 
-#[Article #10: Universal Hardware Data Model](PDFs/2020/a10.pdf).
+# Article 10
+## Universal Hardware Data Model
 
 [paper](PDFs/2020/a10.pdf)
 [repo](https://github.com/alainmarcel/UHDM)
@@ -175,7 +183,8 @@ Keywords—SystemVerilog 2017, Open Source Parser, Persistent Data Model
 2. Henner Zeller <hzeller@google.com> (Google)
 
 
-#[Article #11: Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System for VLSI CAD](PDFs/2020/a11.pdf).
+# Article 11
+## Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System for VLSI CAD
 
 [paper](PDFs/2020/a11.pdf)
 [repo](http://taskflow.github.io)
@@ -187,7 +196,8 @@ Author
 tsung-wei.huang@utah.edu
 
 
-#[Article #12: A Digital Flow for Asynchronous VLSI Systems: Status Update](PDFs/2020/a12.pdf).
+# Article 12
+## A Digital Flow for Asynchronous VLSI Systems: Status Update
 
 [paper](PDFs/2020/a12.pdf)
 [repo](https://github.com/asyncvlsi/)
@@ -207,7 +217,8 @@ We are developing an open-source EDA flow for asynchronous logic. Key parts of t
 9. Rajit Manohar <rajit.manohar@yale.edu> (Yale University)
 
 
-#[Article #13: An Automatic Schematic Generation Tool for SPICE Netlists](PDFs/2020/a13.pdf).
+# Article 13
+## An Automatic Schematic Generation Tool for SPICE Netlists
 
 [paper](PDFs/2020/a13.pdf)
 [repo](https://github.com/aidangoettsch/asg)
@@ -220,7 +231,8 @@ Author
 Aidan Goettsch <aidangoettsch@gmail.com> (Poolesville High School)
 
 
-#[Article #14: Cocoon: An Open Source Infrastructure for Integrated EDA with Interoperability and Interactivity](PDFs/2020/a14.pdf).
+# Article 14
+## Cocoon: An Open Source Infrastructure for Integrated EDA with Interoperability and Interactivity
 
 [paper](PDFs/2020/a14.pdf)
 [repo](https://github.com/pku-dasys/cocoon)
@@ -242,7 +254,8 @@ At last, we implement two demos using Cocoon to prove that such infrastructure i
 5. Guojie Luo <gluo@pku.edu.cn> (Peking University)
 
 
-#[Article #15: PyVSC: SystemVerilog-Style Constraints, and Coverage in Python](PDFs/2020/a15.pdf).
+# Article 15
+## PyVSC: SystemVerilog-Style Constraints, and Coverage in Python
 
 [paper](PDFs/2020/a15.pdf)
 [repo](https://github.com/fvutils/pyvsc)
@@ -254,7 +267,8 @@ Constrained-randomization and functional coverage are key elements in the widely
 Matthew Ballance <matt.ballance@gmail.com> (None)
 
 
-#[Article #16: Facilitating the Specification and Implementation of Pipelined Designs with Skeletor](PDFs/2020/a16.pdf).
+# Article 16
+## Facilitating the Specification and Implementation of Pipelined Designs with Skeletor
 
 [paper](PDFs/2020/a16.pdf)
 [repo](https://github.com/jaquerinte/Skeletor)
@@ -275,7 +289,8 @@ Skeletor is an open source EDA tool which reduces the bootstrap effort of new ha
    Universitat Politècnica de Catalunya (UPC))
 
 
-#[Article #17: LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow](PDFs/2020/a17.pdf).
+# Article 17
+## LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow
 
 [paper](PDFs/2020/a17.pdf)
 [repo](https://github.com/LNISProjects/LSOracle)
@@ -306,7 +321,8 @@ repository
 5. Pierre-Emmanuel Gaillardon <pierre-emmanuel.gaillardon@utah.edu> (University of Utah)
 
 
-#[Article #18: An Open-source ToolSet for FPAA Design](PDFs/2020/a18.pdf).
+# Article 18
+## An Open-source ToolSet for FPAA Design
 
 [paper](PDFs/2020/a18.pdf)
 [repo](http://hasler.ece.gatech.edu/FPAAtool/index.html)
@@ -319,7 +335,8 @@ This open-source toolset enables targeting and design of the fine-grain SoC Larg
 2. Aishwarya <anatarajan35@gatech.edu> (Natarajan)
 
 
-#[Article #19: OpenFPGA: Towards Automated Prototyping for Versatile FPGAs](PDFs/2020/a19.pdf).
+# Article 19
+## OpenFPGA: Towards Automated Prototyping for Versatile FPGAs
 
 [paper](PDFs/2020/a19.pdf)
 [repo](https://github.com/LNIS-Projects/OpenFPGA)
@@ -350,7 +367,8 @@ custom cells respectively.
 6. Pierre-Emmanuel Gaillardon <pierre-emmanuel.gaillardon@utah.edu> (University of Utah)
 
 
-#[Article #20: Edalize it. Don’t critizise it](PDFs/2020/a20.pdf).
+# Article 20
+## Edalize it. Don’t critizise it
 
 [paper](PDFs/2020/a20.pdf)
 [repo](https://github.com/olofk/edalize)
@@ -362,7 +380,8 @@ Edalize (https://github.com/olofk/edalize) is an abstraction library for interfa
 Olof Kindgren <olof.kindgren@gmail.com> (FOSSi Foundation, Qamcom)
 
 
-#[Article #21: OpenLANE: The Open-Source Digital ASIC Implementation Flow](PDFs/2020/a21.pdf).
+# Article 21
+## OpenLANE: The Open-Source Digital ASIC Implementation Flow
 
 [paper](PDFs/2020/a21.pdf)
 [repo](https://github.com/efabless/openlane)
@@ -382,7 +401,8 @@ them, achieving full automation.
 2. Mohamed Shalan <mshalan@aucegypt.edu> (The American University in Cairo)
 
 
-#[Article #22: Pillars: An Integrated CGRA Design Framework](PDFs/2020/a22.pdf).
+# Article 22
+## Pillars: An Integrated CGRA Design Framework
 
 [paper](PDFs/2020/a22.pdf)
 [repo](https://github.com/pku-dasys/pillars)
@@ -401,7 +421,8 @@ In the experimental evaluation, we demonstrate the capability of Pillars to mode
 2. Guojie Luo <gluo@pku.edu.cn> (Peking University)
 
 
-#[Article #23: Automatically Building Digital Symbol Libraries](PDFs/2020/a23.pdf).
+# Article 23
+## Automatically Building Digital Symbol Libraries
 
 [paper](PDFs/2020/a23.pdf)
 [repo](https://github.com/arjunr10/eda-symbol_libraries)
@@ -414,7 +435,8 @@ Git Hub repository: https://github.com/arjunr10/eda-symbol_libraries
 Arjun Rakheja <arjun.rakheja@gmail.com> (Poolesville High School in Montgomery County, MD.)
 
 
-#[Article #24: AxLS: An Open-Source Framework for Netlist Transformation Approximate Logic Synthesis](PDFs/2020/a24.pdf).
+# Article 24
+## AxLS: An Open-Source Framework for Netlist Transformation Approximate Logic Synthesis
 
 [paper](PDFs/2020/a24.pdf)
 [repo](https://github.com/ECASLab/AxLS)
@@ -429,7 +451,8 @@ With the rise of Approximate Computing as an energy-efficient design paradigm fo
 4. Jörg Henkel <henkel@kit.edu> (Karlsruhe Institute of Technology)
 
 
-#[Article #25: GOLDMINE: A tool for enhancing verification productivity](PDFs/2020/a25.pdf).
+# Article 25
+## GOLDMINE: A tool for enhancing verification productivity
 
 [paper](PDFs/2020/a25.pdf)
 [repo](https://goldmine.csl.illinois.edu)
