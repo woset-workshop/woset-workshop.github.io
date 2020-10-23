@@ -9,6 +9,9 @@ Co-located with ICCAD 2020, November 5.
 WOSET will now be a virtual workshop and may expand to more than a single day to accommodate time zones.
 There will be no registration cost to attend!
 
+The tentative 2020 WOSET schedule is at
+[WOSET Schedule](WOSET2020-schedule.md)
+
 The 2020 WOSET papers are available at
 [WOSET 2020](WOSET2020.md)
 
