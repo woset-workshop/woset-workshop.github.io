@@ -6,8 +6,8 @@ For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu)
 To cite an article, please use this format:   
 (author names here), "(article title here)", Article No. (article number here), Workshop on Open-Source EDA Technology (WOSET), 2020.
 
-[Article 1](#Article-1)
-[Article 25](#Article-25)
+[Article 1](#article-1)
+[Article 25](#article-25)
 
 # Article 1
 ## Hypergraph Partitioning via Geometric Embeddings
