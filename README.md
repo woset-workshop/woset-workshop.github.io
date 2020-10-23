@@ -23,28 +23,29 @@ The tentative 2020 WOSET Q&A schedule is at
 [WOSET Schedule](WOSET2020-schedule.md)
 Video presentations will be added roughly October 25, 2020.
 
-# Submission Information
-Regular Paper Submissions (2-4 pages):
+# Submission Information (closed for submission)
+
+### Regular Paper Submissions (2-4 pages):
 * Overview of an existing or under-development open-source EDA tool.
 * Overview of support infrastructure (e.g. EDA databases and design benchmarks).
 * Open-source cloud-based EDA tools
 * Position statements (e.g. critical gaps, blockers/obstacles)
 * **Please reference your open-source repository!** (because of this, review is NOT blind)
 
-Work in Progress Submissions (<5 min video):
+### Work in Progress Submissions (<5 min video):
 * Work in progress video in lieu of a traditional poster session
 * No paper submission required, video only!
 * Video will be put on WOSET site if accepted.
 * **Please reference your open-source repository!** (because of this, review is NOT blind)
 
-Prizes:
+### Prizes:
 * WOSET will award $850 in prizes to the top open-source contributions.
 
-Important dates:
+### Important dates:
 * Sept 6th 2020: submission due date.
 * Sept 15th 2020: notification due date.
 
-Submission Information:
+### Submission Information:
 * For regular papers, please submit 2-4 page (US Letter) papers using the [IEEE Conference Template](https://www.ieee.org/conferences/publishing/templates.html)
 * For work in progress videos, please submit a 1 page PDF with the title, <300 word abstract (optional), and a link to your <5 minute **YouTube** video.
 * All submissions are at [https://woset2020.hotcrp.com/](https://woset2020.hotcrp.com/)
