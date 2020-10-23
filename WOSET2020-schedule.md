@@ -1,6 +1,7 @@
 # WOSET 2020 Tentative Schedule
 
 ## Session 1
+
 Time (GMT) | Time (PST) | Article # | Title
 --- | ---  | --- | --- 
 4:00 PM | 9:00 AM | 3 | [Google/SkyWater and the Promise of the Open PDK](https://woset-workshop.github.io/WOSET2020.html#article-3)
@@ -13,6 +14,7 @@ Time (GMT) | Time (PST) | Article # | Title
 
  
 ## Slack Discussion (Short Papers)
+
 Time (GMT) | Time (PST) | Article # | Title
 --- | ---  | --- | --- 
 5:45-6:45PM | 10:45-11:45AM | 1 | [Hypergraph Partitioning via Geometric Embeddings](https://woset-workshop.github.io/WOSET2020.html#article-1)
@@ -28,6 +30,7 @@ Time (GMT) | Time (PST) | Article # | Title
 5:45-6:45PM | 10:45-11:45AM | 23 | [Automatically Building Digital Symbol Libraries](https://woset-workshop.github.io/WOSET2020.html#article-23)
 
 ## Session 2
+
 Time (GMT) | Time (PST) | Article # | Title
 --- | ---  | --- | --- 
 6:45 PM | 11:45 AM | 22 | [Pillars: An Integrated CGRA Design Framework](https://woset-workshop.github.io/WOSET2020.html#article-22)
