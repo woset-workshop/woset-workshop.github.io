@@ -10,7 +10,7 @@ Co-located with ICCAD 2020, November 5.
 ### Registration
 Please register for WOSET at:
 [WOSET Registration (part of ICCAD)](https://iccad.com/registration-rates)
-There is no registration cost to attend!
+There is no registration cost to attend, you do NOT need to pay to register for ICCAD!
 
 ### Proceedings
 
