@@ -1,6 +1,6 @@
 # WOSET 2020 Tentative Schedule
 
-## Session 1
+# Session 1
 
 Time (GMT) | Time (PST) | Article # | Title
 --- | ---  | --- | --- 
@@ -13,7 +13,7 @@ Time (GMT) | Time (PST) | Article # | Title
 5:30 PM | 10:30 AM | 4 |  [A Push-button Idea to GDS-II SoC Design Flow](https://woset-workshop.github.io/WOSET2020.html#article-4)
 
  
-## Slack Discussion (Short Papers)
+# Short Papers
 
 Time (GMT) | Time (PST) | Article # | Title
 --- | ---  | --- | --- 
@@ -29,7 +29,7 @@ Time (GMT) | Time (PST) | Article # | Title
 5:45-6:45PM | 10:45-11:45AM | 20 | [Edalize it. Don't critizise it](https://woset-workshop.github.io/WOSET2020.html#article-20)
 5:45-6:45PM | 10:45-11:45AM | 23 | [Automatically Building Digital Symbol Libraries](https://woset-workshop.github.io/WOSET2020.html#article-23)
 
-## Session 2
+# Session 2
 
 Time (GMT) | Time (PST) | Article # | Title
 --- | ---  | --- | --- 
