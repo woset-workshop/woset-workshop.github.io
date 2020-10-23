@@ -6,15 +6,17 @@ The WOSET workshop aims to galvanize the open-source EDA movement. The workshop 
 # WOSET 2020 Program
 
 Co-located with ICCAD 2020, November 5.
-WOSET will now be a virtual workshop and may expand to more than a single day to accommodate time zones.
-There will be no registration cost to attend!
+
+Please register for WOSET at:
+[WOSET Registration (part of ICCAD)](https://iccad.com/registration-rates)
+There is no registration cost to attend!
+
+The 2020 WOSET paper proceedings are available at
+[WOSET 2020](WOSET2020.md)
 
 The tentative 2020 WOSET Q&A schedule is at
 [WOSET Schedule](WOSET2020-schedule.md)
 Video presentations will be added roughly October 25, 2020.
-
-The 2020 WOSET paper proceedings are available at
-[WOSET 2020](WOSET2020.md)
 
 # Submission Information
 Regular Paper Submissions (2-4 pages):
