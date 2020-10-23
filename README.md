@@ -3,16 +3,21 @@
 
 The WOSET workshop aims to galvanize the open-source EDA movement. The workshop will bring together EDA researchers who are committed to open-source principles to share their experiences and coordinate efforts towards developing a reliable, fully open-source EDA flow. The workshop will feature presentations and posters that overview existing or under-development open-source tools, designs and technology libraries. A live demo session for tools in advanced state will be planned. The workshop will feature a panel on the present status and future challenges in open-source EDA, and how to coordinate efforts and ensure quality and interoperability across open-source tools. A cash award will be given for a Best Tool Award.
 
-# WOSET 2020 Program
+# WOSET 2020
 
 Co-located with ICCAD 2020, November 5.
 
+### Registration
 Please register for WOSET at:
 [WOSET Registration (part of ICCAD)](https://iccad.com/registration-rates)
 There is no registration cost to attend!
 
+### Proceedings
+
 The 2020 WOSET paper proceedings are available at
 [WOSET 2020](WOSET2020.md)
+
+### Schedule
 
 The tentative 2020 WOSET Q&A schedule is at
 [WOSET Schedule](WOSET2020-schedule.md)
