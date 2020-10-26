@@ -7,6 +7,7 @@ To cite an article, please use this format:
 ## Hypergraph Partitioning via Geometric Embeddings
 
 [paper](PDFs/2020/a01.pdf)
+[slides](PDFs/2020/a01-slides.pdf)
 [repo](https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding)
 
 ### Abstract
@@ -34,6 +35,7 @@ partitions, while ensuring strong determinism.
 ## Towards an Open-Source Verification Method with Chisel and Scala
 
 [paper](PDFs/2020/a02.pdf)
+[slides](PDFs/2020/a02-slides.pdf)
 [repo](https://github.com/chisel-uvm)
 
 ### Abstract
@@ -60,6 +62,7 @@ We also explore the testing strategy used in the Universal Verification Methodol
 ## Google/SkyWater and the Promise of the Open PDK
 
 [paper](PDFs/2020/a03.pdf)
+[slides](PDFs/2020/a03-slides.pdf)
 [repo](http://github.com/google/skywater-pdk)
 
 ### Abstract
@@ -73,6 +76,7 @@ Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 ## A Push-button Idea to GDS-II SoC Design Flow
 
 [paper](PDFs/2020/a04.pdf)
+[slides](PDFs/2020/a04-slides.pdf)
 [repo](https://github.com/habibagamal/SoC_Automation)
 
 ### Abstract
@@ -95,6 +99,7 @@ flow. SoCGen is tailored for SoCs intended for internet of things
 ## CVC: Circuit Validity Checker An open source netlist reliabilty verification system
 
 [paper](PDFs/2020/a05.pdf)
+[slides](PDFs/2020/a05-slides.pdf)
 [repo](https://github.com/d-m-bailey/cvc)
 
 ### Abstract
@@ -167,6 +172,7 @@ Physical synthesis is a crucial phase in modern EDA design due to the challenges
 ## Universal Hardware Data Model
 
 [paper](PDFs/2020/a10.pdf)
+[slides](PDFs/2020/a10-slides.pdf)
 [repo](https://github.com/alainmarcel/UHDM)
 
 ### Abstract
@@ -195,6 +201,7 @@ tsung-wei.huang@utah.edu
 ## A Digital Flow for Asynchronous VLSI Systems: Status Update
 
 [paper](PDFs/2020/a12.pdf)
+[slides](PDFs/2020/a12-slides.pdf)
 [repo](https://github.com/asyncvlsi/)
 
 ### Abstract
@@ -216,6 +223,7 @@ We are developing an open-source EDA flow for asynchronous logic. Key parts of t
 ## An Automatic Schematic Generation Tool for SPICE Netlists
 
 [paper](PDFs/2020/a13.pdf)
+[slides](PDFs/2020/a13-slides.pdf)
 [repo](https://github.com/aidangoettsch/asg)
 
 ### Abstract
@@ -230,6 +238,7 @@ Aidan Goettsch <aidangoettsch@gmail.com> (Poolesville High School)
 ## Cocoon: An Open Source Infrastructure for Integrated EDA with Interoperability and Interactivity
 
 [paper](PDFs/2020/a14.pdf)
+[slides](PDFs/2020/a14-slides.pdf)
 [repo](https://github.com/pku-dasys/cocoon)
 
 ### Abstract
@@ -253,6 +262,7 @@ At last, we implement two demos using Cocoon to prove that such infrastructure i
 ## PyVSC: SystemVerilog-Style Constraints, and Coverage in Python
 
 [paper](PDFs/2020/a15.pdf)
+[slides](PDFs/2020/a15-slides.pdf)
 [repo](https://github.com/fvutils/pyvsc)
 
 ### Abstract
@@ -379,6 +389,7 @@ Olof Kindgren <olof.kindgren@gmail.com> (FOSSi Foundation, Qamcom)
 ## OpenLANE: The Open-Source Digital ASIC Implementation Flow
 
 [paper](PDFs/2020/a21.pdf)
+[slides](PDFs/2020/a21-slides.pdf)
 [repo](https://github.com/efabless/openlane)
 
 ### Abstract
@@ -400,6 +411,7 @@ them, achieving full automation.
 ## Pillars: An Integrated CGRA Design Framework
 
 [paper](PDFs/2020/a22.pdf)
+[slides](PDFs/2020/a22-slides.pdf)
 [repo](https://github.com/pku-dasys/pillars)
 
 ### Abstract
@@ -434,6 +446,7 @@ Arjun Rakheja <arjun.rakheja@gmail.com> (Poolesville High School in Montgomery C
 ## AxLS: An Open-Source Framework for Netlist Transformation Approximate Logic Synthesis
 
 [paper](PDFs/2020/a24.pdf)
+[slides](PDFs/2020/a24-slides.pdf)
 [repo](https://github.com/ECASLab/AxLS)
 
 ### Abstract
