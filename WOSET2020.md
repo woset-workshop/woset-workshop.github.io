@@ -298,7 +298,7 @@ Skeletor is an open source EDA tool which reduces the bootstrap effort of new ha
 ## LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow
 
 [paper](PDFs/2020/a17.pdf)
-[repo](https://github.com/LNISProjects/LSOracle)
+[repo](https://github.com/LNIS-Projects/LSOracle)
 
 ### Abstract
 LSOracle is a free software logic synthesis tool that leverages
