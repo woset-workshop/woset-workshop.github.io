@@ -68,7 +68,7 @@ We also explore the testing strategy used in the Universal Verification Methodol
 ### Abstract
 For over twenty years, silicon foundry Process Design Kits (PDKs) have been a domain of secret knowledge, non-disclosure agreements (NDAs), license servers, and password-protected download sites.  The lack of transparency is at odds with today's ever-expanding universe of open source software, leading to an unusual niche for licensed commercial tools, and a very difficult space in which to explore, grow, and diversify.  To overcome the problems inherent in this arrangement, the SkyWater foundry has opened up its process description to the public, a process driven and underwritten by Google and supported by efabless and a consortium of small companies and university groups.  This talk highlights the implications of having a free and publicly-accessible foundry process description on the small world of open source electronic design automation (EDA) tools for custom silicon design, how the open source PDK repository is beneficial to the worldwide chip design community, how developers of open-source EDA tools can take advantage of it, and where to move forward in a future of open-source tools and hardware.
 
-Author
+### Author
 Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 
 
@@ -105,7 +105,7 @@ flow. SoCGen is tailored for SoCs intended for internet of things
 ### Abstract
 This paper presents a device level static verification system for quickly and easily detecting common circuit errors in CDL (Circuit Definition Language) netlists. The system includes the capability to define device parameters and voltages for multiple modes in Microsoft Excel, an interactive option for examining intermediate values, and a GUI for analyzing the results. Errors detected are similar to those found using Mentor’s Calibre-PERC [1] or Synopsys’ CCK [2]. CVC has been used on dozens of DRAM and SOC designs of up to 3B devices.
 
-Author
+### Author
 Mitch Bailey <d.bailey@shuharisystem.com> (Shuhari System)
 
 
@@ -193,7 +193,7 @@ Keywords—SystemVerilog 2017, Open Source Parser, Persistent Data Model
 ### Abstract
 This paper introduces Taskflow to address the critical question of “How can we make it easier to implement and deploy parallel computer-aided design (CAD) algorithms on large heterogeneous nodes with high performance and simultaneous high productivity?” Parallelizing CAD is an extremely challenging job. Modern CAD applications exhibit unique computational patterns and user requirements that need very strategic decomposition to benefit from parallelism. Taskflow assists researchers and developers in the implementation complexity of parallel algorithms by introducing a new high-level programming model supported by an efficient run- time. By capitalizing on emerging parallelism comprising many- core central processing units (CPUs), graphics processing units (GPUs), and custom accelerators, Taskflow enables CAD to achieve new performance and productivity milestones that were previously out of reach.
 
-Author
+### Authors
 tsung-wei.huang@utah.edu
 
 
@@ -268,7 +268,7 @@ At last, we implement two demos using Cocoon to prove that such infrastructure i
 ### Abstract
 Constrained-randomization and functional coverage are key elements in the widely-used SystemVerilog-based verification flow. The use of Python in functional verification is growing in popularity, but Python has historically lacked support for the constraint and coverage features provided by SystemVerilog. This paper describes PyVSC, a library that provides these features.
 
-### Author
+### Authors
 Matthew Ballance <matt.ballance@gmail.com> (None)
 
 
@@ -381,7 +381,7 @@ custom cells respectively.
 ### Abstract
 Edalize (https://github.com/olofk/edalize) is an abstraction library for interfacing different EDA tools with a single description of the input files and tool configuration.
 
-### Author
+### Authors
 Olof Kindgren <olof.kindgren@gmail.com> (FOSSi Foundation, Qamcom)
 
 
@@ -438,7 +438,7 @@ In the experimental evaluation, we demonstrate the capability of Pillars to mode
 Digital circuit symbols do not currently have commonly accepted open standards for the formats of such symbols. Consequently, digital cell libraries often come in proprietary formats. The purpose of this project is to automatically create a digital symbol library from a liberty file in the SkyWater pdk. An algorithm was developed in Python and a standard digital cell library was created in KiCad and XSCHEM. The algorithm is able to parse through the liberty file, store information on the cells, and successfully output a digital symbol library. In future work, steps will be taken to automatically create a spice netlist from the liberty file.
 Git Hub repository: https://github.com/arjunr10/eda-symbol_libraries
 
-### Author
+### Authors
 Arjun Rakheja <arjun.rakheja@gmail.com> (Poolesville High School in Montgomery County, MD.)
 
 
