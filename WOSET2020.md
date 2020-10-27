@@ -488,7 +488,7 @@ With the rise of Approximate Computing as an energy-efficient design paradigm fo
 
 [paper](PDFs/2020/a25.pdf)
 [presentation](https://www.youtube.com/watch?v=MdQY2NGfZtI&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=25)
-[repo](https://goldmine.csl.illinois.edu)
+[repo](https://sites.google.com/view/goldmine-illinois/home)
 
 ### Abstract
 We present GOLDMINE, an efficient, modular, scalable, open-source tool with a set of rich features targeting a wide spectrum of hardware design analysis. GOLDMINE uses multiple technologies as part of its design analysis at the Register Transfer Level (RTL). In this work, we leverage different features for various hardware verification use cases such as design understanding, assertion generation,  debugging and bug localization,  assertion ranking,  and coverage analysis.
