@@ -1,9 +1,11 @@
 # WOSET 2020 Tentative Schedule
 
-The video presentations for each paper are available on the [WOSET YouTube Playlist](https://www.youtube.com/playlist?list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV).
+The video presentations for each paper are available on the [WOSET YouTube Playlist](https://www.youtube.com/playlist?list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV).  
 
-Each time will be a Q&A with the presenting author. Please watch the video prior to the Q&A!
- For the short papers, discussion will in the WOSET Slack Workspace.
+*Please watch the videos prior to the Q&A!*
+
+Each time will be a Q&A with the presenting author via the workshop Zoom. 
+For the short papers, discussion will in the WOSET Slack Workspace.
 
 # Session 1
 
