@@ -245,7 +245,7 @@ We are developing an open-source EDA flow for asynchronous logic. Key parts of t
 This tool was designed and developed over this past summer to automatically create a schematic of a circuit given a SPICE representation. The algorithm implemented uses a series
 of constraints which are applied iteratively to optimize a "score", which reflects how desirable a given arrangement of components and wires is. These constraints currently include a set of heuristics to determine optimal placements, as well as negative reinforcement for undesirable behaviors, such as crossing wires and intersecting components. The tool currently produces output for Xschem and KiCAD's EESchema. Xschem schematics include the necessary metadata for the Xschem netlist generator to produce a netlist which is identical to the original netlist. The main application of this tool is to create a schematic which represents a circuit which was created from a hardware description language. Since netlists produced from Xschem will be near identical to the input netlist, aside from any changes, this presents a workflow which allows for easy modifications to the netlist through manipulation of the generated schematic. This can be useful for fixing minor errors in circuits without needing to recompile the circuit, which could impact unrelated parts of the circuit, making it impossible to use already fabricated parts. Additionally, the codebase provides a generic interface for parsing SPICE and symbol libraries, as well as producing schematics, which alone can have applications outside of this particular problem. Future tasks include adding additional constraints and improving the behavior of existing ones, as well as optimizing the performance with large schematics.
 
-Author
+### Authors
 Aidan Goettsch <aidangoettsch@gmail.com> (Poolesville High School)
 
 
@@ -357,7 +357,7 @@ This open-source toolset enables targeting and design of the fine-grain SoC Larg
 
 ### Authors
 1. Jennifer Hasler <jennifer.hasler@ece.gatech.edu> (Georgia Institute of Technology)
-2. Aishwarya <anatarajan35@gatech.edu> (Natarajan)
+2. Aishwarya Natarajan <anatarajan35@gatech.edu> (Georgia Institute of Technology)
 
 
 # Article 19
