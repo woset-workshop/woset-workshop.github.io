@@ -4,8 +4,8 @@ The video presentations for each paper are available on the [WOSET YouTube Playl
 
 *Please watch the videos prior to the Q&A!*
 
-Each time will be a Q&A with the presenting author via the workshop Zoom. 
-For the short papers, discussion will in the WOSET Slack Workspace.
+Each time will be a Q&A with the presenting author via the workshop Zoom call. 
+For the short papers, discussion will be chat in the WOSET Slack Workspace.
 
 # Session 1
 
