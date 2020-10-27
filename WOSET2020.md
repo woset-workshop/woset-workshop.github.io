@@ -7,6 +7,7 @@ To cite an article, please use this format:
 ## Hypergraph Partitioning via Geometric Embeddings
 
 [paper](PDFs/2020/a01.pdf)
+[presentation](https://www.youtube.com/watch?v=TMQremuD7SI&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=1)
 [slides](PDFs/2020/a01-slides.pdf)
 [repo](https://github.com/Breakinbad/Galois-1/tree/master/lonestar/experimental/embedding)
 
@@ -35,6 +36,7 @@ partitions, while ensuring strong determinism.
 ## Towards an Open-Source Verification Method with Chisel and Scala
 
 [paper](PDFs/2020/a02.pdf)
+[presentation](https://www.youtube.com/watch?v=5lwDoc2mbzE&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=2)
 [slides](PDFs/2020/a02-slides.pdf)
 [repo](https://github.com/chisel-uvm)
 
@@ -62,6 +64,7 @@ We also explore the testing strategy used in the Universal Verification Methodol
 ## Google/SkyWater and the Promise of the Open PDK
 
 [paper](PDFs/2020/a03.pdf)
+[presentation](https://www.youtube.com/watch?v=nY6FVsAvrUo&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=3)
 [slides](PDFs/2020/a03-slides.pdf)
 [repo](http://github.com/google/skywater-pdk)
 
@@ -76,6 +79,7 @@ Tim Edwards <tim@opencircuitdesign.com> (Open Circuit Design, efabless.com)
 ## A Push-button Idea to GDS-II SoC Design Flow
 
 [paper](PDFs/2020/a04.pdf)
+[presentation](https://www.youtube.com/watch?v=JaDumrEhuTU&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=4)
 [slides](PDFs/2020/a04-slides.pdf)
 [repo](https://github.com/habibagamal/SoC_Automation)
 
@@ -99,6 +103,7 @@ flow. SoCGen is tailored for SoCs intended for internet of things
 ## CVC: Circuit Validity Checker An open source netlist reliabilty verification system
 
 [paper](PDFs/2020/a05.pdf)
+[presentation](https://www.youtube.com/watch?v=_JF2h35gFQ0&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=5)
 [slides](PDFs/2020/a05-slides.pdf)
 [repo](https://github.com/d-m-bailey/cvc)
 
@@ -113,6 +118,7 @@ Mitch Bailey <d.bailey@shuharisystem.com> (Shuhari System)
 ## An Open Source Alternative to Wire Bonding
 
 [paper](PDFs/2020/a06.pdf)
+[presentation](https://www.youtube.com/watch?v=-2M6OgjNXEw&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=6)
 [repo](https://github.com/letter108/Wirebonding)
 
 ### Abstract
@@ -127,6 +133,7 @@ Before the end of the millennium, the infrastructure concerned with circuit chip
 ## A power router for gridded cell placement
 
 [paper](PDFs/2020/a07.pdf)
+[presentation](https://www.youtube.com/watch?v=SNFo878h5OM&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=7)
 [repo](https://github.com/asyncvlsi/PWRoute)
 
 ### Abstract
@@ -142,6 +149,7 @@ Electronic design automation (EDA) tools for asynchronous circuits, especially p
 ## A PostScript Toolkit for Electronic Design
 
 [paper](PDFs/2020/a08.pdf)
+[presentation](https://www.youtube.com/watch?v=G85pc5F1TBk&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=8)
 [repo](https://github.com/profmadden/pstools)
 
 ### Abstract
@@ -158,6 +166,7 @@ Design automation tools operate on large problems, and often take hours or days 
 ## OpenPhySyn: An Open-Source Physical Synthesis Optimization Toolkit
 
 [paper](PDFs/2020/a09.pdf)
+[presentation](https://www.youtube.com/watch?v=Tx95__C4vFA&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=9)
 [repo](https://github.com/scale-lab/OpenPhySyn)
 
 ### Abstract
@@ -172,6 +181,7 @@ Physical synthesis is a crucial phase in modern EDA design due to the challenges
 ## Universal Hardware Data Model
 
 [paper](PDFs/2020/a10.pdf)
+[presentation](https://www.youtube.com/watch?v=-L81ip8pkHg&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=10)
 [slides](PDFs/2020/a10-slides.pdf)
 [repo](https://github.com/alainmarcel/UHDM)
 
@@ -188,19 +198,21 @@ Keywords—SystemVerilog 2017, Open Source Parser, Persistent Data Model
 ## Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System for VLSI CAD
 
 [paper](PDFs/2020/a11.pdf)
+[presentation](https://www.youtube.com/watch?v=psQq-kG7nSs&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=11)
 [repo](http://taskflow.github.io)
 
 ### Abstract
 This paper introduces Taskflow to address the critical question of “How can we make it easier to implement and deploy parallel computer-aided design (CAD) algorithms on large heterogeneous nodes with high performance and simultaneous high productivity?” Parallelizing CAD is an extremely challenging job. Modern CAD applications exhibit unique computational patterns and user requirements that need very strategic decomposition to benefit from parallelism. Taskflow assists researchers and developers in the implementation complexity of parallel algorithms by introducing a new high-level programming model supported by an efficient run- time. By capitalizing on emerging parallelism comprising many- core central processing units (CPUs), graphics processing units (GPUs), and custom accelerators, Taskflow enables CAD to achieve new performance and productivity milestones that were previously out of reach.
 
 ### Authors
-tsung-wei.huang@utah.edu
+Tsung-Wei Huang <tsung-wei.huang@utah.edu>
 
 
 # Article 12
 ## A Digital Flow for Asynchronous VLSI Systems: Status Update
 
 [paper](PDFs/2020/a12.pdf)
+[presentation](https://www.youtube.com/watch?v=wQEkFO0LaRw&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=12)
 [slides](PDFs/2020/a12-slides.pdf)
 [repo](https://github.com/asyncvlsi/)
 
@@ -223,6 +235,7 @@ We are developing an open-source EDA flow for asynchronous logic. Key parts of t
 ## An Automatic Schematic Generation Tool for SPICE Netlists
 
 [paper](PDFs/2020/a13.pdf)
+[presentation](https://www.youtube.com/watch?v=_vJOEpMd3hM&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=13)
 [slides](PDFs/2020/a13-slides.pdf)
 [repo](https://github.com/aidangoettsch/asg)
 
@@ -238,6 +251,7 @@ Aidan Goettsch <aidangoettsch@gmail.com> (Poolesville High School)
 ## Cocoon: An Open Source Infrastructure for Integrated EDA with Interoperability and Interactivity
 
 [paper](PDFs/2020/a14.pdf)
+[presentation](https://www.youtube.com/watch?v=CjUpLRRbWZw&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=14)
 [slides](PDFs/2020/a14-slides.pdf)
 [repo](https://github.com/pku-dasys/cocoon)
 
@@ -262,6 +276,7 @@ At last, we implement two demos using Cocoon to prove that such infrastructure i
 ## PyVSC: SystemVerilog-Style Constraints, and Coverage in Python
 
 [paper](PDFs/2020/a15.pdf)
+[presentation](https://www.youtube.com/watch?v=JFKJSmP5Z3Q&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=15)
 [slides](PDFs/2020/a15-slides.pdf)
 [repo](https://github.com/fvutils/pyvsc)
 
@@ -269,13 +284,14 @@ At last, we implement two demos using Cocoon to prove that such infrastructure i
 Constrained-randomization and functional coverage are key elements in the widely-used SystemVerilog-based verification flow. The use of Python in functional verification is growing in popularity, but Python has historically lacked support for the constraint and coverage features provided by SystemVerilog. This paper describes PyVSC, a library that provides these features.
 
 ### Authors
-Matthew Ballance <matt.ballance@gmail.com> (None)
+Matthew Ballance <matt.ballance@gmail.com>
 
 
 # Article 16
 ## Facilitating the Specification and Implementation of Pipelined Designs with Skeletor
 
 [paper](PDFs/2020/a16.pdf)
+[presentation](https://www.youtube.com/watch?v=rxc6PAnW_ak&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=16)
 [repo](https://github.com/jaquerinte/Skeletor)
 
 ### Abstract
@@ -298,6 +314,7 @@ Skeletor is an open source EDA tool which reduces the bootstrap effort of new ha
 ## LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow
 
 [paper](PDFs/2020/a17.pdf)
+[presentation](https://www.youtube.com/watch?v=-MKlWXM1Gqw&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=17)
 [repo](https://github.com/LNIS-Projects/LSOracle)
 
 ### Abstract
@@ -330,6 +347,7 @@ repository
 ## An Open-source ToolSet for FPAA Design
 
 [paper](PDFs/2020/a18.pdf)
+[presentation](https://www.youtube.com/watch?v=s0eYW_kSWv4&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=18)
 [repo](http://hasler.ece.gatech.edu/FPAAtool/index.html)
 
 ### Abstract
@@ -344,6 +362,7 @@ This open-source toolset enables targeting and design of the fine-grain SoC Larg
 ## OpenFPGA: Towards Automated Prototyping for Versatile FPGAs
 
 [paper](PDFs/2020/a19.pdf)
+[presentation](https://www.youtube.com/watch?v=nwb5Yk5Uz5w&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=19)
 [repo](https://github.com/LNIS-Projects/OpenFPGA)
 
 ### Abstract
@@ -376,6 +395,7 @@ custom cells respectively.
 ## Edalize it. Don’t critizise it
 
 [paper](PDFs/2020/a20.pdf)
+[presentation](https://www.youtube.com/watch?v=HuRtkpZqB34&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=20)
 [repo](https://github.com/olofk/edalize)
 
 ### Abstract
@@ -389,6 +409,7 @@ Olof Kindgren <olof.kindgren@gmail.com> (FOSSi Foundation, Qamcom)
 ## OpenLANE: The Open-Source Digital ASIC Implementation Flow
 
 [paper](PDFs/2020/a21.pdf)
+[presentation](https://www.youtube.com/watch?v=bCwjb3l7oY4&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=21)
 [slides](PDFs/2020/a21-slides.pdf)
 [repo](https://github.com/efabless/openlane)
 
@@ -411,6 +432,7 @@ them, achieving full automation.
 ## Pillars: An Integrated CGRA Design Framework
 
 [paper](PDFs/2020/a22.pdf)
+[presentation](https://www.youtube.com/watch?v=oNLyD6koB2g&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=22)
 [slides](PDFs/2020/a22-slides.pdf)
 [repo](https://github.com/pku-dasys/pillars)
 
@@ -432,6 +454,7 @@ In the experimental evaluation, we demonstrate the capability of Pillars to mode
 ## Automatically Building Digital Symbol Libraries
 
 [paper](PDFs/2020/a23.pdf)
+[presentation](https://www.youtube.com/watch?v=21oHjfWXpPY&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=23)
 [repo](https://github.com/arjunr10/eda-symbol_libraries)
 
 ### Abstract
@@ -446,6 +469,7 @@ Arjun Rakheja <arjun.rakheja@gmail.com> (Poolesville High School in Montgomery C
 ## AxLS: An Open-Source Framework for Netlist Transformation Approximate Logic Synthesis
 
 [paper](PDFs/2020/a24.pdf)
+[presentation](https://www.youtube.com/watch?v=CasrIWmbIZ4&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=24)
 [slides](PDFs/2020/a24-slides.pdf)
 [repo](https://github.com/ECASLab/AxLS)
 
@@ -463,6 +487,7 @@ With the rise of Approximate Computing as an energy-efficient design paradigm fo
 ## GOLDMINE: A tool for enhancing verification productivity
 
 [paper](PDFs/2020/a25.pdf)
+[presentation](https://www.youtube.com/watch?v=MdQY2NGfZtI&list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV&index=25)
 [repo](https://goldmine.csl.illinois.edu)
 
 ### Abstract
