@@ -20,8 +20,8 @@ The 2020 WOSET paper proceedings are available at
 ### Schedule
 
 The tentative 2020 WOSET Q&A schedule is at
-[WOSET Schedule](WOSET2020-schedule.md)
-Video presentations will be added roughly October 25, 2020.
+[WOSET Schedule](WOSET2020-schedule.md).
+[Video talks](https://www.youtube.com/playlist?list=PLItVYhgea-kEV15gg-D_rm7VG8bg20_XV) are now available.
 
 # Submission Information (closed for submission)
 
