@@ -6,6 +6,7 @@ The video presentations for each paper are available on the [WOSET YouTube Playl
 
 Each time will be a Q&A with the presenting author via the workshop Zoom call. 
 For the short papers, discussion will be chat in the WOSET Slack Workspace.
+[Please register through ICCAD (for free!)](https://iccad.com/registration-rates) to participate in the Zoom or Slack discussions.
 
 # Session 1
 
