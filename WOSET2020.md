@@ -5,20 +5,22 @@ To cite an article, please use this format:
 
 For live discussions via Zoom and Slack, please see the [WOSET 2020 Schedule](WOSET2020-schedule.md).
 
-The awards for this year are:
+## Best contribution
 
-Best contribution
 Winner ($425)
 * Article 19 OpenFPGA: Towards Automated Prototyping for Versatile FPGAs
+
 Honorable mentions:
 * Article 3 Google/SkyWater and the Promise of the Open PDK
 * Article 21 OpenLANE: The Open-Source Digital ASIC Implementation Flow
 * Article 17 LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow
 * Article 18 An Open-source ToolSet for FPAA Design
 
-Best video
+## Best video
+
 Winner ($425)
 * Article 20 Edalize it. Don’t critizise it
+
 Honorable mentions:
 * Article 19 OpenFPGA: Towards Automated Prototyping for Versatile FPGAs
 * Article 3 Google/SkyWater and the Promise of the Open PDK
