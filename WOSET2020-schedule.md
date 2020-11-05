@@ -43,8 +43,8 @@ Time (GMT) | Time (PST) | Article # | Author(s) | Title
 --- | ---  | --- | --- 
 7:45 PM | 11:45 AM | 22 | Guo, Luo | [Pillars: An Integrated CGRA Design Framework](https://woset-workshop.github.io/WOSET2020.html#article-22)
 8:00 PM | 12:00 PM | 24 | Castro-Godinez, Barrantes-Garcia, Shafique, Henkel | [AxLS: An Open-Source Framework for Netlist Transformation Approximate Logic Synthesis](https://woset-workshop.github.io/WOSET2020.html#article-24)
-8:15 PM | 12:15 PM | 15 | Ballance | [PyVSC: SystemVerilog-Style Constraints, and Coverage in Python](https://woset-workshop.github.io/WOSET2020.html#article-15)
+8:15 PM | 12:15 PM | 10 | Dargelas, Zeller | [Universal Hardware Data Model [PDF]](https://woset-workshop.github.io/WOSET2020.html#article-10)
 8:30 PM | 12:30 PM | 25 | Pal, Dodeja, Kumar, Vasudevan | [GOLDMINE: A tool for enhancing verification productivity](https://woset-workshop.github.io/WOSET2020.html#article-25)
-8:45 PM | 12:45 PM | 10 | Dargelas, Zeller | [Universal Hardware Data Model [PDF]](https://woset-workshop.github.io/WOSET2020.html#article-10)
+8:45 PM | 12:45 PM | 15 | Ballance | [PyVSC: SystemVerilog-Style Constraints, and Coverage in Python](https://woset-workshop.github.io/WOSET2020.html#article-15)
 9:00 PM | 1:00 PM | 19 | Tang, Gore, Giacomin, Alacchi, Chauviere, Gaillardon | [OpenFPGA: Towards Automated Prototyping for Versatile FPGAs](https://woset-workshop.github.io/WOSET2020.html#article-19)
 9:15 PM | 1:15 PM | 17 | Temple, Neto, Austin, Tang, Gaillardon | [LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow](https://woset-workshop.github.io/WOSET2020.html#article-17)
