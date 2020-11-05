@@ -8,24 +8,24 @@ For live discussions via Zoom and Slack, please see the [WOSET 2020 Schedule](WO
 ## Best contribution
 
 Winner ($425)
-* Article 19 OpenFPGA: Towards Automated Prototyping for Versatile FPGAs
+* [Article 19 OpenFPGA: Towards Automated Prototyping for Versatile FPGAs](#article-19)
 
 Honorable mentions:
-* Article 3 Google/SkyWater and the Promise of the Open PDK
-* Article 21 OpenLANE: The Open-Source Digital ASIC Implementation Flow
-* Article 17 LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow
-* Article 18 An Open-source ToolSet for FPAA Design
+* [Article 3 Google/SkyWater and the Promise of the Open PDK](#article-3)
+* [Article 21 OpenLANE: The Open-Source Digital ASIC Implementation Flow](#article-21)
+* [Article 17 LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow](#article-17)
+* [Article 18 An Open-source ToolSet for FPAA Design](#article-18)
 
 ## Best video
 
 Winner ($425)
-* Article 20 Edalize it. Don’t critizise it
+* [Article 20 Edalize it. Don’t critizise it](#article-20)
 
 Honorable mentions:
-* Article 19 OpenFPGA: Towards Automated Prototyping for Versatile FPGAs
-* Article 3 Google/SkyWater and the Promise of the Open PDK
-* Article 17 LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow
-* Article 21 OpenLANE: The Open-Source Digital ASIC Implementation Flow
+* [Article 19 OpenFPGA: Towards Automated Prototyping for Versatile FPGAs](#article-19)
+* [Article 3 Google/SkyWater and the Promise of the Open PDK](#article-3)
+* [Article 17 LSOracle: Using Mixed Logic Synthesis in an Open Source ASIC Design Flow](#article-17)
+* [Article 21 OpenLANE: The Open-Source Digital ASIC Implementation Flow](#article-21)
 
 # Article 1
 ## Hypergraph Partitioning via Geometric Embeddings
