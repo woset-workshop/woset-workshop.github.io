@@ -10,7 +10,7 @@ For the short papers, discussion will be chat in the WOSET Slack Workspace.
 
 # Session 1
 
-Time (GMT) | Time (PST) | Article # | Author(s) | Title
+Time (GMT) | Time (PDT) | Article # | Author(s) | Title
 --- | ---  | --- | --- 
 5:00 PM | 9:00 AM | 3 | Edwards | [Google/SkyWater and the Promise of the Open PDK](https://woset-workshop.github.io/WOSET2020.html#article-3)
 5:15 PM | 9:15 AM | 9 | Agiza, Reda | [OpenPhySyn: An Open-Source Physical Synthesis Optimization Toolkit](https://woset-workshop.github.io/WOSET2020.html#article-9)
@@ -23,7 +23,7 @@ Time (GMT) | Time (PST) | Article # | Author(s) | Title
  
 # Short Papers
 
-Time (GMT) | Time (PST) | Article # | Author(s) | Title
+Time (GMT) | Time (PDT) | Article # | Author(s) | Title
 --- | ---  | --- | --- 
 6:45-7:45PM | 10:45-11:45AM | 1 | Maleki, Agarwal, Pingali | [Hypergraph Partitioning via Geometric Embeddings](https://woset-workshop.github.io/WOSET2020.html#article-1)
 6:45-7:45PM | 10:45-11:45AM | 2 | Schoeberl, Andersen, Rasmussen, Lin | [Towards an Open-Source Verification Method with Chisel and Scala](https://woset-workshop.github.io/WOSET2020.html#article-2)
@@ -39,7 +39,7 @@ Time (GMT) | Time (PST) | Article # | Author(s) | Title
 
 # Session 2
 
-Time (GMT) | Time (PST) | Article # | Author(s) | Title
+Time (GMT) | Time (PDT) | Article # | Author(s) | Title
 --- | ---  | --- | --- 
 7:45 PM | 11:45 AM | 22 | Guo, Luo | [Pillars: An Integrated CGRA Design Framework](https://woset-workshop.github.io/WOSET2020.html#article-22)
 8:00 PM | 12:00 PM | 24 | Castro-Godinez, Barrantes-Garcia, Shafique, Henkel | [AxLS: An Open-Source Framework for Netlist Transformation Approximate Logic Synthesis](https://woset-workshop.github.io/WOSET2020.html#article-24)
