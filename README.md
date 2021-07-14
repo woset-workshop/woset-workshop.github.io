@@ -1,6 +1,8 @@
 
 # Workshop on Open-Source EDA Technology
 
+Virtually co-located with ICCAD 2021 on November 4, 2021!
+
 The WOSET workshop aims to galvanize the open-source EDA movement. The
 workshop will bring together EDA researchers who are committed to
 open-source principles to share their experiences and coordinate
@@ -13,17 +15,7 @@ future challenges in open-source EDA, and how to coordinate efforts
 and ensure quality and interoperability across open-source tools. A
 cash award will be given for a Best Tool Award.
 
-# WOSET 2021
-
-Virtually co-located with ICCAD 2021!
-
-### Registration
-
-Please register for WOSET at:
-[WOSET Registration (part of ICCAD)](https://iccad.com/registration-rates)
-There is no registration cost to attend, you do NOT need to pay to register for ICCAD!
-
-# Submission Information (closed for submission)
+# Submission Information
 
 ### Regular Paper Submissions (2-4 pages + <15 min video):
 * Overview of an existing or under-development open-source EDA tool.
@@ -62,6 +54,11 @@ The 2021 WOSET paper proceedings will be available at
 The 2021 WOSET schedule is at
 [WOSET Schedule](WOSET2021-schedule.md).
 
+### Registration
+
+Please register for WOSET at:
+[WOSET Registration (part of ICCAD)](https://iccad.com/registration-rates)
+There is no registration cost to attend, you do NOT need to pay to register for ICCAD!
 
 
 For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
