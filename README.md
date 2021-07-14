@@ -17,19 +17,28 @@ cash award will be given for a Best Tool Award.
 
 # Submission Information
 
-### Regular Paper Submissions (2-4 pages + <15 min video):
+
+### Submission Information:
+
+* Please use the [IEEE Conference Template](https://www.ieee.org/conferences/publishing/templates.html)
+* All submissions should be made at [https://woset2021.hotcrp.com/](https://woset2021.hotcrp.com/)
+* All submissions must include links to open-source repositories with all source code and an open-source license (BSD, GPL, Apache, etc.)
+* Review is *NOT* blind.
+
+### Regular Paper Submissions (4 pages + <15 min video):
 * Overview of an existing or under-development open-source EDA tool.
 * Overview of support infrastructure (e.g. EDA databases and design benchmarks).
 * Open-source cloud-based EDA tools
 * Open-source hardware designs
 * Position statements (e.g. critical gaps, blockers/obstacles)
-* **Please reference your open-source repository!** (because of this, review is NOT blind)
-
-### Work in Progress Submissions (<5 min video):
-* Work in progress video in lieu of a traditional poster session
-* No paper submission required, video only!
 * Video will be put on WOSET site if accepted.
-* **Please reference your open-source repository!** (because of this, review is NOT blind)
+* **Please reference your open-source repository!**
+
+### Work in Progress Submissions (< 1 page abstract + 5-10 min video):
+* Work in progress video in lieu of a traditional poster session
+* No paper submission required, abstract and video only!
+* Video will be put on WOSET site if accepted.
+* **Please reference your open-source repository!**
 
 ### Prizes:
 * WOSET will award $TBD in prizes to the top open-source contributions.
@@ -37,12 +46,7 @@ cash award will be given for a Best Tool Award.
 ### Important dates:
 * Sept 1st 2021 (end of day, anywhere in world): submission due date.
 * Sept 15th 2021: notification date.
-
-### Submission Information:
-* For regular papers, please submit 4 page (US Letter) papers using the [IEEE Conference Template](https://www.ieee.org/conferences/publishing/templates.html)
-* For work in progress videos, please submit a 1 page PDF with the title, <300 word abstract (optional), and a link to your <5 minute **YouTube** video.
-* All submissions are at [https://woset2021.hotcrp.com/](https://woset2021.hotcrp.com/)
-
+* Nov 4 2021: workshop
 
 ### Proceedings
 
