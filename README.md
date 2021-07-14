@@ -17,9 +17,6 @@ cash award will be given for a Best Tool Award.
 
 # Submission Information
 
-
-### Submission Information:
-
 * Please use the [IEEE Conference Template](https://www.ieee.org/conferences/publishing/templates.html)
 * All submissions should be made at [https://woset2021.hotcrp.com/](https://woset2021.hotcrp.com/)
 * All submissions must include links to open-source repositories with all source code and an open-source license (BSD, GPL, Apache, etc.)
