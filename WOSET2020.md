@@ -5,15 +5,20 @@ To cite an article, please use this format:
 
 For live discussions via Zoom and Slack, please see the [WOSET 2020 Schedule](WOSET2020-schedule.md).
 
-## Program committee
+## Organization
 
-Jack Koenig, SiFive
-Jose Renau, UC Santa Cruz
-Mathias Soeken, Microsoft
-Pierre-Emmanuel Gaillardon, University of Utah
-Priyanka Raina, Stanford
-Rajit Manohar, Yale University
-Sherief Reda, Brown University
+### Co-Chairs
+* Jose Renau, UC Santa Cruz (Co-Chair)
+* Matthew Guthaus, UC Santa Cruz (Co-Chair)
+
+### Program Committee
+* Jack Koenig, SiFive
+* Jose Renau, UC Santa Cruz
+* Mathias Soeken, Microsoft
+* Pierre-Emmanuel Gaillardon, University of Utah
+* Priyanka Raina, Stanford
+* Rajit Manohar, Yale University
+* Sherief Reda, Brown University
 
 ## Best contribution
 
