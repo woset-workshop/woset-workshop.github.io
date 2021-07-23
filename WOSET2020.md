@@ -5,6 +5,16 @@ To cite an article, please use this format:
 
 For live discussions via Zoom and Slack, please see the [WOSET 2020 Schedule](WOSET2020-schedule.md).
 
+## Program committee
+
+Jack Koenig, SiFive
+Jose Renau, UC Santa Cruz
+Mathias Soeken, Microsoft
+Pierre-Emmanuel Gaillardon, University of Utah
+Priyanka Raina, Stanford
+Rajit Manohar, Yale University
+Sherief Reda, Brown University
+
 ## Best contribution
 
 Winner ($425)
@@ -523,13 +533,3 @@ We present GOLDMINE, an efficient, modular, scalable, open-source tool with a se
 3. Anjana S. Kumar <anjanas3@illinois.edu> (University of Illinois at Urbana-Champaign)
 4. Shobha Vasudevan <shobhav@illinois.edu> (University of Illinois at Urbana-Champaign)
 
-
-# Program committee
-
-Jack Koenig, SiFive
-Jose Renau, UC Santa Cruz
-Mathias Soeken, Microsoft
-Pierre-Emmanuel Gaillardon, University of Utah
-Priyanka Raina, Stanford
-Rajit Manohar, Yale University
-Sherief Reda, Brown University
