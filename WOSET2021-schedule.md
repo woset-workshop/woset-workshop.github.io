@@ -1,4 +1,4 @@
-# WOSET 2020 Schedule
+# WOSET 2021 Schedule
 
 November 4, 2021
 

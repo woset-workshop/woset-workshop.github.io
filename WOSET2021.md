@@ -1,4 +1,4 @@
-#  WOSET 2020 Proceedings
+#  WOSET 2021 Proceedings
 
 To cite an article, please use this format:
 (author names here), "(article title here)", Article No. (article number here), Workshop on Open-Source EDA Technology (WOSET), 2020.

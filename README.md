@@ -61,6 +61,21 @@ Please register for WOSET at:
 [WOSET Registration (part of ICCAD)](https://iccad.com/registration-rates)
 There is no registration cost to attend, you do NOT need to pay to register for ICCAD!
 
+# Organization
+
+### Co-Chairs
+Jose Renau, UC Santa Cruz (Co-Chair)
+Matthew Guthaus, UC Santa Cruz (Co-Chair)
+
+### Program Committee
+Pierre-Emmanuel Gaillardon, University of Utah
+Matthew Guthaus, UC Santa Cruz
+Jack Koenig, SiFive
+Rajit Manohar, Yale University
+Priyanka Raina, Stanford
+Sherief Reda, Brown University
+Jose Renau, UC Santa Cruz
+Mathias Soeken, Microsoft
 
 For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
 
