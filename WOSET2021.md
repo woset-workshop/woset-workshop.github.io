@@ -8,6 +8,8 @@ For live discussions via Zoom and Slack, please see the [WOSET 2020 Schedule](WO
 ## Organization
 
 ### Co-Chairs
+* Jose Renau, UC Santa Cruz (Co-Chair)
+* Matthew Guthaus, UC Santa Cruz (Co-Chair)
 
 ### Program Committee
 * Jack Koenig, SiFive
