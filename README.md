@@ -73,9 +73,8 @@ There is no registration cost to attend, you do NOT need to pay to register for 
 * Jack Koenig, SiFive
 * Rajit Manohar, Yale University
 * Priyanka Raina, Stanford
-* Sherief Reda, Brown University
 * Jose Renau, UC Santa Cruz
-* Mathias Soeken, Microsoft
+
 
 For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
 
