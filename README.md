@@ -43,6 +43,7 @@ cash award will be given for a Best Tool Award.
 ### Important dates:
 * Sept 1st 2021 (end of day, anywhere in world): submission due date.
 * Sept 15th 2021: notification date.
+* Oct 15th 2021: video due.
 * Nov 4 2021: workshop
 
 ### Proceedings
