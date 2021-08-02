@@ -41,9 +41,9 @@ cash award will be given for a Best Tool Award.
 * WOSET will award $TBD in prizes to the top open-source contributions.
 
 ### Important dates:
-* Sept 1st 2021 (end of day, anywhere in world): submission due date.
-* Sept 15th 2021: notification date.
-* Oct 15th 2021: video due.
+* Sept 1st 2021 (end of day, anywhere in world): submission due date
+* Sept 15th 2021: notification of acceptance
+* Oct 15th 2021: video due (if accepted)
 * Nov 4 2021: workshop
 
 ### Proceedings
@@ -75,6 +75,7 @@ There is no registration cost to attend, you do NOT need to pay to register for 
 * Rajit Manohar, Yale University
 * Priyanka Raina, Stanford
 * Jose Renau, UC Santa Cruz
+* Matthew Venn
 
 
 For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
