@@ -69,13 +69,13 @@ There is no registration cost to attend, you do NOT need to pay to register for 
 * Matthew Guthaus, UC Santa Cruz (Co-Chair)
 
 ### Program Committee
-* Pierre-Emmanuel Gaillardon, University of Utah
 * Matthew Guthaus, UC Santa Cruz
 * Jack Koenig, SiFive
 * Rajit Manohar, Yale University
 * Priyanka Raina, Stanford
 * Jose Renau, UC Santa Cruz
-* Matthew Venn
+* Matthew Venn, Zero to ASIC Course
+* Bruno Schmidt, EPFL
 
 
 For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
