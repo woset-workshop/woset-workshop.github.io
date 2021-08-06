@@ -76,6 +76,7 @@ There is no registration cost to attend, you do NOT need to pay to register for 
 * Jose Renau, UC Santa Cruz
 * Matthew Venn, Zero to ASIC Course
 * Bruno Schmidt, EPFL
+* Scott Temple, University of Utah
 
 
 For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
