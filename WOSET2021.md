@@ -12,13 +12,14 @@ For live discussions via Zoom and Slack, please see the [WOSET 2020 Schedule](WO
 * Matthew Guthaus, UC Santa Cruz (Co-Chair)
 
 ### Program Committee
+* Matthew Guthaus, UC Santa Cruz
 * Jack Koenig, SiFive
-* Jose Renau, UC Santa Cruz
-* Mathias Soeken, Microsoft
-* Pierre-Emmanuel Gaillardon, University of Utah
-* Priyanka Raina, Stanford
 * Rajit Manohar, Yale University
-* Sherief Reda, Brown University
+* Priyanka Raina, Stanford
+* Jose Renau, UC Santa Cruz
+* Matthew Venn, Zero to ASIC Course
+* Bruno Schmidt, EPFL
+* Scott Temple, University of Utah
 
 ## Best contribution
 
