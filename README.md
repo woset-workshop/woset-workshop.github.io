@@ -31,7 +31,7 @@ cash award will be given for a Best Tool Award.
 * Video will be put on WOSET site if accepted.
 * **Please reference your open-source repository!**
 
-### Work in Progress Submissions (< 1 page abstract + 5-10 min video):
+### Work in Progress Submissions (< 1 page abstract + <10 min video):
 * Work in progress video in lieu of a traditional poster session
 * No paper submission required, abstract and video only!
 * Video will be put on WOSET site if accepted.
