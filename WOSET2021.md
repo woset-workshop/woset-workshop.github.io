@@ -18,7 +18,7 @@ For live discussions via Zoom and Slack, please see the [WOSET 2020 Schedule](WO
 * Priyanka Raina, Stanford
 * Jose Renau, UC Santa Cruz
 * Matthew Venn, Zero to ASIC Course
-* Bruno Schmitt, EPFL
+* Bruno Schmidt, EPFL
 * Scott Temple, University of Utah
 
 ## Best contribution
