@@ -41,8 +41,8 @@ cash award will be given for a Best Tool Award.
 * WOSET will award $TBD in prizes to the top open-source contributions.
 
 ### Important dates:
-* Sept 1st 2021 (end of day, anywhere in world): submission due date
-* Sept 15th 2021: notification of acceptance
+* ~~Sept 1st 2021~~ **EXTENDED Sept 7 2021** (end of day, anywhere in world): submission due date
+* ~~Sept 15th 2021~~ Sept 21 2021: notification of acceptance
 * Oct 15th 2021: video due (if accepted)
 * Nov 4 2021: workshop
 
