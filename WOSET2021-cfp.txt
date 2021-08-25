@@ -41,7 +41,7 @@ Prizes:
 * WOSET will award $TBD in prizes to the top open-source contributions.
 
 Important dates:
-* Sept 7 2021 (end of day, anywhere in world): submission due date.
+* EXTENDED: Sept 7 2021 (end of day, anywhere in world): submission due date.
 * Sept 21 2021: notification date.
 * Oct 15 2021: video due (if accepted)
 * Nov 4 2021: workshop
