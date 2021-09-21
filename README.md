@@ -64,7 +64,7 @@ The 2021 WOSET schedule is at
 ### Registration
 
 Please register for WOSET at:
-[WOSET Registration (part of ICCAD)](https://iccad.com/registration-rates)
+[WOSET Registration (part of ICCAD)](https://forms.gle/HPFb3obwww8YaTBCA)
 There is no registration cost to attend, you do NOT need to pay to register for ICCAD!
 
 # Organization
