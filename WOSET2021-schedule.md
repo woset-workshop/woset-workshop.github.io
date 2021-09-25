@@ -26,14 +26,13 @@ Time (GMT) | Time (PST) | Article # | Author(s) | Title
 --- | --- | 4 | Edwards | [Automating GDS Generation in Magic](https://woset-workshop.github.io/WOSET2021.html#article-4)
 6:51 PM | 10:51 AM | 5 | Euphrosine, Springer | [Porting software to hardware using XLS/DSLX](https://woset-workshop.github.io/WOSET2021.html#article-5)
 --- | --- | 6 | Eldridge, Barua, Chapyzhenka, Izraelevitz, Koenig, Lattner, Lenharth, Leontiev, Schuiki, Sunder, Young, Xia | [MLIR as Hardware Compiler Infrastructure](https://woset-workshop.github.io/WOSET2021.html#article-6)
-
-# 9 Minute Break
+7:21 PM | 10:21 AM | --- | ---| 9 minute break
 
 # Poster Presentations 
 
 Time (GMT) | Time (PST) | Article # | Author(s) | Title
 --- | ---  | --- | --- 
-7:00 PM | 11:00 AM | 17 | Charan | [Vezzal - a containerized tool to work with and test open source EDA tools](https://woset-workshop.github.io/WOSET2021.html#article-17)
+7:30 PM | 11:30 AM | 17 | Charan | [Vezzal - a containerized tool to work with and test open source EDA tools](https://woset-workshop.github.io/WOSET2021.html#article-17)
 --- | --- | 18 | Dullaghan | [Testing the OpenRAM Break-Out Chip Using a Raspberry Pi-Based Logic Analyzer](https://woset-workshop.github.io/WOSET2021.html#article-18)
 --- | --- | 19 | Chen, Edwards | [Developing Open-Source Circuit Design and Flow Management Software](https://woset-workshop.github.io/WOSET2021.html#article-19)
 --- | --- | 16 | Mahintorabi | [Software Inspired IC Hardware Workflows Using Bazel](https://woset-workshop.github.io/WOSET2021.html#article-16)
@@ -42,10 +41,10 @@ Time (GMT) | Time (PST) | Article # | Author(s) | Title
 
 Time (GMT) | Time (PST) | Article # | Author(s) | Title
 --- | ---  | --- | --- 
-7:50 PM | 11:50 AM | 7 | Berlstein, Nigam, Gyurgyik, Sampson | [A Toolkit for Designing Hardware DSLs](https://woset-workshop.github.io/WOSET2021.html#article-7)
+8:50 PM | 11:50 AM | 7 | Berlstein, Nigam, Gyurgyik, Sampson | [A Toolkit for Designing Hardware DSLs](https://woset-workshop.github.io/WOSET2021.html#article-7)
 --- | --- | 12 | Temple, Snelgrove, Neto, Gaillardon | [LSOracle 2.0: Capabilities, Integration, and Performance](https://woset-workshop.github.io/WOSET2021.html#article-12)
-8:20 PM | 12:20 PM | 3 | Laeufer, Bachrach, Sen| [Open-Source Formal Verification for Chisel](https://woset-workshop.github.io/WOSET2021.html#article-3)
+9:20 PM | 12:20 PM | 3 | Laeufer, Bachrach, Sen| [Open-Source Formal Verification for Chisel](https://woset-workshop.github.io/WOSET2021.html#article-3)
 ---| --- | 8 | Berlstein, Nigam, Gyurgyik, Sampson | [Towards Functional Coverage-Driven Fuzzing for Chisel Designs](https://woset-workshop.github.io/WOSET2021.html#article-8)
-8:50 PM | 12:50 PM | 20 | Wang, Garg, Coffman, Mayer, Renau | [A Parallel HDL Compilation Framework](https://woset-workshop.github.io/WOSET2021.html#article-20)
+9:50 PM | 12:50 PM | 20 | Wang, Garg, Coffman, Mayer, Renau | [A Parallel HDL Compilation Framework](https://woset-workshop.github.io/WOSET2021.html#article-20)
 ---| --- | 23 | Beamer, Nijssen, Pandian, Zhang | [ESSENT: A High-Performance RTL Simulator](https://woset-workshop.github.io/WOSET2021.html#article-23)
 
