@@ -22,7 +22,12 @@ cash award will be given for a Best Tool Award.
 * All submissions must include links to open-source repositories with all source code and an open-source license (BSD, GPL, Apache, etc.)
 * Review is *NOT* blind.
 
-### Regular Paper Submissions (4 pages + <15 min video):
+### Video Recordings
+* Long talk: 12 minute video
+* Short talk/poster: 5 minute video
+* Due October 15, 2021
+
+### Regular Paper Submissions (4 pages):
 * Overview of an existing or under-development open-source EDA tool.
 * Overview of support infrastructure (e.g. EDA databases and design benchmarks).
 * Open-source cloud-based EDA tools
@@ -31,7 +36,7 @@ cash award will be given for a Best Tool Award.
 * Video will be put on WOSET site if accepted.
 * **Please reference your open-source repository!**
 
-### Work in Progress Submissions (< 1 page abstract + <10 min video):
+### Work in Progress Submissions (< 1 page abstract):
 * Work in progress video in lieu of a traditional poster session
 * No paper submission required, abstract and video only!
 * Video will be put on WOSET site if accepted.
