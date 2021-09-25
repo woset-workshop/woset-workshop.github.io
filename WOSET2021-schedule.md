@@ -26,7 +26,7 @@ Time (GMT) | Time (PST) | Article # | Author(s) | Title
 --- | --- | 4 | Edwards | [Automating GDS Generation in Magic](https://woset-workshop.github.io/WOSET2021.html#article-4)
 6:51 PM | 10:51 AM | 5 | Euphrosine, Springer | [Porting software to hardware using XLS/DSLX](https://woset-workshop.github.io/WOSET2021.html#article-5)
 --- | --- | 6 | Eldridge, Barua, Chapyzhenka, Izraelevitz, Koenig, Lattner, Lenharth, Leontiev, Schuiki, Sunder, Young, Xia | [MLIR as Hardware Compiler Infrastructure](https://woset-workshop.github.io/WOSET2021.html#article-6)
-7:21 PM | 10:21 AM | --- | ---| 9 minute break
+7:21 PM | 11:21 AM | --- | ---| 9 minute break
 
 # Poster Presentations 
 
