@@ -40,7 +40,7 @@ Honorable mentions:
 
 # Article 1
 
-## CFU Playground: Build your own ML Processorusing Open Source
+## CFU Playground: Build your own ML Processor using Open Source
 [paper](PDFs/2021/a01.pdf)
 [presentation]()
 [slides](PDFs/2021/a01-slides.pdf)
