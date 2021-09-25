@@ -1,7 +1,7 @@
 # WOSET 2021 Schedule
 
-Each time will be a Q&A with the presenting author via the workshop Zoom call. 
-For the short papers, discussion will be chat in the WOSET Slack Workspace.
+All short paper videos in a given time slot will be shown sequentially followed by a 5 or 6 minute Q&A with the authors. Long paper videos in a given time slot will also be shown sequentially followed by a 6 minute Q&A with the authors. Poster presentations will last 5 minutes each.
+
 
 # Short Papers
 
