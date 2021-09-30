@@ -191,13 +191,12 @@ Recent years have seen a renewed interest in open-source hardware design tools e
 [slides](PDFs/2021/a08-slides.pdf)
 [repo]()
 ### Abstract
-Recent years have seen a renewed interest in open-source hardware design tools everywhere in the stack---from new register-transfer-level (RTL) languages to open-source flows for fabricating silicon.  While innovation in the traditional hardware stack promises better, faster, and more portable tools, key innovations are still needed to democratize hardware design.  Specifically, domain specific languages (DSLs) which allow experts to concisely express computations without delving into low-level hardware details are needed to enable widespread use of hardware accelerators.  In order to simplify the gargantuan task of implementing, optimizing, and lowering such hardware domain specific languages (DSLs), we have been building Calyx, an intermediate language (IL) and a compiler infrastructure for accelerator generators.  We demonstrate how Calyx IL's novel separation between the structural and control-flow aspects of an accelerator design enables it to: (1) simplify frontends by efficiently encoding their semantics, (2) enable novel optimization passes that cannot be performed in traditional hardware ILs, and (3) allow us to build software-like debugging infrastructure.
+Verification of digital systems must be done in ever tighter time constraints due to the rise of domain-specific hardware accelerators. To combat this, we can learn from agile techniques, typical in software engineering, and use them for hardware development. In this mindset, Chisel, a hardware construction language embedded in Scala, was developed as a tool to accelerate the implementation of digital designs. Following this path, we developed a high-level verification library named ChiselVerify, bringing functionalities such as functional coverage to the Chisel ecosystem. Using this tool, we propose a functional coverage-driven mutation-based fuzzer for Chisel designs. Initial experiments are done on the Leros accumulator ALU.
 
 ### Author
-1. Griffin Berlstein <griffin@cs.cornell.edu> (Cornell University)
-2. Rachit Nigam <rnigam@cs.cornell.edu> (Cornell University)
-3. Chris Gyurgyik <cpg49@cornell.edu> (Cornell University)
-4. Adrian Sampson <asampson@cs.cornell.edu> (Cornell University)
+1. Andrew Dobis <adobis@student.ethz.ch> (Technical University of Denmark)
+2. Tjark Petersen <s186083@student.dtu.dk> (Technical University of Denmark)
+3. Martin Schoeberl <masca@dtu.dk> (Technical University of Denmark)
 
 # Article 9
 

@@ -189,7 +189,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 </tr>
 <tr>
 <td>8</td>
-<td>Berlstein, Nigam, Gyurgyik, Sampson</td>
+<td>Dobis, Petersen, Schoeberl</td>
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-8">Towards Functional Coverage-Driven Fuzzing for Chisel Designs</a></td>
 </tr>
 <tr>
