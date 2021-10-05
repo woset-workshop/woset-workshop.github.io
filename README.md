@@ -15,6 +15,13 @@ future challenges in open-source EDA, and how to coordinate efforts
 and ensure quality and interoperability across open-source tools. A
 cash award will be given for a Best Tool Award.
 
+# Registration
+
+Please register for WOSET at:
+[WOSET Registration](https://forms.gle/HPFb3obwww8YaTBCA)
+There is no registration cost to attend, you do NOT need to pay to register for ICCAD!
+
+
 # Submission Information
 
 * Please use the [IEEE Conference Template](https://www.ieee.org/conferences/publishing/templates.html)
@@ -60,12 +67,6 @@ The 2021 WOSET paper proceedings will be available at
 
 The 2021 WOSET schedule is at
 [WOSET Schedule](WOSET2021-schedule.md).
-
-### Registration
-
-Please register for WOSET at:
-[WOSET Registration (part of ICCAD)](https://forms.gle/HPFb3obwww8YaTBCA)
-There is no registration cost to attend, you do NOT need to pay to register for ICCAD!
 
 # Organization
 
