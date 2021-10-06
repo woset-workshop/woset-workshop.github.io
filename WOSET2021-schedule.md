@@ -1,5 +1,5 @@
 # WOSET 2021 Schedule
-
+## November 4, 2021
 All short paper videos in a given time slot will be shown sequentially followed by a 5 or 6 minute Q&A with the authors. Long paper videos in a given time slot will also be shown sequentially followed by a 6 minute Q&A with the authors. Poster presentations will last 5 minutes each.
 
 
