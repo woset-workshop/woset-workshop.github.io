@@ -82,7 +82,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 </tr>
 <tr>
 <td>2</td>
-<td>Schwartz, Sharma, Rad, Stoy, Nikhil</td>
+<td>Schwartz, Sharma, Rad, Takusagawa, Stoy, Nikhil</td>
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-2">The Open-Source Bluespec bsc Compiler and Reusable Example Designs</a></td>
 </tr>
 <tr>

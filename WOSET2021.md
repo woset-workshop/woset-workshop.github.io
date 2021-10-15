@@ -83,8 +83,9 @@ The _bsc_ compiler, which has been in commercial use for two decades, was releas
 1. Julie Schwartz <quark@bluespec.com> (Bluespec, Inc.)
 2. Niraj N. Sharma <niraj.sharma@bluespec.com> (Bluespec, Inc.)
 3. Darius Rad <darius@bluespec.com> (Bluespec, Inc.)
-4. Joe Stoy <stoy@bluespec.com> (Bluespec, Inc.)
-5. Rishiyur Nikhil <nikhil@bluespec.com> (Bluespec, Inc.)
+4. Ken Takusagawa <ken@bluespec.com> (Bluespec, Inc.)
+5. Joe Stoy <stoy@bluespec.com> (Bluespec, Inc.)
+6. Rishiyur Nikhil <nikhil@bluespec.com> (Bluespec, Inc.)
 
 # Article 3
 
