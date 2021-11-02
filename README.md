@@ -18,7 +18,7 @@ cash award will be given for a Best Tool Award.
 # Registration
 
 Please register for WOSET at:
-[WOSET Registration](https://forms.gle/HPFb3obwww8YaTBCA)
+[WOSET Registration](https://ucsc.zoom.us/meeting/register/tJEkfuusrzgqHND09qt54YuRSO9lzEAG_9mX)
 There is no registration cost to attend, you do NOT need to pay to register for ICCAD!
 
 
