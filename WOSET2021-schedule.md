@@ -138,11 +138,6 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-17">Vezzal - a containerized tool to work with and test open source EDA tools</a></td>
 </tr>
 <tr>
-<td>18</td>
-<td>Dullaghan</td>
-<td><a href="https://woset-workshop.github.io/WOSET2021.html#article-18">Testing the OpenRAM Break-Out Chip Using a Raspberry Pi-Based Logic Analyzer</a></td>
-</tr>
-<tr>
 <td>19</td>
 <td>Chen, Edwards</td>
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-19">Developing Open-Source Circuit Design and Flow Management Software</a></td>
