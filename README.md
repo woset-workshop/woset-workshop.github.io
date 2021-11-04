@@ -84,6 +84,11 @@ The 2021 WOSET schedule is at
 * Bruno Schmidt, EPFL
 * Scott Temple, University of Utah
 
+### Web Chair
+* Jesse Cirimeli-Low, UC Santa Cruz
+
+### Virtual Arrangements
+* Sakshi Garg, UC Santa Cruz
 
 For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
 

@@ -21,9 +21,15 @@ For live discussions via Zoom and Slack, please see the [WOSET 2021 Schedule](WO
 * Bruno Schmidt, EPFL
 * Scott Temple, University of Utah
 
+### Web Chair
+* Jesse Cirimeli-Low, UC Santa Cruz
+
+### Virtual Arrangements
+* Sakshi Garg, UC Santa Cruz
+
 ## Best contribution
 
-Winner ($TBD)
+Winner
 * TBD
 
 Honorable mentions:
@@ -32,7 +38,7 @@ Honorable mentions:
 
 ## Best video
 
-Winner ($TBD)
+Winner
 * TBD
 
 Honorable mentions:
