@@ -9,7 +9,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <thead>
 <tr>
 <th>Time (GMT)</th>
-<th>Time (PST)</th>
+<th>Time (PDT)</th>
 <th>Article #</th>
 <th>Author(s)</th>
 <th>Title</th>
@@ -17,7 +17,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 </thead>
 <tbody>
 <tr>
-<td rowspan=2>5:00 PM</td>
+<td rowspan=2>4:00 PM</td>
 <td rowspan=2>9:00 AM</td>
 <td>15</td>
 <td>Healy, Yu, Dao, Chung, Koch</td>
@@ -29,7 +29,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-21">OpenCache: An Open-Source OpenRAM Based Cache Generator</a></td>
 </tr>
 <tr>
-<td rowspan=2>5:15 PM</td>
+<td rowspan=2>4:15 PM</td>
 <td rowspan=2>9:15 AM</td>
 <td>14</td>
 <td>Yuan, Shukla, Chetoui, Knox, Nemtzow, Reda,  Coskun</td>
@@ -41,7 +41,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-22">A Guide for Rapid Creation of New HDLs</a></td>
 </tr>
 <tr>
-<td rowspan=3>5:30 PM</td>
+<td rowspan=3>4:30 PM</td>
 <td rowspan=3>9:30 AM</td>
 <td>9</td>
 <td>Zeller</td>
@@ -59,14 +59,14 @@ All short paper videos in a given time slot will be shown sequentially followed 
 </tr>
 </tbody>
 </table>
- 
+
 # Long Papers 1
 
 <table border="1">
 <thead>
 <tr>
 <th>Time (GMT)</th>
-<th>Time (PST)</th>
+<th>Time (PDT)</th>
 <th>Article #</th>
 <th>Author(s)</th>
 <th>Title</th>
@@ -74,7 +74,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 </thead>
 <tbody>
 <tr>
-<td rowspan=2>5:51 PM</td>
+<td rowspan=2>4:51 PM</td>
 <td rowspan=2>9:51 AM</td>
 <td>1</td>
 <td>Callahan, Ansell, Bushagour, Green, Lattimore, Callaghan</td>
@@ -86,7 +86,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-2">The Open-Source Bluespec bsc Compiler and Reusable Example Designs</a></td>
 </tr>
 <tr>
-<td rowspan=2>6:21 PM</td>
+<td rowspan=2>5:21 PM</td>
 <td rowspan=2>10:21 AM</td>
 <td>11</td>
 <td>Hasler, Muldrey, Hardy</td>
@@ -98,7 +98,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-4">Automating GDS Generation in Magic</a></td>
 </tr>
 <tr>
-<td rowspan=2>6:51 PM</td>
+<td rowspan=2>5:51 PM</td>
 <td rowspan=2>10:51 AM</td>
 <td>5</td>
 <td>Euphrosine, Springer</td>
@@ -110,20 +110,20 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-6">MLIR as Hardware Compiler Infrastructure</a></td>
 </tr>
 <tr>
-<td rowspan=2>7:21 PM</td>
+<td rowspan=2>6:21 PM</td>
 <td rowspan=2>11:21 AM</td>
 <td colspan=3>9 minute break</td>
 </tr>
 </tbody>
 </table>
 
-# Poster Presentations 
+# Poster Presentations
 
 <table border="1">
 <thead>
 <tr>
 <th>Time (GMT)</th>
-<th>Time (PST)</th>
+<th>Time (PDT)</th>
 <th>Article #</th>
 <th>Author(s)</th>
 <th>Title</th>
@@ -131,7 +131,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 </thead>
 <tbody>
 <tr>
-<td rowspan=4>7:30 PM</td>
+<td rowspan=4>6:30 PM</td>
 <td rowspan=4>11:30 AM</td>
 <td>17</td>
 <td>Charan</td>
@@ -156,7 +156,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <thead>
 <tr>
 <th>Time (GMT)</th>
-<th>Time (PST)</th>
+<th>Time (PDT)</th>
 <th>Article #</th>
 <th>Author(s)</th>
 <th>Title</th>
@@ -164,7 +164,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 </thead>
 <tbody>
 <tr>
-<td rowspan=2>7:50 PM</td>
+<td rowspan=2>6:50 PM</td>
 <td rowspan=2>11:50 AM</td>
 <td>7</td>
 <td>Berlstein, Nigam, Gyurgyik, Sampson</td>
@@ -176,7 +176,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-12">LSOracle 2.0: Capabilities, Integration, and Performance</a></td>
 </tr>
 <tr>
-<td rowspan=2>8:20 PM</td>
+<td rowspan=2>7:20 PM</td>
 <td rowspan=2>12:20 PM</td>
 <td>3</td>
 <td>Laeufer, Bachrach, Sen</td>
@@ -188,7 +188,7 @@ All short paper videos in a given time slot will be shown sequentially followed 
 <td><a href="https://woset-workshop.github.io/WOSET2021.html#article-8">Towards Functional Coverage-Driven Fuzzing for Chisel Designs</a></td>
 </tr>
 <tr>
-<td rowspan=2>8:50 PM</td>
+<td rowspan=2>7:50 PM</td>
 <td rowspan=2>12:50 PM</td>
 <td>20</td>
 <td>Wang, Garg, Coffman, Mayer, Renau</td>
@@ -201,4 +201,3 @@ All short paper videos in a given time slot will be shown sequentially followed 
 </tr>
 </tbody>
 </table>
-
