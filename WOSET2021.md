@@ -107,9 +107,9 @@ The _bsc_ compiler, which has been in commercial use for two decades, was releas
 Chisel is a Scala embedded hardware construction language allowing designers to take advantage of a general purpose programming language to generate digital circuit descriptions. From the beginning Chisel has featured integration with RTL simulators in order to allow designers to unit test their designs. We recently added support for easy formal verification of Chisel designs. Our implementation will be available to all users of the next Chisel and chiseltest releases. The source code is hosted on github and published under a permissive Apache 2 license.
 
 ### Authors
-1. Kevin Laeufer <laeufer@eecs.berkeley.edu> (University of California, Berkeley)
-2. Jonathan Bachrach <jrb@eecs.berkeley.edu> (University of California, Berkeley)
-3. Koushik Sen <ksen@eecs.berkeley.edu> (University of California, Berkeley)
+1. Kevin Laeufer <laeufer@berkeley.edu> (University of California, Berkeley)
+2. Jonathan Bachrach <jrb@berkeley.edu> (University of California, Berkeley)
+3. Koushik Sen <ksen@berkeley.edu> (University of California, Berkeley)
 
 # Article 4
 
