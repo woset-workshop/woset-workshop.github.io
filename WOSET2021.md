@@ -44,17 +44,18 @@ Honorable mentions:
 [paper](PDFs/2021/a01.pdf)
 [presentation](Videos/2021/a01-video.mp4)
 [slides](PDFs/2021/a01-slides.pdf)
+[repo](https://github.com/google/CFU-Playground)
 
 ### Abstract
-The CFU (Custom Function Unit) Playground allows you to design and build machine learning (ML) accelerators extending an FPGA-based RISC-V core, running on an FPGA board at your desk. 
+The CFU (Custom Function Unit) Playground allows you to design and build machine learning (ML) accelerators extending an FPGA-based RISC-V core, running on an FPGA board at your desk.
 Because the CPU is soft, it can be both tailored (e.g. cache sizes modified) and extended (new instructions added through the use of a Custom Function Unit). Push-button builds of the customized processor combined with a provided interactive software test/measurement harness allows for very rapid edit-compile-profile cycles (on the order of minutes) at each stage of accelerator development.
 
 A primary goal of the CFU Playground is to provide a delightful  and fun experience to the  developer,  by, as far as possible, removing the burden of maintaining infrastructure such as configuring toolchains, writing test harnesses, building performance  measurement jigs, or editing Makefiles.
-This rapid, lightweight framework lets the user realize a large performance benefit from a relatively small investment in creating customized hardware. 
+This rapid, lightweight framework lets the user realize a large performance benefit from a relatively small investment in creating customized hardware.
 
 CFU Playground bundles together open source software (TensorFlow, GCC),  open-source RTL generation IP and toolkits (LiteX, VexRiscv, Migen, nMigen),  and open-source FPGA tools for synthesis, place, and route (yosys, nextpnr, vpr, etc.). By using open source for the entire stack,
 % software {\em and} gateware IP,  we give the user access to customize and co-optimize hardware and software, resulting in a specialized solution unencumbered by licensing restrictions
-and not tied to a particular FPGA or board. 
+and not tied to a particular FPGA or board.
 
 CFU Playground is available under an Apache 2.0 license at  https://github.com/google/CFU-Playground.   Online documentation is available at https://cfu-playground.readthedocs.io.
 ### Authors
@@ -72,6 +73,7 @@ CFU Playground is available under an Apache 2.0 license at  https://github.com/g
 [paper](PDFs/2021/a02.pdf)
 [presentation](Videos/2021/a02-video.mp4)
 [slides](PDFs/2021/a02-slides.pdf)
+[repo](https://github.com/CTSRD-CHERI/bluecheck)
 
 ### Abstract
 
@@ -92,6 +94,7 @@ The _bsc_ compiler, which has been in commercial use for two decades, was releas
 [paper](PDFs/2021/a03.pdf)
 [presentation](Videos/2021/a03-video.mp4)
 [slides](PDFs/2021/a03-slides.pdf)
+[repo](https://github.com/ekiwi/open-source-formal-verification-for-chisel)
 
 ### Abstract
 
@@ -109,6 +112,7 @@ Chisel is a Scala embedded hardware construction language allowing designers to 
 [paper](PDFs/2021/a04.pdf)
 [presentation](Videos/2021/a04-video.mp4)
 [slides](PDFs/2021/a04-slides.pdf)
+[repo](http://www.opencircuitdesign.com/magic)
 
 ## Abstract
 
@@ -125,13 +129,14 @@ tim@opencircuitdesign.com
 [paper](PDFs/2021/a05.pdf)
 [presentation](Videos/2021/a05-video.mp4)
 [slides](PDFs/2021/a05-slides.pdf)
+[repo](https://google.github.io/xls/dslx_reference/)
 
 ## Abstract
 
 [DSLX](https://google.github.io/xls/dslx_reference/) is a dataflow-oriented functional language used to build hardware that can also run effectively as host software.
 
 DSLX's syntax resembles Rust, while being an immutable expression-based dataflow DSL and adding hardware-oriented features like arbitrary bitwidths.
- 
+
 Using the [XLS](https://google.github.io/xls/) (Accelerated HW Synthesis) toolchain, DSLX can target to XLS IR intermediate format to enable development flows for FPGAs and ASICs (thru Verilog conversation) or native-speed execution (thru LLVM-based JIT compilation).
 
 In this presentation (submitted in the *"Work in Progress"* category), we go step-by-step thru the process of *"Porting software to hardware"* by rewriting a C routine in DSLX and showing how to integrate the XLS toolchain in a typical FLOSS FPGA flow to synthesize it on a budget FPGA board like the [FoMU](https://tomu.im/fomu.html).
@@ -146,6 +151,8 @@ In this presentation (submitted in the *"Work in Progress"* category), we go ste
 [paper](PDFs/2021/a06.pdf)
 [presentation](Videos/2021/a06-video.mp4)
 [slides](PDFs/2021/a06-slides.pdf)
+[repo](https://github.com/llvm/circt)
+
 ### Abstract
 
 ### Authors
@@ -168,6 +175,8 @@ In this presentation (submitted in the *"Work in Progress"* category), we go ste
 [paper](PDFs/2021/a07.pdf)
 [presentation](Videos/2021/a07-video.mp4)
 [slides](PDFs/2021/a07-slides.pdf)
+[repo](https://calyxir.org/)
+
 ### Abstract
 Recent years have seen a renewed interest in open-source hardware design tools everywhere in the stack---from new register-transfer-level (RTL) languages to open-source flows for fabricating silicon.  While innovation in the traditional hardware stack promises better, faster, and more portable tools, key innovations are still needed to democratize hardware design.  Specifically, domain specific languages (DSLs) which allow experts to concisely express computations without delving into low-level hardware details are needed to enable widespread use of hardware accelerators.  In order to simplify the gargantuan task of implementing, optimizing, and lowering such hardware domain specific languages (DSLs), we have been building Calyx, an intermediate language (IL) and a compiler infrastructure for accelerator generators.  We demonstrate how Calyx IL's novel separation between the structural and control-flow aspects of an accelerator design enables it to: (1) simplify frontends by efficiently encoding their semantics, (2) enable novel optimization passes that cannot be performed in traditional hardware ILs, and (3) allow us to build software-like debugging infrastructure.
 
@@ -183,6 +192,8 @@ Recent years have seen a renewed interest in open-source hardware design tools e
 [paper](PDFs/2021/a08.pdf)
 [presentation](Videos/2021/a08-video.mp4)
 [slides](PDFs/2021/a08-slides.pdf)
+[repo](https://github.com/chiselverify/chiselverify)
+
 ### Abstract
 Verification of digital systems must be done in ever tighter time constraints due to the rise of domain-specific hardware accelerators. To combat this, we can learn from agile techniques, typical in software engineering, and use them for hardware development. In this mindset, Chisel, a hardware construction language embedded in Scala, was developed as a tool to accelerate the implementation of digital designs. Following this path, we developed a high-level verification library named ChiselVerify, bringing functionalities such as functional coverage to the Chisel ecosystem. Using this tool, we propose a functional coverage-driven mutation-based fuzzer for Chisel designs. Initial experiments are done on the Leros accumulator ALU.
 
@@ -197,6 +208,8 @@ Verification of digital systems must be done in ever tighter time constraints du
 [paper](PDFs/2021/a09.pdf)
 [presentation](Videos/2021/a09-video.mp4)
 [slides](PDFs/2021/a09-slides.pdf)
+[repo](https://github.com/chipsalliance/verible)
+
 ### Abstract
 [Verible](https://github.com/chipsalliance/verible) is an Open Source developer productivity tool for SystemVerilog. It provides linting, including auto-fix patches, formatting, and code indexing as well as project inspection tools.
 
@@ -215,11 +228,13 @@ Henner Zeller <hzeller@google.com> (Google)
 [paper](PDFs/2021/a10.pdf)
 [presentation](Videos/2021/a10-video.mp4)
 [slides](PDFs/2021/a10-slides.pdf)
+[repo](https://github.com/ekiwi/rtl-fuzz-lab)
+
 ### Abstract
 --------
 Coverage directed mutational fuzz testing has become a popular tool for automated software testing and bug detection. This technique works by providing inputs to a program and measuring which branches in the program under test are explored during execution of those seed inputs. The fuzzer then automatically mutates the original inputs by applying a series of deterministic and non-deterministic mutation operations. The program under test is ran on these newly generated mutant inputs. A new input will be retained to serve as the start for new mutations if and only if it produces coverage of branches which have not been seen before or significantly increases the times a branch has been covered. The vast majority of mutant inputs are immediately discarded as they do not improve the coverage. This automated fuzzing has been very successful in uncovering countless software bugs, however, it has yet to catch on for testing digital hardware designs.
 
-The initial work on applying the fuzzing algorithm used for software testing to register transfer level (RTL) designs described the various added degrees of freedom that we face in the hardware context [1]. One important decision is how to take the sequence of bytes provided by a software fuzzer and use it in a testbench. The simplest solution is to just apply new data to the input wires of the design under test and to stop the test execution once we run out of data provided by the fuzzer. More recent work has proposed to instead covert the raw bytes into read or write tile link transactions through the use of a grammar [2]. Another question is what coverage metric to use as feedback to the fuzzer. The original paper counted the number of toggles on a multiplexer control signal [1], while subsequent papers have suggested to only count full toggles [3] or to use the branch coverage of a software simulation model as proxy for line coverage of the RTL description [2]. The choice of initial input seeds to begin fuzzing with can also affect the results. 
+The initial work on applying the fuzzing algorithm used for software testing to register transfer level (RTL) designs described the various added degrees of freedom that we face in the hardware context [1]. One important decision is how to take the sequence of bytes provided by a software fuzzer and use it in a testbench. The simplest solution is to just apply new data to the input wires of the design under test and to stop the test execution once we run out of data provided by the fuzzer. More recent work has proposed to instead covert the raw bytes into read or write tile link transactions through the use of a grammar [2]. Another question is what coverage metric to use as feedback to the fuzzer. The original paper counted the number of toggles on a multiplexer control signal [1], while subsequent papers have suggested to only count full toggles [3] or to use the branch coverage of a software simulation model as proxy for line coverage of the RTL description [2]. The choice of initial input seeds to begin fuzzing with can also affect the results.
 
 We present our ongoing work on RTLFUZZLAB, an open-source framework based on the FIRRTL RTL compiler infras-tructure [4], that makes it easy to explore new fuzzing ideas. We provide an easy integration of the popular AFL fuzzer and are working on adding our own fuzzer implementation to be able to experiment with custom mutations and fuzz scheduler designs. Our direct harness is based on the ideas from the Rfuzz paper [1] and works on any RTL circuit with a single input clock and reset. It can be easily switched out for a bus-centric harness which re-implements the tile link specific harness from the work on Fuzzing hardware like software [2]. We provide various coverage metrics like mux toggle coverage [1], full mux toggle coverage [3] and HDL line coverage (approximating the coverage used in [2]). These coverage metrics can be combined with post-processing functions and arbitrary combinations of them can be selected as feedback to the fuzzer. We also include some simple benchmarks as well as scripts to run benchmarks and analyze results, making it easy to prototype new fuzzing ideas. The code is open source under a BSD license and available on GitHub: https://github.com/ekiwi/rtl-fuzz-lab
 
@@ -246,6 +261,8 @@ REFERENCES
 [paper](PDFs/2021/a11.pdf)
 [presentation](Videos/2021/a11-video.mp4)
 [slides](PDFs/2021/a11-slides.pdf)
+[repo](https://gitlab.com/um-ece/ftl-lab/hilas)
+
 ### Abstract
 
 This work presents an implemented, and where allowed, openly-available programmable analog standard cell library in the open-source skywater 130nm bulk CMOS processes. Standard CMOS elements enable programmablility for many standard-cell components, eliminating the need for large number of device geometries required in classic analog design.    This effort presents the methodology in developing these analog standard cell library. The standard cell library was designed to integrate with digital open-source synthesis tools.
@@ -262,6 +279,8 @@ This work presents an implemented, and where allowed, openly-available programma
 [paper](PDFs/2021/a12.pdf)
 [presentation](Videos/2021/a12-video.mp4)
 [slides](PDFs/2021/a12-slides.pdf)
+[repo](https://github.com/lnis-uofu/LSOracle)
+
 ### Abstract
 LSOracle is a tool for logic synthesis which uses several directed acyclic graph representations concurrently when optimizing a design; for example a combination of And-Inverter Graphs and Majority-Inverter Graphs. Version 2.0 of LSOracle has recently been released. This paper describes the changes made in version 2.0 and presents recent benchmark results compared to earlier versions of the tool. Execution time has been reduced by a factor of ten with an accompanying 5-10\% improvement in area-delay product.
 
@@ -277,6 +296,8 @@ LSOracle is a tool for logic synthesis which uses several directed acyclic graph
 [paper](PDFs/2021/a13.pdf)
 [presentation](Videos/2021/a13-video.mp4)
 [slides](PDFs/2021/a13-slides.pdf)
+[repo](http://github.com/asyncvlsi/interact)
+
 ### Abstract
 
 We are developing an open-source EDA flow for asynchronous logic. We present the current state of the flow, where all the key components have been integrated into a single framework including the timer, partitioner, placer, power detailed router, and global router. We describe enhancements to the flow in terms of the class of circuits that can be handled, and extensions to support third-party libraries and flows.
@@ -297,6 +318,8 @@ We are developing an open-source EDA flow for asynchronous logic. We present the
 [paper](PDFs/2021/a14.pdf)
 [presentation](Videos/2021/a14-video.mp4)
 [slides](PDFs/2021/a14-slides.pdf)
+[repo](https://github.com/peaclab/PACT)
+
 ### Abstract
 
 Over the last few decades, chip temperature has become one of the most important criteria for designing high-performance, cost-effective, and reliable integrated circuits (ICs). Increased power consumption and temperature not only degrade the performance of a chip but also generate larger sub-threshold leakage power and cause reliability challenges. Therefore, thermal analysis is an essential procedure for designing any chip. Conventional thermal analysis relies on finite-element method (FEM) based multiphysics simulators (e.g., COMSOL and ANSYS). Such commercial simulators are computationally expensive and experience long solution times along with large memory requirements. These limitations make commercial simulators unsuitable for evaluating numerous design alternatives or runtime scenarios. Therefore, having fast and accurate thermal analysis is crucial for chip design and thermal optimization. In this paper, we discuss the key features of a SPICE-based PArallel Compact Thermal simulator (PACT) that achieves fast and accurate, standard-cell to architecture-level, steady-state and transient parallel thermal simulations.
@@ -317,8 +340,10 @@ Over the last few decades, chip temperature has become one of the most important
 [paper](PDFs/2021/a15.pdf)
 [presentation](Videos/2021/a15-video.mp4)
 [slides](PDFs/2021/a15-slides.pdf)
+[repo](https://github.com/FPGA-Research-Manchester/)
+
 ### Abstract
-This paper presents the open-source embedded FPGA framework FABulous that is designed for ease-of-use and excellent quality of results in terms of logic density, performance, and power consumption. FABulous users can build a fabric from predefined tiles for logic, memory, arithmetic, and various IO. The tiles are stitched together in a Lego-like manner, as needed. 
+This paper presents the open-source embedded FPGA framework FABulous that is designed for ease-of-use and excellent quality of results in terms of logic density, performance, and power consumption. FABulous users can build a fabric from predefined tiles for logic, memory, arithmetic, and various IO. The tiles are stitched together in a Lego-like manner, as needed.
 Users can add custom tiles or customize the routing resources and most architectural details of the FPGA fabrics. Experienced designers can provide optimized cells for configuration storage or switching (e.g., pass transistor multiplexers, what we currently provide for TSMC 180nm and Skywater 130nm). Alternatively, FABulous can fall back to a standard cell design, which makes FABulous FPGAs easily portable across different technology nodes.
 Fabulous comes with unique features that are not available in other open-source FPGA frameworks like low power frame-wise reconfiguration and dynamic partial configuration. FABulous integrates several other open-source projects (Yosys, nextpnr, VPR, OpenLane, Verilator) to provide a full and open end-to-end user experience.
 
@@ -336,13 +361,15 @@ Fabulous comes with unique features that are not available in other open-source 
 [paper](PDFs/2021/a16.pdf)
 [presentation](Videos/2021/a16-video.mp4)
 [slides](PDFs/2021/a16-slides.pdf)
+[repo](https://github.com/hdl/bazel_rules_hdl)
+
 ### Abstract
 
-Over the past 20 years a significant amount of development has gone into developer tooling to build software safely, and repeatedly. \emph{Bazel} is an open source build system designed from the ground up to accommodate highly variable language tool chains and massive software builds. This project aims to leverage that very same technology to offer software inspired workflows to build integrated circuits. 
+Over the past 20 years a significant amount of development has gone into developer tooling to build software safely, and repeatedly. \emph{Bazel} is an open source build system designed from the ground up to accommodate highly variable language tool chains and massive software builds. This project aims to leverage that very same technology to offer software inspired workflows to build integrated circuits.
 
 In this abstract session, I discuss the open source project [hdl/bazel_rules_hdl](https://github.com/hdl/bazel_rules_hdl) which aims to use \emph{Bazel}, \emph{OpenROAD} , \emph{Yosys} and other open source tools to build a software like workflow that integrates synthesis, place and route, and verification into well defined build rule functions that can be easily run, distributed, and cached on multiple machines using the existing capabilities of Bazel.
 
-Today `hdl/bazel_rules_ hdl` offers Bazel rules that will synthesize, place and route and run regression tests against the final placed and routed design. The regression tests allow you to set power and area thresholds on subblocks that cannot be exceeded without updating the thresholds, or modifying the problematic RTL. 
+Today `hdl/bazel_rules_ hdl` offers Bazel rules that will synthesize, place and route and run regression tests against the final placed and routed design. The regression tests allow you to set power and area thresholds on subblocks that cannot be exceeded without updating the thresholds, or modifying the problematic RTL.
 
 These build rules give you the ability to setup software like presubmits that prevent RTL modifications that reduce the final PPA of the design, break the place and route or negatively impact synthesis. These types of workflows are common in the software model, but are novel in the hardware workflow space.
 
@@ -357,6 +384,8 @@ Ethan Mahintorabi <ethanmoon@google.com> (Google)
 [paper](PDFs/2021/a17.pdf)
 [presentation](Videos/2021/a17-video.mp4)
 [slides](PDFs/2021/a17-slides.pdf)
+[repo](http://www.opencircuitdesign.com/magic)
+
 ### Abstract
 Constant development of tools often breaks something internally which can lead to other issues. Hence there is a need to test the tool for its previous supporting features. But the tool needs an environment to get launched and good test cases to test the features. This problem can be solved by "Vezzal". It is a docker containerised environment which is built completely from scratch, as shown in figure 1, which can be operated in two modes - user mode and test mode. In the test mode of Vezzal, the tool is provided with an environment supporting all dependencies like compilers, libraries etc., and a test cases database which could test the tool its core and supporting features with a very few inputs from the user. The testing can be done through the GitHub Actions feature to trigger the Vezzal because of any changes to the tool, thus supporting the continuous integration (CI) of tools. The CI workflow is shown in figure 2. Currently, the Vezzal is supporting the CI for Magic and Netgen tools at a basic level. In the user mode, Vezzal can be used to work with the supporting open-source EDA tools without worrying about the tool dependencies and can exercise them using the test cases database as examples. In addition to the main goal, Vezzal is designed to keep everything simple by following the KISS (KEEP IT SIMPLE, STUPID) principle to avoid any kind of usage restrictions, giving complete freedom to mould Vezzal according to the needs and requirements of the user. The CI feature offered by Vezzal couldn't be possible without the docker technology, which is also employed by the OpenLane, and GitHub Actions. Many other tools will be added under user mode soon
 
@@ -365,14 +394,7 @@ Sai Charan Lanka <lankasaicharan@ieee.org> (None)
 
 # Article 18
 
-## Testing the OpenRAM Break-Out Chip Using a Raspberry Pi-Based Logic Analyzer
-[paper](PDFs/2021/a18.pdf)
-### Abstract
-Efabless, a company that works to connect customers and designers of analog, mixed signal IC, and IP development, worked with OpenRAM, a software system for automatically generating the layout of computer memory blocks (otherwise known as a 'memory compiler') and the SkyWater foundry process, the first open source foundry process, to build a microcontroller called 'striVe'.
-Part of the characterization of the striVe processor included functional verification of the on-chip SRAM, including testing of a separate “break-out” chip containing a single 1kB SRAM block with pins connected directly to signals in the circuit that would otherwise be inaccessible and untestable when integrated into the full microcontroller.   However, initial verification was limited to simple low-speed tests.  This project aims to design a cheap logic analyzer using a Raspberry Pi, to connect to the break-out SRAM chip in order to properly characterize the chip at speed by applying signal vectors in specific sequences and timing, as well as synchronously reading output values at specific times, to measure the frequency and timing limits of the circuit.  Limitations of the Raspberry Pi as a data collection system are discussed, and results from the OpenRAM characterization are presented.
-
-### Author
-Aiden Dullaghan <aiden.p.dullaghan04@gmail.com>
+Removed.
 
 # Article 19
 
@@ -380,6 +402,8 @@ Aiden Dullaghan <aiden.p.dullaghan04@gmail.com>
 [paper](PDFs/2021/a19.pdf)
 [presentation](Videos/2021/a19-video.mp4)
 [slides](PDFs/2021/a19-slides.pdf)
+[repo](http://www.opencircuitdesign.com/open_pdks)
+
 ### Abstract
 The need for open-source tools for circuit design for custom silicon hardware has increased since the establishment of the Skywater open-source process design kit (PDK). This project aims to improve and extend existing software tools and scripts that help users with developing circuits; and to migrate the tools, which currently are mostly on the Efabless, Inc. platform, to a platform-independent, open environment. The project's end goal is to improve the functionality of an existing project manager and provide intuitive software for managing circuit design flows. The flow manager guides users through a specific design process, integrating the PDK and tools and ensuring that all conditions are being met in the process. The project aims to support the analog, design, mixed-signal, and chip assembly flows, each of which has its own unique set of tools and steps.
 
@@ -393,6 +417,8 @@ The need for open-source tools for circuit design for custom silicon hardware ha
 [paper](PDFs/2021/a20.pdf)
 [presentation](Videos/2021/a20-video.mp4)
 [slides](PDFs/2021/a20-slides.pdf)
+[repo](https://github.com/masc-ucsc/livehd)
+
 ### Abstract
 We present LiveHD, a parallel HDL compiler to boost the HDL compilation
 throughput. The hierarchical dependency of the design is resolved internally in
@@ -411,6 +437,8 @@ LiveHD without any pre-scan step on source files. We identify why and how LiveHD
 [paper](PDFs/2021/a21.pdf)
 [presentation](Videos/2021/a21-video.mp4)
 [slides](PDFs/2021/a21-slides.pdf)
+[repo](https://github.com/VLSIDA/OpenCache)
+
 ### Abstract
 --------
 Hardware caches are used in order to maximize the average latency of large memory blocks. The client logic is usually a CPU core but it may well be an application specific logic. However, designing a cache manually from scratch is difficult. In this paper, we describe OpenCache, an open-source parameterized IP core generator. OpenCache calls OpenRAM on the fly, while considering OpenRAM efficiency issues. The current version of OpenCache supports a single pipelined and in-order read-write port on the client side. It outputs a synthesizable Verilog module for cache logic and configuration files for OpenRAM to compile internal SRAM blocks holding data and tags of the generated cache.
@@ -426,6 +454,8 @@ Hardware caches are used in order to maximize the average latency of large memor
 [paper](PDFs/2021/a22.pdf)
 [presentation](Videos/2021/a22-video.mp4)
 [slides](PDFs/2021/a22-slides.pdf)
+[repo]()
+
 ### Abstract
 We present a guide for quickly building and testing a new HDL. Upcoming HDLs have a compiler designed specifically for each of them, which means duplicated efforts. The proposed guidelines minimize these efforts. New language developers can leverage existing compiler infrastructures to interface with the new HDL. This interfacing would enable developers to use LEC without any reference compiler. The proposed method also leads to converting the newly developed HDL to any other language supported by the interfaced compiler. Also, this system would ensure higher trust in the language and the interfaces.
 
@@ -442,6 +472,8 @@ We present a guide for quickly building and testing a new HDL. Upcoming HDLs hav
 [paper](PDFs/2021/a23.pdf)
 [presentation](Videos/2021/a23-video.mp4)
 [slides](PDFs/2021/a23-slides.pdf)
+[repo](https://github.com/ucsc-vama/essent)
+
 ### Abstract
 RTL simulation is a critical tool for hardware development, debugging, design space exploration, and verification. The slow speed of hardware simulation can often be a bottleneck for the design process, so any speed improvements could either reduce design times or improve design quality. We overview ESSENT, a high-performance RTL simulator available as open-source. Not only does it contain novel optimizations that make it typically faster than other software RTL simulators, the codebase can serve as a foundation for simulation research.
 
