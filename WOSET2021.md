@@ -79,7 +79,7 @@ CFU Playground is available under an Apache 2.0 license at  https://github.com/g
 [paper](PDFs/2021/a02.pdf)
 [presentation](Videos/2021/a02-video.mp4)
 [slides](PDFs/2021/a02-slides.pdf)
-[repo](https://github.com/CTSRD-CHERI/bluecheck)
+[repo](https://github.com/B-Lang-org/bsc)
 
 ### Abstract
 
