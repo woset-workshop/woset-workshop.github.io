@@ -27,23 +27,6 @@ For live discussions via Zoom and Slack, please see the [WOSET 2021 Schedule](WO
 ### Virtual Arrangements
 * Sakshi Garg, UC Santa Cruz
 
-## Best contribution
-
-Winner
-* TBD
-
-Honorable mentions:
-* TBD
-
-
-## Best video
-
-Winner
-* TBD
-
-Honorable mentions:
-* TBD
-
 # Article 1
 
 ## CFU Playground: Build your own ML Processor using Open Source
