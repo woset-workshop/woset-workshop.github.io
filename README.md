@@ -27,8 +27,7 @@ There will be no registration fee. Workshop will be virtual.
 * Review is *NOT* blind.
 
 ### Video Recordings
-* Long talk: 12 minute video
-* Short talk/poster: 5 minute video
+* TBD
 * Due October 15, 2022
 
 ### Regular Paper Submissions (4 pages):
@@ -41,9 +40,8 @@ There will be no registration fee. Workshop will be virtual.
 * **Please reference your open-source repository!**
 
 ### Work in Progress Submissions (< 1 page abstract):
-* Work in progress video in lieu of a traditional poster session
-* No paper submission required, abstract and video only!
-* Video will be put on WOSET site if accepted.
+* No paper submission required, abstract only!
+* Participation in interactive virtual poster session.
 * **Please reference your open-source repository!**
 
 ### Prizes:
