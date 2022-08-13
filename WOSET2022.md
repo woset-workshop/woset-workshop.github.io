@@ -72,7 +72,7 @@ The 2022 WOSET schedule will be available at
 * Matthew Venn, YosysHQ & ChipFlow
 * Rajit Manohar, Yale University
 * Scott Temple, University of Utah
-* Jonathan Balkind, UC Santa Barba
+* Jonathan Balkind, UC Santa Barbara
 * Tobias Grosser, University of Edinburgh
 
 
