@@ -44,9 +44,6 @@ There will be no registration fee. Workshop will be virtual.
 * Participation in interactive virtual poster session.
 * **Please reference your open-source repository!**
 
-### Prizes:
-* WOSET will award $TBD in prizes to the top open-source contributions.
-
 ### Important dates:
 * Sept 1st 2022 * (end of day, anywhere in world): submission due date
 * Sept 15th 2022: notification of acceptance
@@ -72,9 +69,16 @@ The 2022 WOSET schedule will be available at
 ### Program Committee
 * Matthew Guthaus, UC Santa Cruz
 * Jose Renau, UC Santa Cruz
+* Matthew Venn, YosysHQ & ChipFlow
+* Rajit Manohar, Yale University
+* Scott Temple, University of Utah
+* Jonathan Balkind, UC Santa Barba
+* Tobias Grosser, University of Edinburgh
 
-### Web Chair
+
+### Web Chairs
 * Jesse Cirimeli-Low, UC Santa Cruz
+* Sakshi Garg, UC Santa Cruz
 
 For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
 
