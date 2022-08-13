@@ -1,11 +1,66 @@
-#  WOSET 2022 Proceedings
 
-To cite an article, please use this format:
-(author names here), "(article title here)", Article No. (article number here), Workshop on Open-Source EDA Technology (WOSET), 2021.
+# Workshop on Open-Source EDA Technology
 
-For live discussions via Zoom and Slack, please see the [WOSET 2022 Schedule](WOSET2022-schedule.md).
+Virtually co-sponsored by ICCAD 2022 on November 3, 2022!
 
-## Organization
+The WOSET workshop aims to galvanize the open-source EDA movement. The
+workshop will bring together EDA researchers who are committed to
+open-source principles to share their experiences and coordinate
+efforts towards developing a reliable, fully open-source EDA flow. The
+workshop will feature presentations and posters that overview existing
+or under-development open-source tools, designs and technology
+libraries. A live demo session for tools in advanced state will be
+planned. The workshop will feature a panel on the present status and
+future challenges in open-source EDA, and how to coordinate efforts
+and ensure quality and interoperability across open-source tools. A
+cash award will be given for a Best Tool Award.
+
+# Registration
+
+There will be no registration fee. Workshop will be virtual.
+
+# Submission Information
+
+* Please use the [IEEE Conference Template](https://www.ieee.org/conferences/publishing/templates.html)
+* All submissions should be made at [https://woset2022.hotcrp.com/](https://woset2022.hotcrp.com/)
+* All submissions must include links to open-source repositories with all source code and an open-source license (BSD, GPL, Apache, etc.)
+* Review is *NOT* blind.
+
+### Video Recordings
+* TBD
+* Due October 15, 2022
+
+### Regular Paper Submissions (4 pages):
+* Overview of an existing or under-development open-source EDA tool.
+* Overview of support infrastructure (e.g. EDA databases and design benchmarks).
+* Open-source cloud-based EDA tools
+* Open-source hardware designs
+* Position statements (e.g. critical gaps, blockers/obstacles)
+* Video will be put on WOSET site if accepted.
+* **Please reference your open-source repository!**
+
+### Work in Progress Submissions (< 1 page abstract):
+* No paper submission required, abstract only!
+* Participation in interactive virtual poster session.
+* **Please reference your open-source repository!**
+
+### Important dates:
+* Sept 1st 2022 * (end of day, anywhere in world): submission due date
+* Sept 15th 2022: notification of acceptance
+* Oct 15th 2022: video due (if accepted)
+* Nov 3 2022: workshop
+
+### Proceedings
+
+The 2022 WOSET paper proceedings will be available at
+[WOSET 2022](WOSET2022.md)
+
+### Schedule
+
+The 2022 WOSET schedule will be available at
+[WOSET Schedule](WOSET2022-schedule.md).
+
+# Organization
 
 ### Co-Chairs
 * Jose Renau, UC Santa Cruz (Co-Chair)
@@ -14,8 +69,25 @@ For live discussions via Zoom and Slack, please see the [WOSET 2022 Schedule](WO
 ### Program Committee
 * Matthew Guthaus, UC Santa Cruz
 * Jose Renau, UC Santa Cruz
+* Matthew Venn, YosysHQ & ChipFlow
+* Rajit Manohar, Yale University
+* Scott Temple, University of Utah
+* Jonathan Balkind, UC Santa Barba
+* Tobias Grosser, University of Edinburgh
 
-### Web Chair
+
+### Web Chairs
 * Jesse Cirimeli-Low, UC Santa Cruz
+* Sakshi Garg, UC Santa Cruz
 
-### Virtual Arrangements
+For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
+
+# Previous WOSETs
+
+[WOSET 2018](WOSET2018.md)
+
+[WOSET 2019](WOSET2019.md)
+
+[WOSET 2020](WOSET2020.md)
+
+[WOSET 2021](WOSET2021.md)
