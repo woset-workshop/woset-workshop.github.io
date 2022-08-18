@@ -26,9 +26,11 @@ There will be no registration fee. Workshop will be virtual.
 * All submissions must include links to open-source repositories with all source code and an open-source license (BSD, GPL, Apache, etc.)
 * Review is *NOT* blind.
 
-### Video Recordings
-* TBD
-* Due October 15, 2022
+### Conference Format
+* Pre-recorded videos (15 minutes or less) due Oct 15, 2022.
+* Recordings will be added to proceedings for both regular and WIP submissions.
+* Regular papers will have live Q&A (5 minutes) following a pre-recorded or live talk (15 minutes) on Nov 3, 2022.
+* Works in Progress will have a live virtual poster session (1 hour) on Nov 3, 2022
 
 ### Regular Paper Submissions (4 pages):
 * Overview of an existing or under-development open-source EDA tool.
@@ -36,7 +38,6 @@ There will be no registration fee. Workshop will be virtual.
 * Open-source cloud-based EDA tools
 * Open-source hardware designs
 * Position statements (e.g. critical gaps, blockers/obstacles)
-* Video will be put on WOSET site if accepted.
 * **Please reference your open-source repository!**
 
 ### Work in Progress Submissions (< 1 page abstract):
@@ -45,8 +46,8 @@ There will be no registration fee. Workshop will be virtual.
 * **Please reference your open-source repository!**
 
 ### Important dates:
-* Sept 1st 2022 * (end of day, anywhere in world): submission due date
-* Sept 15th 2022: notification of acceptance
+* Sept 9th 2022 * (end of day, anywhere in world): submission due date
+* Sept 22nd 2022: notification of acceptance
 * Oct 15th 2022: video due (if accepted)
 * Nov 3 2022: workshop
 
