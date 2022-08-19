@@ -12,8 +12,7 @@ or under-development open-source tools, designs and technology
 libraries. A live demo session for tools in advanced state will be
 planned. The workshop will feature a panel on the present status and
 future challenges in open-source EDA, and how to coordinate efforts
-and ensure quality and interoperability across open-source tools. A
-cash award will be given for a Best Tool Award.
+and ensure quality and interoperability across open-source tools.
 
 # Registration
 
