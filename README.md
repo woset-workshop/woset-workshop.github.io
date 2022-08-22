@@ -39,9 +39,9 @@ There will be no registration fee. Workshop will be virtual.
 * Position statements (e.g. critical gaps, blockers/obstacles)
 * **Please reference your open-source repository!**
 
-### Work in Progress Submissions (< 1 page abstract):
+### Talk Only/Work in Progress Submissions (< 1 page abstract):
 * No paper submission required, abstract only!
-* Participation in interactive virtual poster session.
+* Participation in interactive virtual poster session or a full talk depending on reviewers decision.
 * **Please reference your open-source repository!**
 
 ### Important dates:
