@@ -166,7 +166,7 @@ This work presents an extension of the OpenRAM memory compiler to provide the au
 2. Jesse Cirimelli-Low (University of California, Santa Cruz) <jcirimel@ucsc.edu>
 3. Matthew Guthaus (University of California, Santa Cruz) <mrg@ucsc.edu>
 
-# Article 10
+# Article 9
 
 ## xcell: a cell library characterizer for combinational and state-holding gates
 [paper](PDFs/2022/10-Manohar-paper.pdf)
@@ -180,7 +180,7 @@ We present an open-source cell library characterizer suitable for characterizing
 ### Authors
 1. Rajit Manohar (Yale University) <rajit.manohar@yale.edu>
 
-# Article 11
+# Article 10
 
 ## GreenRio: A Modern RISC-V Microprocessor Completely Designed with An Agile Open-source EDA Flow
 [paper](PDFs/2022/11-Zhu-paper.pdf)
@@ -197,7 +197,7 @@ The booming open-source EDA ecosystem brings transparency and reproducibility to
 3. Xinze Wang (RIOS Lab, TsingHua University) <xinze.w@rioslab.org>
 4. Zhangxi Tan (RIOS Lab, TsingHua University) <xtan@rioslab.org>
 
-# Article 12
+# Article 11
 
 ## A Java Backend for ESSENT
 [paper]()
@@ -212,7 +212,7 @@ We propose a new open-source RTL simulator that achieves faster compilation and 
 1. Augie Eriksson (University of California, Berkeley) <raeriksson@berkeley.edu>
 2. Maanuj Vora (University of California, Berkeley) <maanujvora@berkeley.edu>
 
-# Article 13
+# Article 12
 
 ## Morpher: An Open-Source Integrated Compilation and Simulation Framework for CGRA
 [paper](PDFs/2022/13-Wijerathne-paper.pdf)
@@ -231,7 +231,7 @@ This paper presents Morpher, an open-source end-to-end compilation and simulatio
 4. Tulika Mitra (National University of Singapore) <tulika@comp.nus.edu.sg>
 5. Li-Shiuan Peh (National University of Singapore) <peh@comp.nus.edu.sg>
 
-# Article 14
+# Article 13
 
 ## From Chisel to Chips with Open-Source Tools
 [paper](PDFs/2022/14-Schoeberl-paper.pdf)
@@ -246,7 +246,7 @@ Chisel and Verilator provide an open-source stack for digital design. For ASIC s
 1. Martin Schoeberl (Technical University of Denmark) <masca@dtu.dk>
 2. Luca Pezzarossa (Technical University of Denmark) <lpez@dtu.dk>
 
-# Article 16
+# Article 14
 
 ## Library characterizer for open-source VLSI design
 [paper](PDFs/2022/16-Nishizawa-paper.pdf)
@@ -261,7 +261,7 @@ This paper introduce an open source cell library characterizer. Free and open-so
 1. Shinichi Nishizawa (Waseda University) <nishizawa@aoni.waseda.jp>
 2. Toru Nakura (Fukuoka University) <nakura@fukuoka-u.ac.jp>
 
-# Article 18
+# Article 15
 
 ## 8bitworkshop: An Interactive Verilog Learning Tool
 [paper]()
@@ -281,7 +281,7 @@ The IDE is available online at https://8bitworkshop.com. The source code is at h
 ### Authors
 1. Steven Hugg (8bitworkshop.com) <hugg@fasterlight.com>
 
-# Article 19
+# Article 16
 
 ## The Hardware Interchange Format
 [paper]()
@@ -297,7 +297,7 @@ There currently exists a plethora of open-source hardware design tools and compi
 2. Jing-Hsiang Huang (University of California, Santa Cruz) <jhuan278@ucsc.edu>
 3. Jose Renau (University of California, Santa Cruz) <renau@ucsc.edu>
 
-# Article 20
+# Article 17
 
 ## PipelineC: Easy open-source hardware description between RTL and HLS
 [paper](PDFs/2022/20-Kemmerer-Poster.pdf)
@@ -327,7 +327,7 @@ PipelineC is in active development. Always happy to take questions, comments, su
 ### Authors
 1. Julian Kemmerer (None) <julian.v.kemmere@gmail.com>
 
-# Article 21
+# Article 18
 
 ## IRSIM: A Switch-Level Simulator and Dynamic Power Analysis Tool
 [paper](PDFs/2022/21-Liang-paper.pdf)
@@ -343,7 +343,7 @@ IRSIM is an open-source switch level simulator that analyzes digital circuits at
 1. Jason Liang (UC San Diego) <jsliang@ucsd.edu>
 2. R. Timothy Edwards (Efabless) <tim@efabless.com>
 
-# Article 22
+# Article 19
 
 ## Rapid Open Hardware Development Framework
 [paper](PDFs/2022/22-korbel-paper.pdf)
@@ -358,7 +358,7 @@ The Rapid Open Hardware Development (ROHD) framework is an open-source framework
 ### Authors
 1. Max Korbel (Intel Corporation) <max.korbel@intel.com>
 
-# Article 24
+# Article 20
 
 ## A MLIR-Based Hardware Synthesis Framework
 [paper]()
