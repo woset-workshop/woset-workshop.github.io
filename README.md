@@ -32,25 +32,6 @@ There is no registration fee. The workshop is virtual. Please [register through 
 * Regular papers will have live Q&A (10-15 minutes) following a pre-recorded or live talk (5 minutes) on Nov 3, 2022.
 * Works in Progress will have a live virtual poster session (1 hour) on Nov 3, 2022
 
-### Regular Paper Submissions (4 pages):
-* Overview of an existing or under-development open-source EDA tool.
-* Overview of support infrastructure (e.g. EDA databases and design benchmarks).
-* Open-source cloud-based EDA tools
-* Open-source hardware designs
-* Position statements (e.g. critical gaps, blockers/obstacles)
-* **Please reference your open-source repository!**
-
-### Talk Only/Work in Progress Submissions (< 1 page abstract):
-* No paper submission required, abstract only!
-* Participation in interactive virtual poster session or a full talk depending on reviewers decision.
-* **Please reference your open-source repository!**
-
-### Important dates:
-* Sept 9th 2022 * (end of day, anywhere in world): submission due date
-* Sept 22nd 2022: notification of acceptance
-* Oct 15th 2022: video due (if accepted)
-* Nov 3 2022: workshop
-
 ### Proceedings
 
 The 2022 WOSET paper proceedings is available at
