@@ -73,8 +73,8 @@
 </thead>
 <tbody>
 <tr>
-<td rowspan=7>10:00 AM</td>
-<td rowspan=7>60</td>
+<td rowspan=8>10:00 AM</td>
+<td rowspan=8>60</td>
 
 <td>4</td>
 <td>Kashif, Ahmed, Karim</td>
@@ -104,8 +104,6 @@
 <td>17</td>
 <td>Kemmerer</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-17">PipelineC: Easy open-source hardware description between RTL and HLS</a></td>
-</tr>
-
 </tr>
 </tbody>
 </table>
