@@ -169,9 +169,9 @@ This work presents an extension of the OpenRAM memory compiler to provide the au
 # Article 9
 
 ## xcell: a cell library characterizer for combinational and state-holding gates
-[paper](PDFs/2022/10-Manohar-paper.pdf)
-[presentation](Videos/2022/8-Manohar-short.mp4)
-[slides](PDFs/2022/10-Manohar.pdf)
+[paper](PDFs/2022/9-Manohar-paper.pdf)
+[presentation](Videos/2022/9-Manohar-short.mp4)
+[slides](PDFs/2022/9-Manohar.pdf)
 [repo]()
 
 ### Abstract
@@ -183,9 +183,9 @@ We present an open-source cell library characterizer suitable for characterizing
 # Article 10
 
 ## GreenRio: A Modern RISC-V Microprocessor Completely Designed with An Agile Open-source EDA Flow
-[paper](PDFs/2022/11-Zhu-paper.pdf)
-[presentation](Videos/2022/11-Zhu-long.mp4)
-[slides](PDFs/2022/11-Zhu-paper.pdf)
+[paper](PDFs/2022/10-Zhu-paper.pdf)
+[presentation](Videos/2022/10-Zhu-long.mp4)
+[slides](PDFs/2022/10-Zhu-paper.pdf)
 [repo]()
 
 ### Abstract
@@ -201,8 +201,8 @@ The booming open-source EDA ecosystem brings transparency and reproducibility to
 
 ## A Java Backend for ESSENT
 [paper]()
-[presentation](Videos/2022/12-Eriksson-long.mp4)
-[slides](PDFs/2022/12-Eriksson.pdf)
+[presentation](Videos/2022/11-Eriksson-long.mp4)
+[slides](PDFs/2022/11-Eriksson.pdf)
 [repo]()
 
 ### Abstract
@@ -215,10 +215,10 @@ We propose a new open-source RTL simulator that achieves faster compilation and 
 # Article 12
 
 ## Morpher: An Open-Source Integrated Compilation and Simulation Framework for CGRA
-[paper](PDFs/2022/13-Wijerathne-paper.pdf)
-[presentation (long)](Videos/2022/13-Wijerathne-long.mp4)
-[presentation (short)](Videos/2022/13-Wijerathne-short.mp4)
-[slides](PDFs/2022/13-Wijerathne-presentation.pdf)
+[paper](PDFs/2022/12-Wijerathne-paper.pdf)
+[presentation (long)](Videos/2022/12-Wijerathne-long.mp4)
+[presentation (short)](Videos/2022/12-Wijerathne-short.mp4)
+[slides](PDFs/2022/12-Wijerathne-presentation.pdf)
 [repo]()
 
 ### Abstract
@@ -234,13 +234,13 @@ This paper presents Morpher, an open-source end-to-end compilation and simulatio
 # Article 13
 
 ## From Chisel to Chips with Open-Source Tools
-[paper](PDFs/2022/14-Schoeberl-paper.pdf)
-[presentation](Videos/2022/14-Schoeberl.mp4)
-[slides](PDFs/2022/14-Schoeberl-poster.pdf)
+[paper](PDFs/2022/13-Schoeberl-paper.pdf)
+[presentation](Videos/2022/13-Schoeberl.mp4)
+[slides](PDFs/2022/13-Schoeberl-poster.pdf)
 [repo]()
 
 ### Abstract
-Chisel and Verilator provide an open-source stack for digital design. For ASIC synthesis, we have open-source tools like OpenROAD, Yosys, and Magic. OpenROAD is a project to deliver an end-to-end silicon compiler in open source. The aim is to ``democratize hardware design'' by providing an automated layout generation flow from a design in RTL to GDS files used to produce silicon. Google and Efabless offer free production of chips in a multi-project wafer if the project is available in open source. In this paper, we report our experience in using the open-source tool flow from Chisel to chips with two designs: a small processor using only on-chip resources and a RISC-style processor with extra external main memory. We have successfully taped out both processors for the multi-project waver MPW7 from Efabless.
+Chisel and Verilator provide an open-source stack for digital design. For ASIC synthesis, we have open-source tools like OpenROAD, Yosys, and Magic. OpenROAD is a project to deliver an end-to-end silicon compiler in open source. The aim is to "democratize hardware design" by providing an automated layout generation flow from a design in RTL to GDS files used to produce silicon. Google and Efabless offer free production of chips in a multi-project wafer if the project is available in open source. In this paper, we report our experience in using the open-source tool flow from Chisel to chips with two designs: a small processor using only on-chip resources and a RISC-style processor with extra external main memory. We have successfully taped out both processors for the multi-project waver MPW7 from Efabless.
 
 ### Authors
 1. Martin Schoeberl (Technical University of Denmark) <masca@dtu.dk>
@@ -249,9 +249,9 @@ Chisel and Verilator provide an open-source stack for digital design. For ASIC s
 # Article 14
 
 ## Library characterizer for open-source VLSI design
-[paper](PDFs/2022/16-Nishizawa-paper.pdf)
-[presentation](Videos/2022/16-Nishizawa-long.mp4)
-[slides](PDFs/2022/16-Nishizawa.pdf)
+[paper](PDFs/2022/14-Nishizawa-paper.pdf)
+[presentation](Videos/2022/14-Nishizawa-long.mp4)
+[slides](PDFs/2022/14-Nishizawa.pdf)
 [repo]()
 
 ### Abstract
@@ -285,8 +285,8 @@ The IDE is available online at https://8bitworkshop.com. The source code is at h
 
 ## The Hardware Interchange Format
 [paper]()
-[presentation](Videos/2022/19-Huang.mp4)
-[slides](PDFs/2022/19-Huang.pdf)
+[presentation](Videos/2022/16-Huang.mp4)
+[slides](PDFs/2022/16-Huang.pdf)
 [repo]()
 
 ### Abstract
@@ -300,9 +300,9 @@ There currently exists a plethora of open-source hardware design tools and compi
 # Article 17
 
 ## PipelineC: Easy open-source hardware description between RTL and HLS
-[paper](PDFs/2022/20-Kemmerer-Poster.pdf)
-[presentation](Videos/2022/20-Kemmerer.mp4)
-[slides](PDFs/2022/20-Kemmerer-Slides.pdf)
+[paper](PDFs/2022/17-Kemmerer-poster.pdf)
+[presentation](Videos/2022/17-Kemmerer.mp4)
+[slides](PDFs/2022/17-Kemmerer-slides.pdf)
 [repo]()
 
 ### Abstract
@@ -330,10 +330,10 @@ PipelineC is in active development. Always happy to take questions, comments, su
 # Article 18
 
 ## IRSIM: A Switch-Level Simulator and Dynamic Power Analysis Tool
-[paper](PDFs/2022/21-Liang-paper.pdf)
-[presentation (long)](Videos/2022/21-Liang-long.mp4)
-[presentation (short)](Videos/2022/21-Liang-short.mp4)
-[slides](PDFs/2022/21-Liang.pdf)
+[paper](PDFs/2022/18-Liang-paper.pdf)
+[presentation (long)](Videos/2022/18-Liang-long.mp4)
+[presentation (short)](Videos/2022/18-Liang-short.mp4)
+[slides](PDFs/2022/18-Liang.pdf)
 [repo]()
 
 ### Abstract
@@ -346,10 +346,10 @@ IRSIM is an open-source switch level simulator that analyzes digital circuits at
 # Article 19
 
 ## Rapid Open Hardware Development Framework
-[paper](PDFs/2022/22-korbel-paper.pdf)
-[presentation (long)](Videos/2022/22-korbel-long.mp4)
-[presentation (short)](Videos/2022/22-korbel-short.mp4)
-[slides](PDFs/2022/22-korbel.pdf)
+[paper](PDFs/2022/19-Korbel-paper.pdf)
+[presentation (long)](Videos/2022/19-Korbel-long.mp4)
+[presentation (short)](Videos/2022/19-Korbel-short.mp4)
+[slides](PDFs/2022/19-Korbel.pdf)
 [repo]()
 
 ### Abstract
@@ -362,8 +362,8 @@ The Rapid Open Hardware Development (ROHD) framework is an open-source framework
 
 ## A MLIR-Based Hardware Synthesis Framework
 [paper]()
-[presentation (long)](Videos/2022/24-korbel-long.mp4)
-[presentation (short)](Videos/2022/24-korbel-short.mp4)
+[presentation (long)](Videos/2022/20-Korbel-long.mp4)
+[presentation (short)](Videos/2022/20-Korbel-short.mp4)
 [slides]()
 [repo]()
 
