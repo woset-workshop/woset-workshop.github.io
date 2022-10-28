@@ -16,7 +16,8 @@ and ensure quality and interoperability across open-source tools.
 
 # Registration
 
-There will be no registration fee. Workshop will be virtual.
+There is no registration fee. The workshop is virtual. Please [register through Zoom](https://ucsc.zoom.us/meeting/register/tJUlduGsqj4iG9YyaKdPrPKelg9NjGH1A0jx) to attend the live sessions. 
+
 
 # Submission Information
 
@@ -52,13 +53,14 @@ There will be no registration fee. Workshop will be virtual.
 
 ### Proceedings
 
-The 2022 WOSET paper proceedings will be available at
+The 2022 WOSET paper proceedings is available at
 [WOSET 2022](WOSET2022.md)
 
 ### Schedule
 
-The 2022 WOSET schedule will be available at
+The 2022 WOSET schedule is available at
 [WOSET Schedule](WOSET2022-schedule.md).
+Please [register through Zoom](https://ucsc.zoom.us/meeting/register/tJUlduGsqj4iG9YyaKdPrPKelg9NjGH1A0jx) to attend the live sessions. 
 
 # Organization
 
