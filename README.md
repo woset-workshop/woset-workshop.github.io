@@ -16,7 +16,8 @@ and ensure quality and interoperability across open-source tools.
 
 # Registration
 
-There will be no registration fee. Workshop will be virtual.
+There is no registration fee. The workshop is virtual. Please [register through Zoom](https://ucsc.zoom.us/meeting/register/tJUlduGsqj4iG9YyaKdPrPKelg9NjGH1A0jx) to attend the live sessions. 
+
 
 # Submission Information
 
@@ -26,9 +27,9 @@ There will be no registration fee. Workshop will be virtual.
 * Review is *NOT* blind.
 
 ### Conference Format
-* Pre-recorded videos (15 minutes or less) due Oct 15, 2022.
-* Recordings will be added to proceedings for both regular and WIP submissions.
-* Regular papers will have live Q&A (5 minutes) following a pre-recorded or live talk (15 minutes) on Nov 3, 2022.
+* Video recordings will be added to proceedings for both regular and Work in Progress (WIP) submissions.
+* Both regular papers and WIP papers can have long videos (preferrably 15-20 min) for viewing outside the conference.
+* Regular papers will have live Q&A (10-15 minutes) following a pre-recorded or live talk (5 minutes) on Nov 3, 2022.
 * Works in Progress will have a live virtual poster session (1 hour) on Nov 3, 2022
 
 ### Regular Paper Submissions (4 pages):
@@ -52,13 +53,14 @@ There will be no registration fee. Workshop will be virtual.
 
 ### Proceedings
 
-The 2022 WOSET paper proceedings will be available at
+The 2022 WOSET paper proceedings is available at
 [WOSET 2022](WOSET2022.md)
 
 ### Schedule
 
-The 2022 WOSET schedule will be available at
+The 2022 WOSET schedule is available at
 [WOSET Schedule](WOSET2022-schedule.md).
+Please [register through Zoom](https://ucsc.zoom.us/meeting/register/tJUlduGsqj4iG9YyaKdPrPKelg9NjGH1A0jx) to attend the live sessions. 
 
 # Organization
 

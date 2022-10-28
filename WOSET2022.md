@@ -184,7 +184,7 @@ We present an open-source cell library characterizer suitable for characterizing
 
 ## GreenRio: A Modern RISC-V Microprocessor Completely Designed with An Agile Open-source EDA Flow
 [paper](PDFs/2022/10-Zhu-paper.pdf)
-[presentation](Videos/2022/10-Zhu-long.mp4)
+[presentation (long)](Videos/2022/10-Zhu-long.mp4)
 [slides](PDFs/2022/10-Zhu-paper.pdf)
 [repo](https://github.com/b224hisl/rioschip)
 
@@ -201,7 +201,7 @@ The booming open-source EDA ecosystem brings transparency and reproducibility to
 
 ## A Java Backend for ESSENT
 paper
-[presentation](Videos/2022/11-Eriksson-long.mp4)
+[presentation (long)](Videos/2022/11-Eriksson-long.mp4)
 [slides](PDFs/2022/11-Eriksson.pdf)
 [repo](https://github.com/ekiwi/essent/tree/java-backend)
 
@@ -250,7 +250,7 @@ Chisel and Verilator provide an open-source stack for digital design. For ASIC s
 
 ## Library characterizer for open-source VLSI design
 [paper](PDFs/2022/14-Nishizawa-paper.pdf)
-[presentation](Videos/2022/14-Nishizawa-long.mp4)
+[presentation (long)](Videos/2022/14-Nishizawa-long.mp4)
 [slides](PDFs/2022/14-Nishizawa.pdf)
 [repo](https://github.com/snishizawa/libretto)
 
