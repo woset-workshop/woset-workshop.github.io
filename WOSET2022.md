@@ -361,7 +361,7 @@ The Rapid Open Hardware Development (ROHD) framework is an open-source framework
 # Article 20
 
 ## A MLIR-Based Hardware Synthesis Framework
-paper
+[paper](PDFs/2022/20-Xu-paper.pdf)
 [presentation (long)](Videos/2022/20-Xu-long.mp4)
 [presentation (short)](Videos/2022/20-Xu-short.mp4)
 slides
