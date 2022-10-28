@@ -26,9 +26,8 @@ There will be no registration fee. Workshop will be virtual.
 * Review is *NOT* blind.
 
 ### Conference Format
-* Pre-recorded videos (15 minutes or less) due Oct 15, 2022.
 * Recordings will be added to proceedings for both regular and WIP submissions.
-* Regular papers will have live Q&A (5 minutes) following a pre-recorded or live talk (15 minutes) on Nov 3, 2022.
+* Regular papers will have live Q&A (10-15 minutes) following a pre-recorded or live talk (5 minutes) on Nov 3, 2022.
 * Works in Progress will have a live virtual poster session (1 hour) on Nov 3, 2022
 
 ### Regular Paper Submissions (4 pages):
