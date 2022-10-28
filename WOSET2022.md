@@ -31,7 +31,7 @@ For live discussions via Zoom and Slack, please see the [WOSET 2022 Schedule](WO
 [presentation (long)](Videos/2022/1-Birch-long.mp4)
 [presentation (short)](Videos/2022/1-Birch-short.mp4)
 [slides](PDFs/2022/1-Birch.pdf)
-[repo]()
+[repo](https://github.com/intuity/nexus)
 
 ### Abstract
 Nexus is a hardware-accelerated emulation platform for small designs at simulated clock rates approaching 1 MHz. The solution is split into a parameterisable systolic array targeting FPGA fabrics, and a specialised compiler which partitions a design and generates instruction streams for each node in the array. This paper explains the problem and details the development of the hardware and the compiler. The complete source code is published on GitHub with a permissive Apache-2.0 license.
@@ -45,7 +45,7 @@ Nexus is a hardware-accelerated emulation platform for small designs at simulate
 [paper](PDFs/2022/2-Euphrosine.pdf)
 [presentation (long)](Videos/2022/2-Euphrosine-long.mp4)
 [presentation (short)](Videos/2022/2-Euphrosine-short.mp4)
-[repo]()
+[repo](https://github.com/proppy/rad-lab)
 
 ### Abstract
 In this Work in Progress session we showcase our recent work to leverage Jupyter Notebooks and Conda packages to publish and share interactive silicon design experiments.
@@ -65,11 +65,11 @@ Each of the jobs result in a standalone notebook allowing us to share, aggregate
 # Article 3
 
 ## SODA Synthesizer: an Open-Source, End-to-End Hardware Compiler
-[paper]()
-[presentation (long)]()
-[presentation (short)]()
-[slides]()
-[repo]()
+paper
+presentation (long)
+presentation (short)
+slides
+repo
 
 ### Abstract
 Enabling autonomous control in novel scientific experimental workflows requires the ability to generate highly specialized systems for data analysis and artificial intelligence, enabling the low-latency reasoning capabilities needed to take real-time decisions. %Novel "converged" applications combine phases of scientific simulation with data analysis and machine learning. Each computational phase can benefit from specialized accelerators. However, algorithms evolve so quickly that mapping them on existing accelerators is suboptimal or even impossible. This paper presents the SODA (Software Defined Accelerators) framework, an open-source modular, multi-level, no-human-in-the-loop, hardware compiler that enables end-to-end generation of specialized accelerators from high-level data science frameworks. SODA is composed of SODA-Opt, a high-level frontend developed in MLIR that interfaces with domain-specific programming environments and allows performing system level design, and Bambu, a state-of-the-art high-level synthesis (HLS) engine that can target different device technologies. The framework implements design space exploration as compiler optimization passes. We show how the modular, yet tight, integration of the high-level optimizer and lower-level HLS tools enables the generation of accelerators optimized for the computational patterns of converged applications. We then discuss some of the research opportunities that such an open-source framework allows.
@@ -91,7 +91,7 @@ Enabling autonomous control in novel scientific experimental workflows requires 
 [paper](PDFs/2022/4-Kashif.pdf)
 [presentation](Videos/2022/4-Kashif.mp4)
 [slides](PDFs/2022/4-Kashif-slides.pdf)
-[repo]()
+[repo](https://github.com/shahzaibk23/Bitstream-Chef)
 
 ### Abstract
 Electronic Design Automation (EDA) technologies have become increasingly important in their fields of application with the open-source revolution in the silicon industry. These tools cover a wide range of automatic operations that save a significant amount of time. Bitstream Chef generates the bitstream of a design as shown in Fig.1 by taking an RTL design, allowing the user to map I/Os onto an FPGA using a GUI, and thus generating the bitstream through automated processes by use of an open-source tool F4PGA. Additionally, it uploads the Bitstream onto the connected FPGA board while also letting the user know whether any boards are currently connected. It will also allow user to either have pre-defined program embedded in the bitstream or upload the program separately through UART. For further moving the design toward GDS generation, it has the Open Lane toolchain integrated as well. Bitstream Chef is designed to be the go-to tool for every developer who frequently must upload or burn designs into FPGA, has a computer with less computing power.
@@ -104,10 +104,10 @@ Electronic Design Automation (EDA) technologies have become increasingly importa
 # Article 5
 
 ## Accessibility of Chip Design to the Non-Professional
-[paper]()
+paper
 [presentation](Videos/2022/5-Goldstein.mp4)
 [slides](PDFs/2022/5-Goldstein.pdf)
-[repo]()
+[repo](https://github.com/AlexanderJGoldstein/chaos_automaton_Summer_2022)
 
 ### Abstract
 Over the summer of 2022, Alexander Goldstein worked under the mentorship of Tim Edwards to test both the usability and accessibility of modern day open source EDA tools and methods for chip design. To test how easily EDA technology could be used by the general public, the authors prepared a design for the Open Source MPW-7 Shuttle by Efabless. The process of creating the final layout from the verilog source code proved to be more efficient and accessible than initially expected, but also surfaced potential shortcomings and limitations within the software. This report discusses the pros and cons of issues such as system memory and performance requirements, clarity of documentation and reference examples, and the restriction to a Linux-based environment. Overall, this research has proved that it is possible for a high school student to effectively use current EDA technologies, which will allow more people to enter the Electronic Design space.
@@ -122,7 +122,7 @@ Over the summer of 2022, Alexander Goldstein worked under the mentorship of Tim 
 [paper](PDFs/2022/6-Shahzaib.pdf)
 [presentation](Videos/2022/6-Shahzaib.mp4)
 [slides](PDFs/2022/6-Shahzaib-slides.pdf)
-[repo]()
+[repo](socnow.software)
 
 ### Abstract
 In the rapidly changing technological world of today, smart phones and other gadgets have taken over our daily lives. Every aspect of life is reliant on technology, or "smart devices." And these devices are called “smart” because they contain a computing system inside called as processor or system on chip (SoC). Development of SoC is a quite long process. It can take months to build and develop a SoC from scratch. Following the design stage, testing, and verification of it adds another layer of stress. Designers like to reuse a verified component in their design to save time. However, this doesn't save time because without adequate documentation, which is lacking in many contributions to open-source projects, it can be extremely challenging to grasp the functionality and usability of a component. The open-source semiconductor industry is therefore in need of software that can quickly produce or design a SoC rather than taking the designer years to complete the build or design. Alternately, any designer can also generate a component with sufficient documentation and plug and play support. SoC-Now is an open-source web-based RISC-V ISA [1][2][3] standardised SoC design solution in terms of generator that enables anyone to create a SoC with their own customised specifications and then further process that SoC to the Field Programmable Gate Array (FPGA) Emulation. Additionally, it provides the capability to produce any standalone, verified, and reusable SoC component (Core, Device, Bus) by means of generic interfaces. A completely automated Verification system is also included.
@@ -136,10 +136,10 @@ In the rapidly changing technological world of today, smart phones and other gad
 # Article 7
 
 ## TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra
-[paper]()
+paper
 [presentation](Videos/2022/7-jia.mp4)
 [slides](PDFs/2022/7-jia.pdf)
-[repo]()
+[repo](https://github.com/pku-liang/TensorLib)
 
 ### Abstract
 Tensor algebra finds applications in various domains, and these applications, especially when accelerated on spatial hardware accelerators, can deliver high performance and low power. This paper proposes TensorLib, a framework for generating spatial hardware accelerators for tensor algebra applications. TensorLib is motivated by the observation that, different dataflows share common hardware modules, which can be reused across different designs. To build such a framework, TensorLib first uses Space-Time Transformation to explore different dataflows, which can compactly represent the hardware dataflow using a simple transformation matrix. Next, we identify the common structures of different dataflows and build parameterized hardware module templates with Chisel. Our generation framework can select the needed hardware modules for each dataflow, connect the modules using a specified interconnection pattern, and automatically generate the memory and controller architecture for a complete hardware accelerator design. TensorLib remarkably improves the productivity for developing and optimizing spatial hardware architecture. It provides a Scala-based DSL for users to efficiently define tensor computation and dataflow parameters. The framework is written in Chisel hardware construction language to generate Verilog source code for the accelerator.
@@ -155,8 +155,8 @@ Tensor algebra finds applications in various domains, and these applications, es
 ## OpenRegFile: Open-Source Register File Generation
 [paper](PDFs/2022/8-Ahmed.pdf)
 [presentation](Videos/2022/8-Ahmed.mp4)
-[slides]()
-[repo]()
+slides
+[repo](https://github.com/VLSIDA/OpenRAM)
 
 ### Abstract
 This work presents an extension of the OpenRAM memory compiler to provide the automated generation of latch-based register files. It uses standard cells from the Skywater 130nm library. OpenRegFile automatically generates a spice netlist, layout, and a verilog model. It leverages the hierarchical decoders and muxes from SRAM designs. The cells for the decoders and muxes in SRAMs are custom made but we replace them with standard cells to improve routability and portability to other technologies with a cell library. At first, we created a register file array along with a tristate. The tristate helps to use the same data-line throughout the array of D-Latches which improves routing. We used the spice netlist API to implement the logic in OpenRAM and created custom modules to create the layout.
@@ -172,7 +172,7 @@ This work presents an extension of the OpenRAM memory compiler to provide the au
 [paper](PDFs/2022/9-Manohar-paper.pdf)
 [presentation](Videos/2022/9-Manohar-short.mp4)
 [slides](PDFs/2022/9-Manohar.pdf)
-[repo]()
+[repo](https://github.com/asyncvlsi/xcell)
 
 ### Abstract
 We present an open-source cell library characterizer suitable for characterizing combinational logic as well as general state-holding gates that are used in asynchronous logic as well as clocked circuit families like pre-charged logic. The output of the characterizer uses the Synopsys .lib format, and has been used as the input to an existing asynchronous static timing and power analysis tool for multiple technologies and multiple cell libraries.
@@ -186,7 +186,7 @@ We present an open-source cell library characterizer suitable for characterizing
 [paper](PDFs/2022/10-Zhu-paper.pdf)
 [presentation](Videos/2022/10-Zhu-long.mp4)
 [slides](PDFs/2022/10-Zhu-paper.pdf)
-[repo]()
+[repo](https://github.com/b224hisl/rioschip)
 
 ### Abstract
 The booming open-source EDA ecosystem brings transparency and reproducibility to VLSI field, lowering the threshold for CPU design. To facilitate a reliable chip manufacturing flow and prepare for future agile development, we constructed a full-stack design methodology for modern processors in an open-source mode based on our experience in the efabless MPW-7 shuttle (https://github.com/b224hisl/rioschip). We developed a 64-bit dual-issue, out-of-order RISC-V microprocessor “GreenRio”, and completed the back-end process of “RTL-Verification-GDS-Signoff” purely depending on the open-source EDA toolchain. In this paper, we analyzed multiple open source EDA tools from ASIC front-end to back-end. We also proposed some innovations and adaptations based on existing open resources. Moreover, we compared commercial and open-source EDA tools from a modern processor design perspective, with the limitations and future optimizations of the open-source tool summarized. We hope our methodology can help to shed new light upon agile modern architecture development.
@@ -200,10 +200,10 @@ The booming open-source EDA ecosystem brings transparency and reproducibility to
 # Article 11
 
 ## A Java Backend for ESSENT
-[paper]()
+paper
 [presentation](Videos/2022/11-Eriksson-long.mp4)
 [slides](PDFs/2022/11-Eriksson.pdf)
-[repo]()
+[repo](https://github.com/ekiwi/essent/tree/java-backend)
 
 ### Abstract
 We propose a new open-source RTL simulator that achieves faster compilation and startup speed compared to compiled simulators, such as Verilator, but also achieves higher simulation performance than interpreted simulators, such as treadle. We build on the work in ESSENT, an optimizing open-source FIRRTL simulator, which has an existing C++ backend, and extend it with a new Java backend. We take advantage of fast Java bytecode compilation and the JVM’s JIT compilation to simultaneously deliver fast simulator startup time and high simulation throughput.
@@ -219,7 +219,7 @@ We propose a new open-source RTL simulator that achieves faster compilation and 
 [presentation (long)](Videos/2022/12-Wijerathne-long.mp4)
 [presentation (short)](Videos/2022/12-Wijerathne-short.mp4)
 [slides](PDFs/2022/12-Wijerathne-presentation.pdf)
-[repo]()
+[repo](https://github.com/ecolab-nus/morpher)
 
 ### Abstract
 This paper presents Morpher, an open-source end-to-end compilation and simulation framework, to assist design space exploration and application-level developments of CGRA-based systems. Morpher can take an application with a compute-intensive kernel as input, compile the kernel onto a user-provided CGRA architecture, and automatically validate the compiled kernels through cycle-accurate simulation using test data extracted from the application. Morpher can handle real-world application kernels without being limited to simple toy kernels through its feature-rich compiler. Morpher architecture description language lets users easily specify architectural features such as complex interconnects, multi-hop routing, and memory organizations. In the experimental study, we evaluate Morpher against state-of-the-art and demonstrate Morpher's ability to provide end-to-end compilation, simulation, and validation. Morpher is available online at https://github.com/ecolab-nus/morpher.
@@ -237,7 +237,7 @@ This paper presents Morpher, an open-source end-to-end compilation and simulatio
 [paper](PDFs/2022/13-Schoeberl-paper.pdf)
 [presentation](Videos/2022/13-Schoeberl.mp4)
 [slides](PDFs/2022/13-Schoeberl-poster.pdf)
-[repo]()
+[repo](https://github.com/os-chip-design)
 
 ### Abstract
 Chisel and Verilator provide an open-source stack for digital design. For ASIC synthesis, we have open-source tools like OpenROAD, Yosys, and Magic. OpenROAD is a project to deliver an end-to-end silicon compiler in open source. The aim is to "democratize hardware design" by providing an automated layout generation flow from a design in RTL to GDS files used to produce silicon. Google and Efabless offer free production of chips in a multi-project wafer if the project is available in open source. In this paper, we report our experience in using the open-source tool flow from Chisel to chips with two designs: a small processor using only on-chip resources and a RISC-style processor with extra external main memory. We have successfully taped out both processors for the multi-project waver MPW7 from Efabless.
@@ -252,7 +252,7 @@ Chisel and Verilator provide an open-source stack for digital design. For ASIC s
 [paper](PDFs/2022/14-Nishizawa-paper.pdf)
 [presentation](Videos/2022/14-Nishizawa-long.mp4)
 [slides](PDFs/2022/14-Nishizawa.pdf)
-[repo]()
+[repo](https://github.com/snishizawa/libretto)
 
 ### Abstract
 This paper introduce an open source cell library characterizer. Free and open-sourced silicon design communities are attracted by hobby designers, academies and industries, and these open-sourced silicon designs are supported by free and open sourced EDAs. However, in our knowledge, tool-chain lacks cell library characterizer. This paper introduce our on-going open source cell library characterizer which can generate timing models and power models of standard cell library.
@@ -264,10 +264,10 @@ This paper introduce an open source cell library characterizer. Free and open-so
 # Article 15
 
 ## 8bitworkshop: An Interactive Verilog Learning Tool
-[paper]()
-[presentation]()
-[slides]()
-[repo]()
+paper
+presentation
+slides
+repo
 
 ### Abstract
 8bitworkshop is a web-hosted Interactive Development Environment (IDE) focused on low-level programming of classic 8-bit microcomputers and game consoles. It also has a Verilog simulator, which allows experimentation with simple designs.
@@ -284,10 +284,10 @@ The IDE is available online at https://8bitworkshop.com. The source code is at h
 # Article 16
 
 ## The Hardware Interchange Format
-[paper]()
+paper
 [presentation](Videos/2022/16-Huang.mp4)
 [slides](PDFs/2022/16-Huang.pdf)
-[repo]()
+[repo](https://github.com/masc-ucsc/hif)
 
 ### Abstract
 There currently exists a plethora of open-source hardware design tools and compilers. There are also numerous open-source hardware designs written in different languages. We propose the Hardware Interchange Format (HIF), a file format to interchange circuits, netlists, and designs across various hardware design tools and compilers. In doing so, we propose a data format and an encoding to store data efficiently, allowing efficient interchange between different hardware design tools and compilers. We evaluate our results.
@@ -303,7 +303,7 @@ There currently exists a plethora of open-source hardware design tools and compi
 [paper](PDFs/2022/17-Kemmerer-poster.pdf)
 [presentation](Videos/2022/17-Kemmerer.mp4)
 [slides](PDFs/2022/17-Kemmerer-slides.pdf)
-[repo]()
+[repo](https://github.com/JulianKemmerer/PipelineC)
 
 ### Abstract
 This poster session or short talk will describe the current status of the PipelineC project: https://github.com/JulianKemmerer/PipelineC.
@@ -334,7 +334,7 @@ PipelineC is in active development. Always happy to take questions, comments, su
 [presentation (long)](Videos/2022/18-Liang-long.mp4)
 [presentation (short)](Videos/2022/18-Liang-short.mp4)
 [slides](PDFs/2022/18-Liang.pdf)
-[repo]()
+[repo](https://github.com/RTimothyEdwards/irsim)
 
 ### Abstract
 IRSIM is an open-source switch level simulator that analyzes digital circuits at the device (transistor) level using a linear switch-based model that depends on whether a transistor is "on" or "off" but accounting for the resistance through the device for delay estimates. This event-based simulation makes IRSIM much faster than a device modeling simulator like SPICE, but slower than a Verilog simulator, which models circuits at the gate level yet lacks a power analysis component. However, since Verilog simulations are still much faster than IRSIM for logic simulations, IRSIM has been largely ignored, and its dynamic power analysis feature forgotten. In this paper, we discuss the software methods in IRSIM with particular emphasis on further improving its dynamic power analysis capabilities.
@@ -350,7 +350,7 @@ IRSIM is an open-source switch level simulator that analyzes digital circuits at
 [presentation (long)](Videos/2022/19-Korbel-long.mp4)
 [presentation (short)](Videos/2022/19-Korbel-short.mp4)
 [slides](PDFs/2022/19-Korbel.pdf)
-[repo]()
+[repo](https://github.com/intel/rohd)
 
 ### Abstract
 The Rapid Open Hardware Development (ROHD) framework is an open-source framework for describing and verifying hardware in the Dart programming language. ROHD enables engineers to build and traverse a graph of connectivity between module objects using unrestricted software. ROHD improves development iteration time by orders of magnitude and enables higher quality and more succinct designs, better abstraction through composition, and more powerful testbenches. It leverages modern software industry innovations like build, debug, profiling, and dependency management provided through the Dart ecosystem. ROHD includes a fast, event-based, four-value simulator with cosimulation support. Hardware models can be converted into logically equivalent, structurally similar, human readable, EDA tool compatible SystemVerilog with signal and port names maintained. ROHD can instantiate and interact with SystemVerilog modules, enabling gradual adoption of ROHD into derivative projects. The architecture of the framework is extensible to generate different kinds of output beyond just SystemVerilog. The ROHD Verification Framework, built upon ROHD, enables development of complex testbenches. ROHD aims to revolutionize hardware development and become a new industry standard.
@@ -361,11 +361,11 @@ The Rapid Open Hardware Development (ROHD) framework is an open-source framework
 # Article 20
 
 ## A MLIR-Based Hardware Synthesis Framework
-[paper]()
+paper
 [presentation (long)](Videos/2022/20-Korbel-long.mp4)
 [presentation (short)](Videos/2022/20-Korbel-short.mp4)
-[slides]()
-[repo]()
+slides
+repo
 
 ### Abstract
 Hardware synthesis adopts a higher abstraction to improve the productivity of hardware design. High-level synthesis tools can automatically transform a high-level description into hardware design, while hardware generators adopt domain-specific languages and synthesis flows for specific applications. However, the implementation of these tools generally requires substantial engineering efforts due to RTL's weak expressivity and low level of abstraction. To lower the engineering cost and get competitive hardware design rapidly, we build Hector, a two-level IR providing a unified intermediate representation for hardware synthesis methodologies. The high-level IR binds computation with a control graph annotated with timing information, while the low-level IR provides a concise way to describe hardware modules and elastic interconnections among them. Implemented based on the multi-level compiler infrastructure (MLIR), Hector's IRs can be converted to synthesizable RTL designs. Different hardware synthesis approaches can adopt suitable levels of intermediate representations (IR) and are well supported in Hector with minimal engineering effort. The multi-level representation also enables optimizations like pipeline, which is hard to support at RTL.
