@@ -80,27 +80,33 @@
 <td>Kashif, Ahmed, Karim</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-4">Bitstream Chef</a></td>
 </tr>
+<tr>
 <td>6</td>
 <td>Shahzaib, Kashif, Ahmed, Karim</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-6">SoC-Now: An Open-Source Web based RISC-V SoC Generator</a></td>
 </tr>
+<tr>
 <td>7</td>
 <td>Jia, Luo, Lu, Liang</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-7">TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra</a></td>
 </tr>
+<tr>
 <td>8</td>
 <td>Ahmed, Cirimelli-Low, Guthaus</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-8">OpenRegFile: Open-Source Register File Generation</a></td>
 </tr>
+<tr>
 <td>13</td>
 <td>Schoeberl, Pezzarossa</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-13">From Chisel to Chips with Open-Source Tools</a></td>
 </tr>
+<tr>
 <td>16</td>
 <td>Jayaraman, Huang, Renau</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-16">The Hardware Interchange Format
 </a></td>
 </tr>
+<tr>
 <td>17</td>
 <td>Kemmerer</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-17">PipelineC: Easy open-source hardware description between RTL and HLS</a></td>
