@@ -325,7 +325,7 @@ Demos working in hardware include: Realtime raytraced retro style game, MNIST di
 PipelineC is in active development. Always happy to take questions, comments, suggestions on making the tool better.
 
 ### Authors
-1. Julian Kemmerer (None) <julian.v.kemmere@gmail.com>
+1. Julian Kemmerer (None) <julian.v.kemmerer@gmail.com>
 
 # Article 18
 
