@@ -38,9 +38,9 @@
 <tr>
 <td>9:00 AM</td>
 <td>20</td>
-<td>14</td>
-<td>Nishizawa, Nakura</td>
-<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-14">Library characterizer for open-source VLSI design</a></td>
+<td>5</td>
+<td>Goldstein, Edwards</td>
+<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-5">Accessibility of Chip Design to the Non-Professional</a></td>
 </tr>
 <tr>
 <td>9:20 AM</td>
@@ -170,11 +170,12 @@
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-15">8bitworkshop: An Interactive Verilog Learning Tool</a></td>
 </tr>
 <tr>
-<td>1:40 PM</td>
+<td>1:00 PM</td>
 <td>20</td>
-<td>5</td>
-<td>Goldstein, Edwards</td>
-<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-5">Accessibility of Chip Design to the Non-Professional</a></td>
+<td>14</td>
+<td>Nishizawa, Nakura</td>
+<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-14">Library characterizer for open-source VLSI design</a></td>
 </tr>
+
 </tbody>
 </table>
