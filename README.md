@@ -14,23 +14,10 @@ planned. The workshop will feature a panel on the present status and
 future challenges in open-source EDA, and how to coordinate efforts
 and ensure quality and interoperability across open-source tools.
 
-# Registration
+### Registration
 
 There is no registration fee. The workshop is virtual. Please [register through Zoom](https://ucsc.zoom.us/meeting/register/tJUlduGsqj4iG9YyaKdPrPKelg9NjGH1A0jx) to attend the live sessions. 
 
-
-# Submission Information
-
-* Please use the [IEEE Conference Template](https://www.ieee.org/conferences/publishing/templates.html)
-* All submissions should be made at [https://woset2022.hotcrp.com/](https://woset2022.hotcrp.com/)
-* All submissions must include links to open-source repositories with all source code and an open-source license (BSD, GPL, Apache, etc.)
-* Review is *NOT* blind.
-
-### Conference Format
-* Video recordings will be added to proceedings for both regular and Work in Progress (WIP) submissions.
-* Both regular papers and WIP papers can have long videos (preferrably 15-20 min) for viewing outside the conference.
-* Regular papers will have live Q&A (10-15 minutes) following a pre-recorded or live talk (5 minutes) on Nov 3, 2022.
-* Works in Progress will have a live virtual poster session (1 hour) on Nov 3, 2022
 
 ### Proceedings
 
