@@ -60,7 +60,7 @@ We observe that the experiments quickly converge toward the best metrics for the
 Each of the jobs result in a standalone notebook allowing us to share, aggregate and reproduce every experiments.
 
 ### Authors
-1. Johan Euphrosine (Google) <proppy@google.com>
+1. Euphrosine, Johan (Google) <proppy@google.com>
 
 # Article 3
 
