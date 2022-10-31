@@ -45,7 +45,7 @@ Nexus is a hardware-accelerated emulation platform for small designs at simulate
 [paper](PDFs/2022/2-Euphrosine.pdf)
 [presentation (long)](Videos/2022/2-Euphrosine-long.mp4)
 [presentation (short)](Videos/2022/2-Euphrosine-short.mp4)
-[repo](https://github.com/proppy/rad-lab)
+[repo](https://github.com/chipsalliance/silicon-notebooks)
 
 ### Abstract
 In this Work in Progress session we showcase our recent work to leverage Jupyter Notebooks and Conda packages to publish and share interactive silicon design experiments.

@@ -31,23 +31,23 @@
 <tr>
 <td>8:40 AM</td>
 <td>20</td>
+<td>2</td>
+<td>Euphrosine</td>
+<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-2">Accelerate Silicon Design with Jupyter Notebooks</a></td>
+</tr>
+<tr>
+<td>9:00 AM</td>
+<td>20</td>
 <td>10</td>
 <td>Zhu, Yin, Wang, Tan</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-10">GreenRio: A Modern RISC-V Microprocessor Completely Designed with An Agile Open-source EDA Flow</a></td>
 </tr>
 <tr>
-<td>9:00 AM</td>
+<td>9:20 AM</td>
 <td>20</td>
 <td>5</td>
 <td>Goldstein, Edwards</td>
 <td><a href="https://woset-workshop.github.io/WOSET2022.html#article-5">Accessibility of Chip Design to the Non-Professional</a></td>
-</tr>
-<tr>
-<td>9:20 AM</td>
-<td>20</td>
-<td>9</td>
-<td>Manohar</td>
-<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-9">xcell: a cell library characterizer for combinational and state-holding gates</a></td>
 </tr>
 <tr>
 <td>9:40 AM</td>
@@ -158,9 +158,9 @@
 <tr>
 <td>12:20 PM</td>
 <td>20</td>
-<td>2</td>
-<td>Euphrosine</td>
-<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-2">Accelerate Silicon Design with Jupyter Notebooks</a></td>
+<td>9</td>
+<td>Manohar</td>
+<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-9">xcell: a cell library characterizer for combinational and state-holding gates</a></td>
 </tr>
 <tr>
 <td>12:40 PM</td>
