@@ -132,7 +132,8 @@ In the rapidly changing technological world of today, smart phones and other gad
 2. Shahzaib Kashif (Usman Institute Of Technology) <shahzaib@students.uit.edu>
 3. Talha Ahmed (Usman Institute Of Technology) <tahmed@students.uit.edu>
 4. Farham Ahmed Karim (Universiti Kebangsaan Malaysia) <faahmed@uit.edu>
-
+5. Hadir Khan (University of California, Santa Cruz) <hadirkhan10@gmail.com>
+6. Usman Zain (Usman Institute of Technology) <uszain@gmail.com>
 # Article 7
 
 ## TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra
