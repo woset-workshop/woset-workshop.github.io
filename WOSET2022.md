@@ -265,8 +265,8 @@ This paper introduce an open source cell library characterizer. Free and open-so
 
 ## 8bitworkshop: An Interactive Verilog Learning Tool
 paper
-[presentation](15-Hugg-short.mp4)
-[slides](15-Hugg-slides.pdf)
+[presentation](Videos/2022/15-Hugg-short.mp4)
+[slides](PDFs/2022/15-Hugg-slides.pdf)
 [repo](https://github.com/sehugg/8bitworkshop)
 
 ### Abstract
