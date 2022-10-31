@@ -265,9 +265,9 @@ This paper introduce an open source cell library characterizer. Free and open-so
 
 ## 8bitworkshop: An Interactive Verilog Learning Tool
 paper
-presentation
-slides
-repo
+[presentation](15-Hugg-short.mp4)
+[slides](15-Hugg-slides.pdf)
+[repo](https://github.com/sehugg/8bitworkshop)
 
 ### Abstract
 8bitworkshop is a web-hosted Interactive Development Environment (IDE) focused on low-level programming of classic 8-bit microcomputers and game consoles. It also has a Verilog simulator, which allows experimentation with simple designs.
