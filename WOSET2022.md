@@ -65,11 +65,9 @@ Each of the jobs result in a standalone notebook allowing us to share, aggregate
 # Article 3
 
 ## SODA Synthesizer: an Open-Source, End-to-End Hardware Compiler
-paper
-presentation (long)
-presentation (short)
-slides
-repo
+[paper](PDFs/2022/3-Tumeo-paper.pdf)
+[presentation (short)](Videos/2022/3-Tumeo-short.mp4)
+[repo](https://gitlab.pnnl.gov/sodalite/soda-opt)
 
 ### Abstract
 Enabling autonomous control in novel scientific experimental workflows requires the ability to generate highly specialized systems for data analysis and artificial intelligence, enabling the low-latency reasoning capabilities needed to take real-time decisions. %Novel "converged" applications combine phases of scientific simulation with data analysis and machine learning. Each computational phase can benefit from specialized accelerators. However, algorithms evolve so quickly that mapping them on existing accelerators is suboptimal or even impossible. This paper presents the SODA (Software Defined Accelerators) framework, an open-source modular, multi-level, no-human-in-the-loop, hardware compiler that enables end-to-end generation of specialized accelerators from high-level data science frameworks. SODA is composed of SODA-Opt, a high-level frontend developed in MLIR that interfaces with domain-specific programming environments and allows performing system level design, and Bambu, a state-of-the-art high-level synthesis (HLS) engine that can target different device technologies. The framework implements design space exploration as compiler optimization passes. We show how the modular, yet tight, integration of the high-level optimizer and lower-level HLS tools enables the generation of accelerators optimized for the computational patterns of converged applications. We then discuss some of the research opportunities that such an open-source framework allows.
