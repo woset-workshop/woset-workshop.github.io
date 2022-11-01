@@ -250,6 +250,7 @@ Chisel and Verilator provide an open-source stack for digital design. For ASIC s
 ## Library characterizer for open-source VLSI design
 [paper](PDFs/2022/14-Nishizawa-paper.pdf)
 [presentation (long)](Videos/2022/14-Nishizawa-long.mp4)
+[presentation (short)](Videos/2022/14-Nishizawa-short.mp4)
 [slides](PDFs/2022/14-Nishizawa.pdf)
 [repo](https://github.com/snishizawa/libretto)
 
