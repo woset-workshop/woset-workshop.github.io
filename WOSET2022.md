@@ -184,6 +184,7 @@ We present an open-source cell library characterizer suitable for characterizing
 ## GreenRio: A Modern RISC-V Microprocessor Completely Designed with An Agile Open-source EDA Flow
 [paper](PDFs/2022/10-Zhu-paper.pdf)
 [presentation (long)](Videos/2022/10-Zhu-long.mp4)
+[presentation (short)](Videos/2022/10-Zhu-short.mp4)
 [slides](PDFs/2022/10-Zhu-paper.pdf)
 [repo](https://github.com/b224hisl/rioschip)
 
