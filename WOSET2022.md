@@ -200,8 +200,9 @@ The booming open-source EDA ecosystem brings transparency and reproducibility to
 # Article 11
 
 ## A Java Backend for ESSENT
-paper
+[paper](PDFs/2022/11-Eriksson-paper.pdf)
 [presentation (long)](Videos/2022/11-Eriksson-long.mp4)
+[presentation (short)](Videos/2022/11-Eriksson-short.mp4)
 [slides](PDFs/2022/11-Eriksson.pdf)
 [repo](https://github.com/ekiwi/essent/tree/java-backend)
 
