@@ -158,16 +158,16 @@
 <tr>
 <td>12:20 PM</td>
 <td>20</td>
-<td>9</td>
-<td>Manohar</td>
-<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-9">xcell: a cell library characterizer for combinational and state-holding gates</a></td>
+<td>15</td>
+<td>Hugg</td>
+<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-15">8bitworkshop: An Interactive Verilog Learning Tool</a></td>
 </tr>
 <tr>
 <td>12:40 PM</td>
 <td>20</td>
-<td>15</td>
-<td>Hugg</td>
-<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-15">8bitworkshop: An Interactive Verilog Learning Tool</a></td>
+<td>9</td>
+<td>Manohar</td>
+<td><a href="https://woset-workshop.github.io/WOSET2022.html#article-9">xcell: a cell library characterizer for combinational and state-holding gates</a></td>
 </tr>
 <tr>
 <td>1:00 PM</td>
