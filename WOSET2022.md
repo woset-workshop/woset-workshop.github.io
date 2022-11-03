@@ -367,7 +367,7 @@ The Rapid Open Hardware Development (ROHD) framework is an open-source framework
 [presentation (long)](Videos/2022/20-Xu-long.mp4)
 [presentation (short)](Videos/2022/20-Xu-short.mp4)
 slides
-repo
+[repo](https://github.com/pku-liang/Hector)
 
 ### Abstract
 Hardware synthesis adopts a higher abstraction to improve the productivity of hardware design. High-level synthesis tools can automatically transform a high-level description into hardware design, while hardware generators adopt domain-specific languages and synthesis flows for specific applications. However, the implementation of these tools generally requires substantial engineering efforts due to RTL's weak expressivity and low level of abstraction. To lower the engineering cost and get competitive hardware design rapidly, we build Hector, a two-level IR providing a unified intermediate representation for hardware synthesis methodologies. The high-level IR binds computation with a control graph annotated with timing information, while the low-level IR provides a concise way to describe hardware modules and elastic interconnections among them. Implemented based on the multi-level compiler infrastructure (MLIR), Hector's IRs can be converted to synthesizable RTL designs. Different hardware synthesis approaches can adopt suitable levels of intermediate representations (IR) and are well supported in Hector with minimal engineering effort. The multi-level representation also enables optimizations like pipeline, which is hard to support at RTL.
