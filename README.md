@@ -61,3 +61,5 @@ For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (rena
 [WOSET 2020](WOSET2020.md)
 
 [WOSET 2021](WOSET2021.md)
+
+[WOSET 2022](WOSET2022.md)
