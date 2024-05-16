@@ -2,8 +2,6 @@
 # Workshop on Open-Source EDA Technology
 
 
-*WOSET is taking a break for 2023. We plan to be back in 2024!*
-
 The WOSET workshop aims to galvanize the open-source EDA movement. The
 workshop will bring together EDA researchers who are committed to
 open-source principles to share their experiences and coordinate
@@ -22,8 +20,20 @@ and ensure quality and interoperability across open-source tools.
 * Jose Renau, UC Santa Cruz (Co-Chair)
 * Matthew Guthaus, UC Santa Cruz (Co-Chair)
 
+### Program Chair
+* Dustin Richmond, UC Santa Cruz
 
-For inquiries, please contact Matthew Guthaus (mrg@ucsc.edu) or Jose Renau (renau@ucsc.edu).
+### Proceedings Chair
+
+### Zoom Czar
+
+### Program Committee
+
+# Tentative Dates
+* Sept 23 2024 (end of day, anywhere in world): submission due date.
+* Oct 18 2021: notification date.
+* Nov 8 2021: video due (if accepted)
+* Nov 18 2021: workshop
 
 # Previous WOSETs
 
