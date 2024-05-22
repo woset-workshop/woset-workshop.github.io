@@ -40,17 +40,19 @@ Important dates:
 * Nov 18 2021: workshop
 
 Co-Chairs:
-Matthew Guthaus (UC Santa Cruz) <mrg@ucsc.edu>
-Jose Renau (UC Santa Cruz) <renau@ucsc.edu>
+Matthew Guthaus, UC Santa Cruz 
+Jose Renau, UC Santa Cruz
 
 Program Chair:
-Dustin Richmond (UC Santa Cruz) <drichmond@ucsc.edu>
+Dustin Richmond, UC Santa Cruz
 
 Proceedings Chair:
 
 Zoom Czar:
 
 Program Committee:
-Christian Krieg, TU Wien
+Jonathan Balkind, UC Santa Barbara
 Dirk Koch, University of Manchester
+Christian Krieg, TU Wien
+
 

@@ -28,8 +28,9 @@ and ensure quality and interoperability across open-source tools.
 ### Zoom Czar
 
 ### Program Committee
-* Christian Krieg, TU Wien
+* Jonathan Balkind, UC Santa Barbara
 * Dirk Koch, University of Manchester
+* Christian Krieg, TU Wien
 
 # Tentative Dates
 * Sept 23 2024 (end of day, anywhere in world): submission due date.
