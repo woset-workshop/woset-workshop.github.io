@@ -28,6 +28,8 @@ and ensure quality and interoperability across open-source tools.
 ### Zoom Czar
 
 ### Program Committee
+* Christian Krieg, TU Wien
+* Dirk Koch, University of Manchester
 
 # Tentative Dates
 * Sept 23 2024 (end of day, anywhere in world): submission due date.

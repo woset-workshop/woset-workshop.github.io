@@ -51,3 +51,6 @@ Proceedings Chair:
 Zoom Czar:
 
 Program Committee:
+Christian Krieg, TU Wien
+Dirk Koch, University of Manchester
+
