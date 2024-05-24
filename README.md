@@ -30,6 +30,7 @@ and ensure quality and interoperability across open-source tools.
 * Dustin Richmond, UC Santa Cruz
 
 ### Proceedings Chair
+* Dan Petrisko, University of Washington
 
 ### Zoom Czar
 
