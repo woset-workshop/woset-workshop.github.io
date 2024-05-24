@@ -40,7 +40,7 @@ and ensure quality and interoperability across open-source tools.
 * Guillem Lopez Paradis, Barcelona Supercomputing Center
 
 # Tentative Dates
-* Sept 23 2024 (end of day, anywhere in world): submission due date.
+* Sept 23 2024 (end of day, anywhere in the world): submission due date.
 * Oct 18 2024: notification date.
 * Nov 8 2024: video due (if accepted)
 * Nov 18 2024: workshop

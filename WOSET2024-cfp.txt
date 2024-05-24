@@ -30,14 +30,14 @@ Submission Information
   all source code and an open-source license (BSD, GPL, Apache, etc.)
 * Please reference your open-source repository!
 * Review is single blind (anonymous reviewers).
-* Videos will be put on WOSET site if accepted.
+* Videos will be put on the WOSET site if accepted.
 * Virtual presentation for regular papers (in addition to archival video)
 * Regular Paper Submissions (3-4 pages + 1 page references + 15 min video + virtual presentation)
 * Work in Progress Submissions (1-2 page abstract + 1 page references + 10 min video + virtual zoom room)
 * Submission site: https://openreview.net/group?id=WOSET-Workshop.github.io/2024
 
 Important dates:
-* Sept 23 2024 (end of day, anywhere in world): submission due date.
+* Sept 23 2024 (end of day, anywhere in the world): submission due date.
 * Oct 18 2024: notification date.
 * Nov 8 2024: video due (if accepted)
 * Nov 18 2024: workshop
