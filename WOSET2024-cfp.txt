@@ -30,8 +30,9 @@ Submission Information
 * Review is single blind (anonymous reviewers).
 * Videos will be put on WOSET site if accepted.
 * Virtual presentation for regular papers (in addition to archival video)
-* Regular Paper Submissions (2-4 pages + 1 page references + 15 min video + virtual presentation)
+* Regular Paper Submissions (3-4 pages + 1 page references + 15 min video + virtual presentation)
 * Work in Progress Submissions (1-2 page abstract + 1 page references + 10 min video + virtual zoom room)
+* Submission site: [OpenReview.net](https://openreview.net/group?id=WOSET-Workshop.github.io/2024)
 
 Important dates:
 * Sept 23 2024 (end of day, anywhere in world): submission due date.
@@ -54,5 +55,6 @@ Program Committee:
 Jonathan Balkind, UC Santa Barbara
 Dirk Koch, University of Manchester
 Christian Krieg, TU Wien
+Guillem Lopez Paradis, Barcelona Supercomputing Center
 
 

@@ -13,6 +13,12 @@ planned. The workshop will feature a panel on the present status and
 future challenges in open-source EDA, and how to coordinate efforts
 and ensure quality and interoperability across open-source tools.
 
+# Paper Submission
+* [Submission site](https://openreview.net/group?id=WOSET-Workshop.github.io/2024)
+* Regular Paper Submissions (3-4 pages + 1 page references + 15 min video + virtual presentation)
+* Work in Progress Submissions (1-2 page abstract + 1 page references + 10 min video + virtual zoom room Q&A)
+* Format: [IEEE 2-column format](https://www.ieee.org/conferences/publishing/templates.html)
+* [Text CFP](WOSET2024-cfp.txt)
 
 # Organization
 
@@ -31,6 +37,7 @@ and ensure quality and interoperability across open-source tools.
 * Jonathan Balkind, UC Santa Barbara
 * Dirk Koch, University of Manchester
 * Christian Krieg, TU Wien
+* Guillem Lopez Paradis, Barcelona Supercomputing Center
 
 # Tentative Dates
 * Sept 23 2024 (end of day, anywhere in world): submission due date.
