@@ -58,3 +58,5 @@ and ensure quality and interoperability across open-source tools.
 [WOSET 2021](WOSET2021.md)
 
 [WOSET 2022](WOSET2022.md)
+
+WOSET 2023 - No workshop
