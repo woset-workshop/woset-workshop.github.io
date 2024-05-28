@@ -36,6 +36,8 @@ and ensure quality and interoperability across open-source tools.
 
 ### Program Committee
 * Jonathan Balkind, UC Santa Barbara
+* Tim Edwards, efabless
+* Steve Hoover, Redwood EDA
 * Dirk Koch, University of Manchester
 * Christian  Krieg, TU Wien
 * Rajit Manohar, Yale University
