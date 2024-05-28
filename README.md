@@ -40,6 +40,8 @@ and ensure quality and interoperability across open-source tools.
 * Christian  Krieg, TU Wien
 * Rajit Manohar, Yale University
 * Guillem Lopez Paradis, Barcelona Supercomputing Center
+* Frans Skarman, Linköping University
+
 
 # Tentative Dates
 * Sept 23 2024 (end of day, anywhere in the world): submission due date.

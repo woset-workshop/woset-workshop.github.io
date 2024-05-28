@@ -60,6 +60,6 @@ Dirk Koch, University of Manchester
 Christian Krieg, TU Wien
 Rajit Manohar, Yale University
 Guillem Lopez Paradis, Barcelona Supercomputing Center
-*Seeking additional volunteers*
+Frans Skarman, Linköping University
 
 
