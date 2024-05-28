@@ -38,6 +38,7 @@ and ensure quality and interoperability across open-source tools.
 * Jonathan Balkind, UC Santa Barbara
 * Tim Edwards, efabless
 * Steve Hoover, Redwood EDA
+* Lucas Klemmer, JKU Linz
 * Dirk Koch, University of Manchester
 * Christian  Krieg, TU Wien
 * Rajit Manohar, Yale University
