@@ -44,6 +44,7 @@ and ensure quality and interoperability across open-source tools.
 * Rajit Manohar, Yale University
 * Guillem Lopez Paradis, Barcelona Supercomputing Center
 * Frans Skarman, Linköping University
+* Matt Venn, eFabless and TinyTapeout
 
 
 # Tentative Dates
