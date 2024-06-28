@@ -15,8 +15,8 @@ and ensure quality and interoperability across open-source tools.
 
 # Paper Submission
 * [Submission site](https://openreview.net/group?id=WOSET-Workshop.github.io/2024)
-* Regular Paper Submissions (3-4 pages + 1 page references + 15 min video + virtual presentation)
-* Work in Progress Submissions (1-2 page abstract + 1 page references + 10 min video + virtual zoom room Q&A)
+* Regular Paper Submissions (4 pages + 1 page references + 15 min video + virtual presentation)
+* Work in Progress Submissions (2 page abstract + 1 page references + 10 min video + virtual zoom room Q&A)
 * Format: [IEEE 2-column format](https://www.ieee.org/conferences/publishing/templates.html)
 * [Text CFP](WOSET2024-cfp.txt)
 
