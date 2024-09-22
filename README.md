@@ -33,6 +33,7 @@ and ensure quality and interoperability across open-source tools.
 * Dan Petrisko, University of Washington
 
 ### Zoom Czar
+* Haoyuan Wang, UC Santa Cruz
 
 ### Program Committee
 * Jonathan Balkind, UC Santa Barbara
