@@ -50,7 +50,7 @@ and ensure quality and interoperability across open-source tools.
 
 # Tentative Dates
 * EXTENDED: ~~Sept 23 2024~~ Sept 30 2024 (end of day, anywhere in the world): submission due date.
-* Oct 18 2024: notification date.
+* ~~Oct 18 2024~~ Oct 25 2024: notification date.
 * Nov 8 2024: video due (if accepted)
 * Nov 18 2024: workshop
 
