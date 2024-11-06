@@ -30,7 +30,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>8:30 AM</td>
@@ -40,7 +39,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>8:50 AM</td>
@@ -50,7 +48,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>9:10 AM</td>
@@ -83,7 +80,6 @@
   The Educational RISC-V Microprocessor Wildcat</a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>9:40 AM</td>
@@ -93,7 +89,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>9:40 AM</td>
@@ -103,7 +98,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
   
 <tr>
 <td>9:40 AM</td>
@@ -113,7 +107,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>9:40 AM</td>
@@ -123,7 +116,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 </tbody>
 </table>
@@ -147,7 +139,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
   
 <tr>
 <td>10:50 AM</td>
@@ -157,7 +148,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>11:10 AM</td>
@@ -167,7 +157,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>11:30 AM</td>
@@ -201,7 +190,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
   
 <tr>
 <td>12:10 PM</td>
@@ -211,7 +199,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>12:30 PM</td>
@@ -221,7 +208,6 @@
 </a></td>
 <td></td>
 </tr>
-<tr>
 
 <tr>
 <td>12:50 AM</td>
