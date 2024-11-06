@@ -54,7 +54,7 @@
 
 <tr>
 <td>9:10 AM</td>
-<td>20</td>
+<td>30</td>
 <td>Keynote: ARM	Developing Open-Source Communities</td>
 <td>Megan Knight, ARM</td>
 </tr>
@@ -62,7 +62,7 @@
 </tbody>
 </table>
 
-# Lightning Talks
+# Work in Progress Break-out Sessions
 
 <table border="1">
 <thead>
@@ -78,7 +78,7 @@
   
 <tr>
 <td>9:40 AM</td>
-<td>10</td>
+<td>50</td>
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-9">
   The Educational RISC-V Microprocessor Wildcat</a></td>
 <td></td>
@@ -86,8 +86,8 @@
 <tr>
 
 <tr>
-<td>9:50 AM</td>
-<td>10</td>
+<td>9:40 AM</td>
+<td>50</td>
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-12">
   YoYoLint – a custom SystemVerilog RTL linter for Yosys
 </a></td>
@@ -96,8 +96,8 @@
 <tr>
 
 <tr>
-<td>10:00 AM</td>
-<td>10</td>
+<td>9:40 AM</td>
+<td>50</td>
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-2">
   eSim: An Open-Source EDA Tool for Education
 </a></td>
@@ -106,8 +106,8 @@
 <tr>
   
 <tr>
-<td>10:10 AM</td>
-<td>10</td>
+<td>9:40 AM</td>
+<td>50</td>
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-5">
   Status overview of the IHP OpenPDK Initiative: Technology - Devices - IC Designs
 </a></td>
@@ -116,8 +116,8 @@
 <tr>
 
 <tr>
-<td>10:20 AM</td>
-<td>10</td>
+<td>9:40 AM</td>
+<td>50</td>
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-15">
   Lighter: An Open-Source Automatic Clock Gating tool for Dynamic Power Reduction in ASIC
 </a></td>
@@ -226,8 +226,8 @@
 <tr>
 <td>12:50 AM</td>
 <td>5</td>
-<td colspan=2>Closing Remarks</td>
-<td colspan=3>Matthew Guthaus, UC Santa Cruz</td>
+<td>Closing Remarks</td>
+<td>Matthew Guthaus, UC Santa Cruz</td>
 </tr>
   
 </tbody>
