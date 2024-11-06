@@ -49,10 +49,26 @@
 <td></td>
 </tr>
 
+</tbody>
+</table>
+
+# Keynote
+
+<table border="1">
+<thead>
+<tr>
+<th>Time (PST)</th>
+<th>Duration (Minutes)</th>
+<th>Title</th>
+<th>Presenter(s)</th>
+</tr>
+  
+</thead>
+<tbody>
 <tr>
 <td>9:10 AM</td>
 <td>30</td>
-<td>Keynote: ARM	Developing Open-Source Communities</td>
+<td>ARM	Developing Open-Source Communities</td>
 <td>Megan Knight, ARM</td>
 </tr>
 
@@ -158,10 +174,28 @@
 <td></td>
 </tr>
 
+</tbody>
+</table>
+
+
+# Invited Talk
+
+<table border="1">
+<thead>
+<tr>
+<th>Time (PST)</th>
+<th>Duration (Minutes)</th>
+<th>Title</th>
+<th>Presenter(s)</th>
+</tr>
+  
+</thead>
+<tbody>
+
 <tr>
 <td>11:30 AM</td>
 <td>20</td>
-<td>Invited Talk: OpenROAD Update</td>
+<td>OpenROAD Update</td>
 <td>Matt Liberty, Precision Innovations</td>
 </tr>
 
