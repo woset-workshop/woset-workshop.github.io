@@ -35,7 +35,7 @@ For live discussions via Zoom and Slack, please see the [WOSET 2024 Schedule](WO
 # Article 7
 
 ## Scaling Program Synthesis Based Technology Mapping with Equality Saturation
-[paper]()
+[paper](PDFs/2024/7_Scaling_Program_Synthesis_Ba.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -57,7 +57,7 @@ State-of-the-art hardware compilers for FPGAs often fail to find efficient mappi
 # Article 14
 
 ## Hardware and software build flow with SoCMake
-[paper]()
+[paper](PDFs/2024/14_Hardware_and_software_build.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -76,7 +76,7 @@ With the growing demand for electronics and the increasing complexity of system-
 # Article 4
 
 ## pyngspice: A High-performance Python Binding for Ngspice
-[paper]()
+[paper](PDFs/2024/4_pyngspice_A_High_performance.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -93,7 +93,7 @@ This paper introduces pyngspice, a Python binding for ngspice that overcomes the
 # Article 9
 
 ## The Educational RISC-V Microprocessor Wildcat
-[paper]()
+[paper](PDFs/2024/9_The_Educational_RISC_V_Micro.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -109,7 +109,7 @@ This paper presents two implementations of the RISC-V instruction set architectu
 # Article 12
 
 ## YoYoLint – a custom SystemVerilog RTL linter for Yosys
-[paper]()
+[paper](PDFs/2024/12_YoYoLint_a_custom_SystemVer.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -127,7 +127,7 @@ The tool runs efficiently and delivers clear feedback on code violations. Users 
 # Article 2
 
 ## eSim: An Open-Source EDA Tool for Education
-[paper]()
+[paper](PDFS/2024/2_eSim_An_Open_Source_EDA_Tool.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -145,7 +145,7 @@ eSim is an open-source Electronic Design Automa- tion (EDA) tool designed for ci
 # Article 5
 
 ## Status overview of the IHP OpenPDK Initiative: Technology - Devices - IC Designs
-[paper]()
+[paper](PDFs/2024/5_Status_overview_of_the_IHP_O.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -174,7 +174,7 @@ The semiconductor industry has undergone dynamic evolution and innovation for th
 # Article 15
 
 ## Lighter: An Open-Source Automatic Clock Gating tool for Dynamic Power Reduction in ASIC
-[paper]()
+[paper](PDFs/2024/15_Lighter_An_Open_Source_Auto.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -190,7 +190,7 @@ This paper introduces Lighter, an automatic register clock gating utility design
 # Article 11
 
 ## ORAssistant: A Custom RAG-based Conversational Assistant for OpenROAD
-[paper]()
+[paper](PDFs/2024/11_ORAssistant_A_Custom_RAG_ba.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -208,7 +208,7 @@ Open-source Electronic Design Automation (EDA) tools are rapidly transforming ch
 # Article 17
 
 ## OpenLane 2: Making the Most Popular Open Source ASIC Flow Modular
-[paper]()
+[paper](PDFs/2024/17_OpenLane_2_Making_the_Most_.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -226,7 +226,7 @@ We present OpenLane 2, a re-imagining of the world's most popular open-source RT
 # Article 18
 
 ## Simulating a Million-Core System with Switchboard
-[paper]()
+[paper](PDFs/2024/18_Switchboard.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -244,7 +244,7 @@ Immense hardware systems are needed to train state-of-the-art machine learning a
 # Article 3
 
 ## A Fast, Accurate, and Open-Source Simulation Tool for High-Level Synthesis
-[paper]()
+[paper](PDFs/2024/3_A_Fast_Accurate_and_Open_Sou.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -260,7 +260,7 @@ High-level synthesis (HLS) tools enable developers to write software code in C, 
 # Article 8
 
 ## Integrating Asynchronous Circuits into the Caravel Testing Harness
-[paper]()
+[paper](PDFs/2024/8_Integrating_Asynchronous_Cir.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
@@ -278,7 +278,7 @@ The Caravel harness has been widely used to tape-out synchronous designs in the 
 # Article 13
 
 ## An RFIC-oriented flow for Planar Inductors modeling and generation aiming Open-Source PDKs
-[paper]()
+[paper](PDFs/2024/13_An_RFIC_oriented_flow_for_P.pdf)
 [presentation(long)]()
 [presentation(short)]()
 [slides]()
