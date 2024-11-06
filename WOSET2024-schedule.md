@@ -147,6 +147,9 @@
 <th>Presenter(s)</th>
 </tr>
 
+</thead>
+<tbody>
+
 <tr>
 <td>10:30 AM</td>
 <td>20</td>
