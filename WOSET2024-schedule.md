@@ -194,7 +194,7 @@
 <tbody>
 
 <tr>
-<td>11:20 AM</td>
+<td>11:50 AM</td>
 <td>20</td>
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-3">
   A Fast, Accurate, and Open-Source Simulation Tool for High-Level Synthesis
@@ -204,7 +204,7 @@
 <tr>
   
 <tr>
-<td>10:30 AM</td>
+<td>12:10 PM</td>
 <td>20</td>
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-8">
   Integrating Asynchronous Circuits into the Caravel Testing Harness
@@ -214,7 +214,7 @@
 <tr>
 
 <tr>
-<td>10:50 AM</td>
+<td>12:30 PM</td>
 <td>20</td>
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-13">
   An RFIC-oriented flow for Planar Inductors modeling and generation aiming Open-Sour
