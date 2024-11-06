@@ -32,7 +32,7 @@ For live discussions via Zoom and Slack, please see the [WOSET 2024 Schedule](WO
 * Frans Skarman, Linköping University
 * Matt Venn, YosysHQ, TinyTapeout
 
-# Article 1
+# Article 7
 
 ## Scaling Program Synthesis Based Technology Mapping with Equality Saturation
 [paper]()
@@ -54,7 +54,7 @@ State-of-the-art hardware compilers for FPGAs often fail to find efficient mappi
 7. Haobin Ni <hn42@cs.washington.edu>
 8. Chandrakana Nandi <cnandi@cs.washington.edu>
 
-# Article 2
+# Article 14
 
 ## Hardware and software build flow with SoCMake
 [paper]()
@@ -73,7 +73,7 @@ With the growing demand for electronics and the increasing complexity of system-
 4. Benoît Walter Denkinger <benoit.denkinger@cern.ch>
 5. Marco Andorno <marco.andorno@cern.ch>
 
-# Article 3
+# Article 4
 
 ## pyngspice: A High-performance Python Binding for Ngspice
 [paper]()
@@ -90,7 +90,7 @@ This paper introduces pyngspice, a Python binding for ngspice that overcomes the
 2. Mintae Kim <alsxo326@hanyang.ac.kr>
 3. Jaeduk Han <jdhan@hanyang.ac.kr>
 
-# Article 4
+# Article 9
 
 ## The Educational RISC-V Microprocessor Wildcat
 [paper]()
@@ -106,7 +106,7 @@ This paper presents two implementations of the RISC-V instruction set architectu
 ### Authors
 1. Martin Schoeberl <masca@dtu.dk>
 
-# Article 5
+# Article 12
 
 ## YoYoLint – a custom SystemVerilog RTL linter for Yosys
 [paper]()
@@ -124,7 +124,7 @@ The tool runs efficiently and delivers clear feedback on code violations. Users 
 2. Deepa Palaniappan <deepa@asfigo.com>
 3. Saanvi Pradhan <saanvi.pradhan@gmail.com>
 
-# Article 6
+# Article 2
 
 ## eSim: An Open-Source EDA Tool for Education
 [paper]()
@@ -142,7 +142,7 @@ eSim is an open-source Electronic Design Automa- tion (EDA) tool designed for ci
 3. Sumanto Kar <sumantokar@iitb.ac.in>
 4. Kannan M. Moudgalya <kannan@iitb.ac.in>
 
-# Article 7
+# Article 5
 
 ## Status overview of the IHP OpenPDK Initiative: Technology - Devices - IC Designs
 [paper]()
@@ -171,7 +171,7 @@ The semiconductor industry has undergone dynamic evolution and innovation for th
 14. Harald Pretl
 15. Frank K. Gurkaynak
 
-# Article 8
+# Article 15
 
 ## Lighter: An Open-Source Automatic Clock Gating tool for Dynamic Power Reduction in ASIC
 [paper]()
@@ -187,7 +187,7 @@ This paper introduces Lighter, an automatic register clock gating utility design
 1. Youssef Kandil <youssefkandil@aucegypt.edu>
 2. Mohamed Shalan <mshalan@aucegypt.edu>
 
-# Article 9
+# Article 11
 
 ## ORAssistant: A Custom RAG-based Conversational Assistant for OpenROAD
 [paper]()
@@ -205,7 +205,7 @@ Open-source Electronic Design Automation (EDA) tools are rapidly transforming ch
 3. Shui Song Luar <jluar@precisioninno.com>
 4. Indira Iyer Almeida <iiyer@precisioninno.com>
 
-# Article 10
+# Article 17
 
 ## OpenLane 2: Making the Most Popular Open Source ASIC Flow Modular
 [paper]()
@@ -223,7 +223,7 @@ We present OpenLane 2, a re-imagining of the world's most popular open-source RT
 3. Bassant Hassan <bassant.hassan@efabless.com>
 4. Mohamed Shalan <mshalan@aucegypt.edu>
 
-# Article 11
+# Article 18
 
 ## Simulating a Million-Core System with Switchboard
 [paper]()
@@ -241,7 +241,7 @@ Immense hardware systems are needed to train state-of-the-art machine learning a
 3. Edgar Iglesias
 4. Andreas Olofsson
 
-# Article 12
+# Article 3
 
 ## A Fast, Accurate, and Open-Source Simulation Tool for High-Level Synthesis
 [paper]()
@@ -257,7 +257,7 @@ High-level synthesis (HLS) tools enable developers to write software code in C, 
 1. Rishov Sarkar <rishov.sarkar@gatech.edu>
 2. Cong (Callie) Hao <callie.hao@ece.gatech.edu>
 
-# Article 13
+# Article 8
 
 ## Integrating Asynchronous Circuits into the Caravel Testing Harness
 [paper]()
@@ -275,7 +275,7 @@ The Caravel harness has been widely used to tape-out synchronous designs in the 
 3. Matthew Dobre <matthew.dobre@yale.edu>
 4. Rajit Manohar <rajit.manohar@yale.edu>
 
-# Article 14
+# Article 13
 
 ## An RFIC-oriented flow for Planar Inductors modeling and generation aiming Open-Source PDKs
 [paper]()
