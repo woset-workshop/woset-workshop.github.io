@@ -16,7 +16,7 @@ and ensure quality and interoperability across open-source tools.
 
 # Event
 
-WOSET will take place via Zoom on November 18, 2024 from 8:00am to 12:00pm Pacific Time.
+WOSET will take place via Zoom on November 18, 2024 from 8:00am to 1:00pm Pacific Time.
 Please see the [WOSET 2024 Program](WOSET2024.md) for more details on the papers and
 the [WOSET 2024 Schedule](WOSET2024-schedule.md) for the schedule of events.
 
