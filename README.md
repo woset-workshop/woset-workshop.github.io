@@ -13,12 +13,14 @@ The workshop will feature a panel on the present status and
 future challenges in open-source EDA, and how to coordinate efforts
 and ensure quality and interoperability across open-source tools.
 
-# Paper Submission
-* [Submission site](https://openreview.net/group?id=WOSET-Workshop.github.io/2024)
-* Regular Paper Submissions (4 pages + 1 page references + 15 min video + virtual presentation)
-* Work in Progress Submissions (2 page abstract + 1 page references + 10 min video + virtual zoom room Q&A)
-* Format: [IEEE 2-column format](https://www.ieee.org/conferences/publishing/templates.html)
-* [Text CFP](WOSET2024-cfp.txt)
+
+# Event
+
+WOSET will take place via Zoom on November 18, 2024 from 8:00am to 12:00pm Pacific Time.
+Please see the [WOSET 2024 Program](WOSET2024.md) for more details on the papers and
+the [WOSET 2024 Schedule](WOSET2024-schedule.md) for the schedule of events.
+
+Please [register here to receive instructions to join the meeting](https://forms.gle/Z8uGR7MTGvAzQMc6A).
 
 # Organization
 
@@ -48,11 +50,6 @@ and ensure quality and interoperability across open-source tools.
 * Matt Venn, YosysHQ, TinyTapeout
 
 
-# Tentative Dates
-* EXTENDED: ~~Sept 23 2024~~ Sept 30 2024 (end of day, anywhere in the world): submission due date.
-* ~~Oct 18 2024~~ Oct 25 2024: notification date.
-* Nov 8 2024: video due (if accepted)
-* Nov 18 2024: workshop
 
 # Previous WOSETs
 

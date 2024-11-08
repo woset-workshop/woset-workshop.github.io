@@ -1,6 +1,8 @@
 # WOSET 2024 Schedule
 ## November 18, 2024
 
+Please [register here to receive instructions to join the meeting](https://forms.gle/Z8uGR7MTGvAzQMc6A).
+
 # Session 1
 
 <table border="1">

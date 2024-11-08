@@ -3,7 +3,12 @@
 To cite an article, please use this format:
 (author names here), "(article title here)", Article No. (article number here), Workshop on Open-Source EDA Technology (WOSET), 2024.
 
-For live discussions via Zoom and Slack, please see the [WOSET 2024 Schedule](WOSET2024-schedule.md).
+** This is a live document and is being updated with the final papers and presentations. **
+
+
+Please see the [WOSET 2024 Schedule](WOSET2024-schedule.md) for the live events.
+Please [register here to receive instructions to join the meeting](https://forms.gle/Z8uGR7MTGvAzQMc6A).
+
 
 ## Organization
 
