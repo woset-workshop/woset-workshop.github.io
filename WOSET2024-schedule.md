@@ -70,8 +70,8 @@ Please [register here to receive instructions to join the meeting](https://forms
 <tr>
 <td>9:10 AM</td>
 <td>30</td>
-<td>ARM	Developing Open-Source Communities</td>
-<td>Megan Knight, ARM</td>
+<td>From Consumer to Contributor: Open Source Communities and Why They Matter</td>
+<td>Megan Knight, Arm</td>
 </tr>
 
 </tbody>
