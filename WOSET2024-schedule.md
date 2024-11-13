@@ -30,7 +30,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-7">
   Scaling Program Synthesis Based Technology Mapping with Equality Saturation
 </a></td>
-<td></td>
+<td>Gus Smith</td>
 </tr>
 
 <tr>
@@ -39,7 +39,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-14">
   Hardware and software build flow with SoCMake
 </a></td>
-<td></td>
+<td>Risto Pejašinović</td>
 </tr>
 
 <tr>
@@ -48,7 +48,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-4">
   pyngspice: A High-performance Python Binding for Ngspice
 </a></td>
-<td></td>
+<td>Jihyeon Park</td>
 </tr>
 
 </tbody>
@@ -96,7 +96,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td>50</td>
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-9">
   The Educational RISC-V Microprocessor Wildcat</a></td>
-<td></td>
+<td>Martin Schoeberl</td>
 </tr>
 
 <tr>
@@ -105,7 +105,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-12">
   YoYoLint – a custom SystemVerilog RTL linter for Yosys
 </a></td>
-<td></td>
+<td>Deepa Palaniappan</td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-2">
   eSim: An Open-Source EDA Tool for Education
 </a></td>
-<td></td>
+<td>Varad Vilasrao Patil</td>
 </tr>
   
 <tr>
@@ -123,7 +123,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-5">
   Status overview of the IHP OpenPDK Initiative: Technology - Devices - IC Designs
 </a></td>
-<td></td>
+<td>Wladek Grabinski</td>
 </tr>
 
 <tr>
@@ -132,7 +132,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-15">
   Lighter: An Open-Source Automatic Clock Gating tool for Dynamic Power Reduction in ASIC
 </a></td>
-<td></td>
+<td>Youssef Ashraf Kandil</td>
 </tr>
 
 </tbody>
@@ -158,7 +158,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-11">
   ORAssistant: A Custom RAG-based Conversational Assistant for OpenROAD
 </a></td>
-<td></td>
+<td>Aviral Kaintura</td>
 </tr>
   
 <tr>
@@ -167,7 +167,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-17">
   OpenLane 2: Making the Most Popular Open Source ASIC Flow Modular
 </a></td>
-<td></td>
+<td>Mohamed Gaber</td>
 </tr>
 
 <tr>
@@ -176,7 +176,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-18">
   Simulating a Million-Core System with Switchboard
 </a></td>
-<td></td>
+<td>Andreas Olofsson</td>
 </tr>
 
 </tbody>
@@ -227,7 +227,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-3">
   A Fast, Accurate, and Open-Source Simulation Tool for High-Level Synthesis
 </a></td>
-<td></td>
+<td>Rishov Sarkar</td>
 </tr>
   
 <tr>
@@ -236,7 +236,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-8">
   Integrating Asynchronous Circuits into the Caravel Testing Harness
 </a></td>
-<td></td>
+<td>Thomas Jagielski</td>
 </tr>
 
 <tr>
@@ -245,7 +245,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-13">
   An RFIC-oriented flow for Planar Inductors modeling and generation aiming Open-Sour
 </a></td>
-<td></td>
+<td>Hugo Dias Gilo</td>
 </tr>
 
 <tr>
