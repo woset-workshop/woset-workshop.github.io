@@ -94,7 +94,7 @@ This paper introduces pyngspice, a Python binding for ngspice that overcomes the
 
 ### Abstract
 Today, in teaching computer architecture, we use the RISC-V instruction set to explain the basics of a microprocessor. Initially, we introduce a conceptual single-cycle implementation of a RISC-V microprocessor, followed by a detailed presentation of a pipelined implementation of RISC-V. We can support this topic in teaching with executable implementations of RISC-V.
-This paper presents two implementations of the RISC-V instruction set architecture: (1) an instruction set simulator to explore the RISC-V instructions set and (2) a pipelined implementation of RISC-V. We name this processor Wildcat, after a nice hiking area close to where RISC-V was developed, at the University of California, Berkeley. Wildcat is available under the BSD 2-Clause License at https://github.com/schoeberl/wildcat
+This paper presents three implementations of the RISC-V instruction set architecture: (1) an instruction set simulator to explore the RISC-V instructions set, (2) a single-cycle implementation as a first approach to a hardware implementation, and (3) a pipelined implementation of RISC-V. We named this processor Wildcat after a nice hiking area close to where RISC-V instruction set was developed, at the University of California, Berkeley. Wildcat is available under the BSD 2-Clause License at https://github.com/schoeberl/wildcat
 
 ### Authors
 1. Martin Schoeberl <masca@dtu.dk>
