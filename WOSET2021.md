@@ -187,7 +187,7 @@ Recent years have seen a renewed interest in open-source hardware design tools e
 Verification of digital systems must be done in ever tighter time constraints due to the rise of domain-specific hardware accelerators. To combat this, we can learn from agile techniques, typical in software engineering, and use them for hardware development. In this mindset, Chisel, a hardware construction language embedded in Scala, was developed as a tool to accelerate the implementation of digital designs. Following this path, we developed a high-level verification library named ChiselVerify, bringing functionalities such as functional coverage to the Chisel ecosystem. Using this tool, we propose a functional coverage-driven mutation-based fuzzer for Chisel designs. Initial experiments are done on the Leros accumulator ALU.
 
 ### Author
-1. Andrew Dobis <adobis@student.ethz.ch> (Technical University of Denmark)
+1. Amelia Dobis <amelia.dobis@alumni.ethz.ch> (Technical University of Denmark)
 2. Tjark Petersen <s186083@student.dtu.dk> (Technical University of Denmark)
 3. Martin Schoeberl <masca@dtu.dk> (Technical University of Denmark)
 
