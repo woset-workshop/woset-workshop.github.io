@@ -1,10 +1,12 @@
 # WOSET 2024 Schedule
 ## November 18, 2024
 
+
 Please [register here to receive instructions to join the meeting](https://forms.gle/Z8uGR7MTGvAzQMc6A).
 
-# Session 1 
-## Moderator: Tyler Sheaves, UC Santa Cruz
+The full proceedings are [here](https://woset-workshop.github.io/WOSET2024.html).
+
+# Welcome
 
 <table border="1">
 <thead>
@@ -24,7 +26,27 @@ Please [register here to receive instructions to join the meeting](https://forms
 <td>Welcome Remarks</td>
 <td>Matthew Guthaus, UC Santa Cruz</td>
 </tr>
+
+</tbody>
+</table>
+
   
+
+# Session 1 
+## Moderator: Tyler Sheaves, UC Santa Cruz
+
+<table border="1">
+<thead>
+<tr>
+<th>Time (PST)</th>
+<th>Duration (Minutes)</th>
+<th>Title</th>
+<th>Presenter(s)</th>
+</tr>
+  
+</thead>
+<tbody>
+
 <tr>
 <td>8:10 AM</td>
 <td>20</td>
