@@ -273,6 +273,23 @@ The full proceedings are [here](https://woset-workshop.github.io/WOSET2024.html)
 <td>Hugo Dias Gilo</td>
 </tr>
 
+</tbody>
+</table>
+
+# Closing
+
+<table border="1">
+<thead>
+<tr>
+<th>Time (PST)</th>
+<th>Duration (Minutes)</th>
+<th>Title</th>
+<th>Presenter(s)</th>
+</tr>
+  
+</thead>
+<tbody>
+
 <tr>
 <td>12:50 AM</td>
 <td>5</td>
