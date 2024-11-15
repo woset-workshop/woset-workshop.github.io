@@ -3,7 +3,8 @@
 
 Please [register here to receive instructions to join the meeting](https://forms.gle/Z8uGR7MTGvAzQMc6A).
 
-# Session 1
+# Session 1 
+## Moderator: Tyler Sheaves, UC Santa Cruz
 
 <table border="1">
 <thead>
@@ -139,6 +140,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 </table>
 
 # Session 2
+## Moderator: Bhawandeep Singh Harsh, UC Santa Cruz
 
 <table border="1">
 <thead>
@@ -208,6 +210,7 @@ Please [register here to receive instructions to join the meeting](https://forms
 </table>
 
 # Session 3
+## Moderator: Haoyuan Wang, UC Santa Cruz
 
 <table border="1">
 <thead>
