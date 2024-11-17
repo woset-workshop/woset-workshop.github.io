@@ -182,7 +182,7 @@ The full proceedings are [here](https://woset-workshop.github.io/WOSET2024.html)
 <td><a href="https://woset-workshop.github.io/WOSET2024.html#article-11">
   ORAssistant: A Custom RAG-based Conversational Assistant for OpenROAD
 </a></td>
-<td>Aviral Kaintura</td>
+<td>Aviral Kaintura, Palaniappan R.</td>
 </tr>
   
 <tr>
