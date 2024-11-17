@@ -117,7 +117,7 @@ The tool runs efficiently and delivers clear feedback on code violations. Users 
 # Article 2
 
 ## eSim: An Open-Source EDA Tool for Education
-[paper](PDFS/2024/2_eSim_An_Open_Source_EDA_Tool.pdf)
+[paper](PDFs/2024/2_eSim_An_Open_Source_EDA_Tool.pdf)
 [presentation](Videos/2024/2_eSim_An_Open_Source_EDA_Tool.mp4)
 
 ### Abstract
