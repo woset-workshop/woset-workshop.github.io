@@ -224,7 +224,7 @@ The full proceedings are [here](https://woset-workshop.github.io/WOSET2024.html)
 <tr>
 <td>11:30 AM</td>
 <td>20</td>
-<td>OpenROAD Update</td>
+<td><a href="https://woset-workshop.github.io/PDFs/2024/Liberty_OpenROAD_WOSET2024.pdf">OpenROAD Update</a></td>
 <td>Matt Liberty, Precision Innovations</td>
 </tr>
 
